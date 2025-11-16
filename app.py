@@ -25,28 +25,36 @@ input[type="text"] { font-size: 1.15rem; padding: 10px; }
 """, unsafe_allow_html=True)
 
 # ----------------------------------------
-# HEADER
+# HEADER (UPDATED — FULL WIDTH WRAPPING)
 # ----------------------------------------
-st.title("🗳️ கோயம்புத்தூர் மாவட்ட வாக்காளர் தேடல்")
-st.subheader("🔍 தமிழ் வாக்காளர் விவரம் (Tamil Voter Search)")
+st.markdown(
+    """
+    <h2 style='width:100%; text-align:center; font-size:1.6rem; white-space:normal; line-height:2.2rem;'>
+        🗳️ கோயம்புத்தூர் மாவட்ட வாக்காளர் விவரம் - 2002
+    </h2>
+    """,
+    unsafe_allow_html=True
+)
 
 # ----------------------------------------
-# Constituency → PARQUET filename map
+# FILE MAP WITH CORRECT TAMIL SPELLINGS
 # ----------------------------------------
 FILE_MAP = {
-    "101 - மெட்டுப்பாளையம் (Mettupalayam)": "AC_101_Mettupalayam.parquet",
-    "103 - தோண்டாமுத்தூர் (Thondamuthur)": "AC_103_Thondamuthur.parquet",
-    "104 - சிங்கனல்லூர் (Singanallur)": "AC_104_Singanallur.parquet",
+    "101 - மேட்டுப்பாளையம் (Mettupalayam)": "AC_101_Mettupalayam.parquet",
+    "103 - தொண்டாமுத்தூர் (Thondamuthur)": "AC_103_Thondamuthur.parquet",
+    "104 - சிங்காநல்லூர் (Singanallur)": "AC_104_Singanallur.parquet",
     "105 - கோயம்புத்தூர் மேற்கு (West)": "AC_105_Coimbatore(West).parquet",
     "106 - கோயம்புத்தூர் கிழக்கு (East)": "AC_106_Coimbatore(East).parquet",
     "107 - பேரூர் (Perur)": "AC_107_Perur.parquet",
+    "108 - கிணத்துக்கடவு (Kinathukadavu)": "AC_108_Kinathukadavu.parquet",
+    "109 - பொள்ளாச்சி (Pollachi)": "AC_109_Pollachi.parquet",
     "110 - வால்பாறை (Valparai)": "AC_110_Valparai.parquet",
     "114 - பொங்கலூர் (Pongalur)": "AC_114_Pongalur.parquet",
     "115 - பல்லடம் (Palladam)": "AC_115_Palladam.parquet",
 }
 
 # ----------------------------------------
-# PRELOAD ALL PARQUET FILES (SILENT LOAD)
+# PRELOAD ALL PARQUET FILES (FAST)
 # ----------------------------------------
 @st.cache_resource
 def load_all_parquet():
@@ -90,12 +98,19 @@ if df is None:
 st.success(f"📌 {ac} — {len(df)} வரிசைகள் கிடைத்தன.")
 
 # ----------------------------------------
-# INPUT FIELDS — Tamil
+# INPUT FIELDS — Tamil (Correct Labels)
 # ----------------------------------------
 st.markdown("### 📝 விவரங்களை உள்ளிடவும் (Enter Details)")
 
-name_input = st.text_input("வாக்காளர் பெயர் (FM_NAME_V2)", placeholder="உதா: முருகன்")
-rname_input = st.text_input("உறவினர் பெயர் (RLN_FM_NM_V2)", placeholder="உதா: மதியழகன்")
+name_input = st.text_input(
+    "வாக்காளர் பெயர் (Voter's Name) – தமிழ் மட்டும் (Tamil Only)",
+    placeholder="உதா: முருகன்"
+)
+
+rname_input = st.text_input(
+    "தந்தை / கணவர் பெயர் (Father's / Husband's Name) – தமிழ் மட்டும் (Tamil Only)",
+    placeholder="உதா: மதியழகன்"
+)
 
 # ----------------------------------------
 # CLEAN INPUT
@@ -104,7 +119,7 @@ def clean(x):
     return " ".join(x.split()).strip()
 
 # ----------------------------------------
-# SEARCH
+# SEARCH FUNCTIONALITY
 # ----------------------------------------
 if st.button("🔍 தேடு (Search)"):
 
