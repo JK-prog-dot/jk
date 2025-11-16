@@ -25,11 +25,13 @@ input[type="text"] { font-size: 1.15rem; padding: 10px; }
 """, unsafe_allow_html=True)
 
 # ----------------------------------------
-# HEADER (UPDATED — FULL WIDTH WRAPPING)
+# HEADER (WITH EXTRA SPACE)
 # ----------------------------------------
 st.markdown(
     """
-    <h2 style='width:100%; text-align:center; font-size:1.6rem; white-space:normal; line-height:2.2rem;'>
+    <div style='height:25px;'></div>
+    <h2 style='width:100%; text-align:center; font-size:1.6rem;
+               white-space:normal; line-height:2.2rem; margin-top:10px;'>
         🗳️ கோயம்புத்தூர் மாவட்ட வாக்காளர் விவரம் - 2002
     </h2>
     """,
@@ -37,7 +39,7 @@ st.markdown(
 )
 
 # ----------------------------------------
-# FILE MAP WITH CORRECT TAMIL SPELLINGS
+# FILE MAP WITH TAMIL SPELLINGS
 # ----------------------------------------
 FILE_MAP = {
     "101 - மேட்டுப்பாளையம் (Mettupalayam)": "AC_101_Mettupalayam.parquet",
@@ -54,7 +56,7 @@ FILE_MAP = {
 }
 
 # ----------------------------------------
-# PRELOAD ALL PARQUET FILES (FAST)
+# PRELOAD PARQUET FILES
 # ----------------------------------------
 @st.cache_resource
 def load_all_parquet():
@@ -77,7 +79,7 @@ def load_all_parquet():
 DATA = load_all_parquet()
 
 # ----------------------------------------
-# SORT CONSTITUENCIES ASCENDING BY NUMBER
+# SORT CONSTITUENCIES
 # ----------------------------------------
 sorted_keys = sorted(FILE_MAP.keys(), key=lambda x: int(x.split()[0]))
 
@@ -98,7 +100,7 @@ if df is None:
 st.success(f"📌 {ac} — {len(df)} வரிசைகள் கிடைத்தன.")
 
 # ----------------------------------------
-# INPUT FIELDS — Tamil (Correct Labels)
+# INPUT FIELDS
 # ----------------------------------------
 st.markdown("### 📝 விவரங்களை உள்ளிடவும் (Enter Details)")
 
@@ -119,7 +121,7 @@ def clean(x):
     return " ".join(x.split()).strip()
 
 # ----------------------------------------
-# SEARCH FUNCTIONALITY
+# SEARCH
 # ----------------------------------------
 if st.button("🔍 தேடு (Search)"):
 
