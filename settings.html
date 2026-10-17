@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Reminder Buddy</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #141729; color: #e8eaf6; font-family: 'Segoe UI', system-ui, sans-serif; padding: 24px; }
+  h1 { margin: 0 0 4px; font-size: 22px; }
+  h2 { font-size: 15px; margin: 0 0 12px; color: #a8f0c6; text-transform: uppercase; letter-spacing: .06em; }
+  .sub { color: #8b90b3; margin-bottom: 20px; font-size: 13px; }
+  .card { background: #1d2140; border: 1px solid #2c3160; border-radius: 14px; padding: 18px; margin-bottom: 18px; }
+  label { font-size: 13px; color: #b8bcdc; display: block; margin-bottom: 4px; }
+  input[type=text], input[type=number] { background: #12152b; border: 1px solid #343a70; color: #fff; padding: 8px 10px; border-radius: 8px; font-size: 14px; }
+  button { background: #a8f0c6; color: #10201a; border: 0; border-radius: 8px; padding: 8px 14px; font-weight: 700; cursor: pointer; font-size: 13px; }
+  button.ghost { background: #2c3160; color: #e8eaf6; }
+  button.danger { background: #5a2434; color: #ffd6df; }
+  .row { display: flex; gap: 12px; align-items: end; flex-wrap: wrap; }
+  .chars { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 14px; }
+  .char { width: 110px; border: 2px solid #2c3160; border-radius: 12px; padding: 8px; text-align: center; cursor: pointer; background: #12152b; }
+  .char.sel { border-color: #a8f0c6; }
+  .char img, .char .vid { width: 100%; height: 110px; object-fit: contain; }
+  .char .vid { display: flex; align-items: center; justify-content: center; font-size: 44px; }
+  .char small { display: block; margin-top: 4px; color: #b8bcdc; font-size: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .rem { display: grid; grid-template-columns: 28px 50px 1fr 90px 150px 28px; gap: 8px; align-items: center; margin-bottom: 8px; }
+  .rem input[type=text] { width: 100%; }
+  .editor { display: none; margin-top: 14px; }
+  .editor.on { display: block; }
+  .stage { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 10px; }
+  canvas { max-width: 300px; max-height: 360px; border: 1px dashed #343a70; border-radius: 10px;
+    background: repeating-conic-gradient(#222648 0% 25%, #191c36 0% 50%) 50% / 16px 16px; }
+  input[type=range] { width: 220px; }
+  .ctl { margin-bottom: 10px; }
+  .chk { display: flex; align-items: center; gap: 8px; font-size: 13px; color: #e8eaf6; margin-bottom: 8px; }
+  .hint { font-size: 12px; color: #8b90b3; margin-top: 6px; }
+</style>
+</head>
+<body>
+<h1>Reminder Buddy</h1>
+<div class="sub">Your character, your reminders. Changes are saved when you press Save.</div>
+
+<div class="card">
+  <h2>Your name</h2>
+  <div class="row">
+    <div><label>Greeting name</label><input type="text" id="name" placeholder="Your name" style="width:240px"></div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Character</h2>
+  <div class="row">
+    <button id="addBtn">Add photo or video</button>
+    <input type="file" id="file" accept="image/*,video/mp4,video/webm,video/ogg" style="display:none">
+    <span class="hint">Photo: it is turned into a doodle, so your original photo is never shown. Video: a short clip (up to 10 seconds, under 25 MB) that plays in a loop.</span>
+  </div>
+
+  <div class="editor" id="editor">
+    <div class="row" style="margin-top:6px">
+      <div><label>Character name</label><input type="text" id="charName" placeholder="e.g. Office buddy" style="width:220px"></div>
+    </div>
+    <div class="stage">
+      <canvas id="cv"></canvas>
+      <div>
+        <div class="ctl">
+          <label>Background removal strength: <span id="tolVal">40</span></label>
+          <input type="range" id="tol" min="5" max="120" value="40">
+          <div class="hint">Click the canvas on the background colour you want removed, then adjust the strength. Works best with a plain background.</div>
+        </div>
+        <div class="chk"><input type="checkbox" id="doodleOn" checked><label for="doodleOn" style="margin:0;color:#e8eaf6">Doodle style (cartoon look with outlines)</label></div>
+        <div class="ctl">
+          <label>Shading levels: <span id="lvVal">5</span> (fewer = more cartoon)</label>
+          <input type="range" id="lv" min="2" max="8" value="5">
+        </div>
+        <div class="ctl">
+          <label>Outline strength: <span id="lnVal">55</span></label>
+          <input type="range" id="ln" min="0" max="100" value="55">
+        </div>
+        <div class="chk"><input type="checkbox" id="walkOn" checked><label for="walkOn" style="margin:0;color:#e8eaf6">Walk across the screen (turn off if your video already moves)</label></div>
+        <div class="row" style="margin-top:12px">
+          <button class="ghost" id="resetImg">Reset background</button>
+          <button id="saveChar">Save character</button>
+          <button class="ghost" id="cancelChar">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="chars" id="chars"></div>
+  <div class="row" style="margin-top:16px">
+    <div>
+      <label>Walking animation (plays while the character crosses the screen)</label>
+      <select id="walkVideo" style="background:#12152b;border:1px solid #343a70;color:#fff;padding:8px;border-radius:8px;font-size:14px;min-width:260px"></select>
+    </div>
+    <div>
+      <label>Walking speed: <span id="wsVal">70</span>% (lower = slower steps)</label>
+      <input type="range" id="walkSpeed" min="30" max="120" value="70">
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Reminders</h2>
+  <div id="rems"></div>
+  <div class="row" style="margin-top:10px">
+    <button class="ghost" id="addRem">Add reminder</button>
+  </div>
+  <div class="row" style="margin-top:16px">
+    <div><label>"Remind me later" snooze (minutes)</label><input type="number" id="later" min="1" max="120" style="width:120px"></div>
+    <div><label>Auto-hide after (seconds)</label><input type="number" id="hide" min="10" max="300" style="width:120px"></div>
+  </div>
+  <div class="row" style="margin-top:12px">
+    <div style="flex:1;min-width:260px"><label>Reply after Yes</label><input type="text" id="yesText" style="width:100%"></div>
+    <div style="flex:1;min-width:260px"><label>Reply after Remind me later</label><input type="text" id="laterText" style="width:100%"></div>
+  </div>
+  <div class="hint">Replies can use {name}, {count} (how many times you pressed Yes today) and {minutes}. In a reminder message, separate several messages with || and a random one is shown each time.</div>
+  <div class="hint">Each row: on/off, emoji, message, interval in minutes, character for this reminder.</div>
+</div>
+
+<div class="row">
+  <button id="save">Save</button>
+  <button class="ghost" id="test">Save and test reminder</button>
+</div>
+
+<script src="fx.js"></script>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const cv = $('cv');
+  const ctx = cv.getContext('2d', { willReadFrequently: true });
+  const raw = document.createElement('canvas');
+  const rawCtx = raw.getContext('2d', { willReadFrequently: true });
+  const MAX_H = 480;
+
+  let cfg = null;
+  let images = {};
+  let mode = null;          // 'image' or 'video'
+  let original = null;      // ImageData of the chosen photo
+  let bgColor = null;
+  let vidEl = null, vidUrl = null, vidFile = null, rafId = null;
+
+  async function load() {
+    cfg = await window.buddy.getConfig();
+    images = cfg.characterImages || {};
+    $('name').value = cfg.name || '';
+    $('later').value = cfg.laterMinutes;
+    $('hide').value = cfg.autoHideSeconds;
+    $('yesText').value = cfg.yesText || '';
+    $('laterText').value = cfg.laterText || '';
+    $('walkSpeed').value = cfg.walkSpeed || 70;
+    $('wsVal').textContent = $('walkSpeed').value;
+    renderChars();
+    renderRems();
+  }
+
+  $('walkSpeed').oninput = () => { $('wsVal').textContent = $('walkSpeed').value; };
+
+  function renderWalkSelect() {
+    const sel = $('walkVideo');
+    const vids = cfg.characters.filter(c => c.type === 'video');
+    sel.innerHTML = '<option value="">None (slide in with a bounce)</option>' +
+      vids.map(c => '<option value="' + c.id + '">' + c.name.replace(/</g, '&lt;') + '</option>').join('');
+    sel.value = cfg.walkVideoId && vids.some(c => c.id === cfg.walkVideoId) ? cfg.walkVideoId : '';
+    sel.onchange = () => { cfg.walkVideoId = sel.value || null; };
+  }
+
+  function renderChars() {
+    renderWalkSelect();
+    const box = $('chars');
+    box.innerHTML = '';
+    if (!cfg.characters.length) {
+      box.innerHTML = '<div class="hint">No characters yet. Add a photo or video to start.</div>';
+      return;
+    }
+    for (const c of cfg.characters) {
+      const d = document.createElement('div');
+      d.className = 'char' + (c.id === cfg.characterId ? ' sel' : '');
+      d.innerHTML = (c.type === 'video' ? '<div class="vid">🎬</div>' : '<img>') +
+        '<small></small><button class="danger" style="margin-top:6px;padding:4px 8px;font-size:11px">Delete</button>';
+      const im = d.querySelector('img');
+      if (im) im.src = images[c.id] || '';
+      d.querySelector('small').textContent = c.name;
+      d.onclick = () => { cfg.characterId = c.id; renderChars(); };
+      d.querySelector('button').onclick = async (e) => {
+        e.stopPropagation();
+        const snap = snapshot();
+        await window.buddy.deleteCharacter(c.id);
+        await load();
+        restore(snap);
+      };
+      box.appendChild(d);
+    }
+  }
+
+  function renderRems() {
+    const box = $('rems');
+    box.innerHTML = '';
+    cfg.reminders.forEach((r, i) => {
+      const row = document.createElement('div');
+      row.className = 'rem';
+      row.innerHTML = '<input type="checkbox"><input type="text" class="em"><input type="text" class="tx"><input type="number" class="iv" min="1"><select class="ch"></select>';
+      const sel = row.children[4];
+      sel.style.cssText = 'background:#12152b;border:1px solid #343a70;color:#fff;padding:7px;border-radius:8px;font-size:13px;width:100%';
+      sel.innerHTML = '<option value="">Default character</option>' +
+        cfg.characters.map(c => '<option value="' + c.id + '">' + c.name.replace(/</g, '&lt;') + '</option>').join('');
+      sel.value = r.characterId && cfg.characters.some(c => c.id === r.characterId) ? r.characterId : '';
+      sel.onchange = (e) => { r.characterId = e.target.value || null; };
+      const del = document.createElement('button');
+      del.className = 'danger'; del.textContent = 'x'; del.style.padding = '4px 8px';
+      row.children[0].checked = r.enabled;
+      row.children[1].value = r.emoji;
+      row.children[2].value = r.text;
+      row.children[3].value = r.intervalMin;
+      row.children[0].onchange = (e) => r.enabled = e.target.checked;
+      row.children[1].oninput = (e) => r.emoji = e.target.value;
+      row.children[2].oninput = (e) => r.text = e.target.value;
+      row.children[3].oninput = (e) => r.intervalMin = Math.max(1, parseInt(e.target.value) || 1);
+      del.onclick = () => { cfg.reminders.splice(i, 1); renderRems(); };
+      row.appendChild(del);
+      const wrap = document.createElement('div');
+      wrap.appendChild(row);
+      const det = document.createElement('details');
+      det.style.cssText = 'margin:-2px 0 12px 78px';
+      det.innerHTML = '<summary style="cursor:pointer;font-size:12px;color:#8b90b3">Replies for this reminder (optional)</summary>' +
+        '<div style="display:flex;gap:8px;margin-top:6px"><input type="text" class="yt" placeholder="After Yes (empty = default reply)" style="flex:1">' +
+        '<input type="text" class="lt" placeholder="After Remind me later" style="flex:1"></div>';
+      det.querySelector('.yt').value = r.yesText || '';
+      det.querySelector('.lt').value = r.laterText || '';
+      det.querySelector('.yt').oninput = (e) => r.yesText = e.target.value;
+      det.querySelector('.lt').oninput = (e) => r.laterText = e.target.value;
+      wrap.appendChild(det);
+      box.appendChild(wrap);
+    });
+  }
+
+  // Keep unsaved form values when the character list is reloaded.
+  function snapshot() {
+    return { name: $('name').value, later: $('later').value, hide: $('hide').value, yes: $('yesText').value, laterText: $('laterText').value, reminders: cfg.reminders };
+  }
+  function restore(s) {
+    $('name').value = s.name; $('later').value = s.later; $('hide').value = s.hide;
+    $('yesText').value = s.yes; $('laterText').value = s.laterText;
+    cfg.reminders = s.reminders;
+    renderRems();
+  }
+
+  $('addRem').onclick = () => {
+    cfg.reminders.push({ id: 'r' + Date.now(), emoji: '⏰', text: 'New reminder', intervalMin: 60, enabled: true });
+    renderRems();
+  };
+
+  async function persist() {
+    await window.buddy.saveConfig({
+      name: $('name').value.trim(),
+      characterId: cfg.characterId,
+      walkVideoId: cfg.walkVideoId || null,
+      walkSpeed: Math.max(30, Math.min(120, parseInt($('walkSpeed').value) || 70)),
+      reminders: cfg.reminders,
+      laterMinutes: Math.max(1, parseInt($('later').value) || 10),
+      autoHideSeconds: Math.max(10, parseInt($('hide').value) || 45),
+      yesText: $('yesText').value,
+      laterText: $('laterText').value
+    });
+  }
+
+  $('save').onclick = async () => { await persist(); alert('Saved'); };
+  $('test').onclick = async () => { await persist(); await window.buddy.testReminder(); };
+
+  // ---------- Photo / video editor ----------
+  function fxOpts() {
+    return { on: $('doodleOn').checked, levels: +$('lv').value, line: +$('ln').value };
+  }
+
+  function floodRemove(data, w, h, color, tol) {
+    const visited = new Uint8Array(w * h);
+    const stack = [];
+    const close = (i) => {
+      const dr = data[i] - color[0], dg = data[i + 1] - color[1], db = data[i + 2] - color[2];
+      return Math.sqrt(dr * dr + dg * dg + db * db) <= tol;
+    };
+    for (let x = 0; x < w; x++) { stack.push(x, 0, x, h - 1); }
+    for (let y = 0; y < h; y++) { stack.push(0, y, w - 1, y); }
+    while (stack.length) {
+      const y = stack.pop(), x = stack.pop();
+      if (x < 0 || y < 0 || x >= w || y >= h) continue;
+      const p = y * w + x;
+      if (visited[p]) continue;
+      visited[p] = 1;
+      const i = p * 4;
+      if (!close(i)) continue;
+      data[i + 3] = 0;
+      stack.push(x + 1, y, x - 1, y, x, y + 1, x, y - 1);
+    }
+  }
+
+  function renderImage() {
+    if (mode !== 'image' || !original) return;
+    const w = cv.width, h = cv.height;
+    const data = new Uint8ClampedArray(original.data);
+    if (bgColor) floodRemove(data, w, h, bgColor, +$('tol').value);
+    const img = new ImageData(data, w, h);
+    const o = fxOpts();
+    if (o.on) BuddyFx.doodle(img, w, h, o);
+    ctx.putImageData(img, 0, 0);
+  }
+
+  function videoLoop() {
+    if (mode !== 'video') return;
+    if (vidEl.readyState >= 2) {
+      rawCtx.clearRect(0, 0, raw.width, raw.height);
+      rawCtx.drawImage(vidEl, 0, 0, raw.width, raw.height);
+      const img = rawCtx.getImageData(0, 0, raw.width, raw.height);
+      if (bgColor) BuddyFx.key(img.data, bgColor, +$('tol').value);
+      const o = fxOpts();
+      if (o.on) BuddyFx.doodle(img, img.width, img.height, o);
+      ctx.putImageData(img, 0, 0);
+    }
+    rafId = requestAnimationFrame(videoLoop);
+  }
+
+  function closeEditor() {
+    if (rafId) cancelAnimationFrame(rafId);
+    rafId = null;
+    if (vidEl) { vidEl.pause(); vidEl.removeAttribute('src'); }
+    if (vidUrl) URL.revokeObjectURL(vidUrl);
+    vidEl = null; vidUrl = null; vidFile = null;
+    mode = null; original = null; bgColor = null;
+    $('editor').classList.remove('on');
+  }
+
+  $('addBtn').onclick = () => $('file').click();
+  $('file').onchange = (e) => {
+    const f = e.target.files[0];
+    e.target.value = '';
+    if (!f) return;
+    closeEditor();
+    $('charName').value = f.name.replace(/\.[^.]+$/, '');
+
+    if (f.type.startsWith('video/')) {
+      if (f.size > 25 * 1024 * 1024) {
+        alert('Please choose a video under 25 MB. A short clip of up to 10 seconds works best.');
+        return;
+      }
+      mode = 'video';
+      vidFile = f;
+      vidUrl = URL.createObjectURL(f);
+      vidEl = document.createElement('video');
+      vidEl.muted = true; vidEl.loop = true; vidEl.playsInline = true;
+      vidEl.onloadeddata = () => {
+        const s = Math.min(1, MAX_H / vidEl.videoHeight);
+        raw.width = cv.width = Math.round(vidEl.videoWidth * s);
+        raw.height = cv.height = Math.round(vidEl.videoHeight * s);
+        $('doodleOn').checked = false;   // a video is often already a cartoon
+        $('walkOn').checked = false;     // a video usually has its own movement
+        $('editor').classList.add('on');
+        vidEl.play();
+        videoLoop();
+      };
+      vidEl.onerror = () => alert('This video cannot be played. Please use an MP4 (H.264) or WebM file.');
+      vidEl.src = vidUrl;
+      return;
+    }
+
+    const img = new Image();
+    img.onload = () => {
+      const scale = Math.min(1, MAX_H / img.height);
+      cv.width = Math.round(img.width * scale);
+      cv.height = Math.round(img.height * scale);
+      ctx.clearRect(0, 0, cv.width, cv.height);
+      ctx.drawImage(img, 0, 0, cv.width, cv.height);
+      original = ctx.getImageData(0, 0, cv.width, cv.height);
+      mode = 'image';
+      $('doodleOn').checked = true;
+      $('walkOn').checked = true;
+      $('editor').classList.add('on');
+      renderImage();
+      URL.revokeObjectURL(img.src);
+    };
+    img.src = URL.createObjectURL(f);
+  };
+
+  cv.onclick = (e) => {
+    if (!mode) return;
+    const rect = cv.getBoundingClientRect();
+    const x = Math.min(cv.width - 1, Math.max(0, Math.floor((e.clientX - rect.left) * (cv.width / rect.width))));
+    const y = Math.min(cv.height - 1, Math.max(0, Math.floor((e.clientY - rect.top) * (cv.height / rect.height))));
+    if (mode === 'image') {
+      const i = (y * cv.width + x) * 4;
+      bgColor = [original.data[i], original.data[i + 1], original.data[i + 2]];
+      renderImage();
+    } else {
+      const p = rawCtx.getImageData(x, y, 1, 1).data;
+      bgColor = [p[0], p[1], p[2]];
+    }
+  };
+
+  const bind = (id, labelId) => {
+    $(id).oninput = () => { if (labelId) $(labelId).textContent = $(id).value; renderImage(); };
+  };
+  bind('tol', 'tolVal');
+  bind('lv', 'lvVal');
+  bind('ln', 'lnVal');
+  $('doodleOn').onchange = renderImage;
+
+  $('resetImg').onclick = () => { bgColor = null; renderImage(); };
+  $('cancelChar').onclick = closeEditor;
+
+  $('saveChar').onclick = async () => {
+    if (!mode) return;
+    const name = $('charName').value.trim() || 'My character';
+    const walk = $('walkOn').checked;
+    if (mode === 'image') {
+      // Only the processed doodle image is stored, never the original photo.
+      await window.buddy.addCharacter({ type: 'image', name, dataUrl: cv.toDataURL('image/png'), walk });
+    } else {
+      const bytes = await vidFile.arrayBuffer();
+      const ext = (vidFile.name.split('.').pop() || 'mp4').toLowerCase();
+      await window.buddy.addCharacter({
+        type: 'video', name, bytes, ext, key: bgColor, tol: +$('tol').value, doodle: fxOpts(), walk
+      });
+    }
+    const snap = snapshot();
+    closeEditor();
+    await load();
+    restore(snap);
+  };
+
+  load();
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; height: 100%; background: #141729; color: #eef; font-family: 'Segoe UI', system-ui, sans-serif; overflow: hidden; border: 2px solid #a8f0c6; box-sizing: border-box; }
+  .box { padding: 10px 12px; }
+  .t { font-size: 13px; line-height: 1.35; max-height: 36px; overflow: hidden; }
+  button { margin-top: 6px; padding: 6px; border-radius: 8px; font-weight: 700; cursor: pointer; background: transparent; }
+  #stop { width: 100%; border: 2px solid #ff8a8a; color: #ff8a8a; }
+  #ask { display: none; margin-top: 8px; }
+  #cmd { font-family: Consolas, monospace; font-size: 12px; background: #0d1020; border-radius: 6px; padding: 6px; max-height: 60px; overflow: auto; word-break: break-all; }
+  .two { display: flex; gap: 8px; }
+  .two button { flex: 1; }
+  #allow { border: 2px solid #a8f0c6; background: #a8f0c6; color: #10201a; }
+  #deny { border: 2px solid #ff8a8a; color: #ff8a8a; }
+</style>
+</head>
+<body>
+<div class="box">
+  <div class="t" id="t">Buddy is working...</div>
+  <div id="ask">
+    <div style="font-size:12px;color:#ffd27a">Buddy wants to run this command. Allow it?</div>
+    <div id="cmd"></div>
+    <div class="two"><button id="allow">Allow</button><button id="deny">Deny</button></div>
+  </div>
+  <button id="stop">Stop (Ctrl+Alt+X)</button>
+</div>
+<script>
+  const $ = (id) => document.getElementById(id);
+  window.buddy.onAgentStatus((m) => {
+    if (m.ask) { $('ask').style.display = 'block'; $('cmd').textContent = m.ask; $('t').textContent = 'Waiting for you...'; }
+    else { $('ask').style.display = 'none'; $('t').textContent = m.text || ''; }
+  });
+  $('allow').onclick = () => { $('ask').style.display = 'none'; window.buddy.agentApprove(true); };
+  $('deny').onclick = () => { $('ask').style.display = 'none'; window.buddy.agentApprove(false); };
+  $('stop').onclick = () => window.buddy.agentStop();
+</script>
+</body>
+</html>

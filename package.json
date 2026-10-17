@@ -1,0 +1,38 @@
+{
+  "name": "reminder-buddy",
+  "version": "0.1.0",
+  "description": "A friendly desktop reminder companion with your own character photo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.tanfinet.reminderbuddy",
+    "productName": "Reminder Buddy",
+    "files": [
+      "main.js",
+      "preload.js",
+      "fx.js",
+      "commands.js",
+      "agent.js",
+      "security.js",
+      "agent-input.ps1",
+      "*.html",
+      "assets/**"
+    ],
+    "win": {
+      "target": "nsis",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    }
+  }
+}

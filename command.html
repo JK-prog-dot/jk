@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; height: 100%; background: #141729; color: #eef; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .box { padding: 16px; }
+  h1 { font-size: 15px; margin: 0 0 10px; color: #a8f0c6; }
+  input { width: 100%; box-sizing: border-box; padding: 11px 12px; font-size: 16px; border-radius: 10px; border: 2px solid #a8f0c6; background: #0d1020; color: #fff; outline: none; }
+  .out { margin-top: 12px; min-height: 22px; font-size: 14px; line-height: 1.4; }
+  .row { display: none; gap: 8px; margin-top: 10px; align-items: center; }
+  .row input { font-size: 14px; padding: 8px 10px; }
+  button { flex: 1; padding: 8px; border-radius: 8px; border: 2px solid #a8f0c6; background: transparent; color: #a8f0c6; font-weight: 700; cursor: pointer; }
+  button.go { background: #a8f0c6; color: #10201a; }
+  .hint { margin-top: 12px; font-size: 12px; color: #8a90b5; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>Ask Buddy <span id="lock" style="font-weight:400;color:#8a90b5"></span></h1>
+  <input id="q" placeholder="Type a command and press Enter" autofocus>
+  <div class="out" id="out"></div>
+  <div class="row" id="pinrow"><input id="pin" type="password" inputmode="numeric" maxlength="12" placeholder="PIN"><button class="go" id="pinok" style="flex:0 0 90px">OK</button></div>
+  <div class="row" id="keyrow"><input id="key" type="password" placeholder="Paste API key (sk-ant-...)"><button class="go" id="savekey" style="flex:0 0 70px">Save</button></div>
+  <div class="row" id="row"><input id="cpin" type="password" inputmode="numeric" maxlength="12" placeholder="PIN" style="flex:0 0 110px"><button class="go" id="ok">Yes, do it</button><button id="no">Cancel</button></div>
+  <div class="hint">
+    open youtube &nbsp;•&nbsp; search best biryani near me &nbsp;•&nbsp; search cats on youtube<br>
+    close youtube &nbsp;•&nbsp; close chrome &nbsp;•&nbsp; open documents / downloads / desktop<br>
+    clear temp files &nbsp;•&nbsp; empty recycle bin &nbsp;•&nbsp; clean downloads &nbsp;•&nbsp; delete invoice from downloads<br>
+    Anything else, for example: do open notepad and write a shopping list<br>
+    Buddy then uses the mouse and keyboard itself. Stop it with Ctrl+Alt+X. Type "lock" to lock Buddy.<br>
+    Tamil works too: யூடியூப் ஓபன் பண்ணு &nbsp;•&nbsp; யூடியூப்பை மூடு &nbsp;•&nbsp; டாக்குமெண்ட்ஸ் திற &nbsp;•&nbsp; பிரியாணி கடை தேடு<br>
+    Tip: press Win+H to speak instead of typing.
+  </div>
+</div>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const q = $('q'), out = $('out'), row = $('row'), keyrow = $('keyrow'), pinrow = $('pinrow');
+  let pinMode = null, lastText = '';
+  function show(t) { out.textContent = t || ''; }
+  function hideRows() { row.style.display = keyrow.style.display = pinrow.style.display = 'none'; }
+  function res(r) {
+    hideRows();
+    if (r.needPin) {
+      pinMode = r.needPin;
+      pinrow.style.display = 'flex';
+      $('pin').placeholder = pinMode === 'set' ? 'Choose a PIN (4 to 12 digits)' : 'PIN';
+      $('pin').focus();
+    } else if (r.needKey) {
+      keyrow.style.display = 'flex';
+    } else if (r.confirm) {
+      row.style.display = 'flex';
+      $('cpin').value = '';
+      $('cpin').style.display = r.needPinConfirm ? '' : 'none';
+      if (r.needPinConfirm) $('cpin').focus();
+    }
+    show(r.confirm || r.say);
+  }
+  async function run() {
+    if (!q.value.trim()) return;
+    lastText = q.value;
+    hideRows();
+    show('Working...');
+    res(await window.buddy.cmdRun(lastText));
+  }
+  q.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') window.buddy.cmdClose();
+    else if (e.key === 'Enter') run();
+  });
+  async function submitPin() {
+    const pin = $('pin').value;
+    $('pin').value = '';
+    const r = pinMode === 'set' ? await window.buddy.setPin(pin) : await window.buddy.unlock(pin);
+    if (r.ok) { hideRows(); show(r.say); if (lastText) { q.value = lastText; run(); } else q.focus(); }
+    else show(r.say);
+  }
+  $('pinok').onclick = submitPin;
+  $('pin').addEventListener('keydown', (e) => { if (e.key === 'Enter') submitPin(); });
+  $('savekey').onclick = async () => {
+    const r = await window.buddy.setKey($('key').value);
+    $('key').value = '';
+    if (/saved/.test(r.say)) keyrow.style.display = 'none';
+    show(r.say);
+  };
+  async function confirmIt() {
+    const pin = $('cpin').value;
+    $('cpin').value = '';
+    show('Working...');
+    res(await window.buddy.cmdConfirm(pin));
+  }
+  $('ok').onclick = confirmIt;
+  $('cpin').addEventListener('keydown', (e) => { if (e.key === 'Enter') confirmIt(); });
+  $('no').onclick = () => { window.buddy.cmdCancel(); hideRows(); show('Cancelled.'); q.select(); };
+  window.buddy.onCmdFocus(() => { q.value = ''; lastText = ''; show(''); hideRows(); q.focus(); });
+</script>
+</body>
+</html>
