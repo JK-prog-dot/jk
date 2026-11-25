@@ -1,0 +1,41 @@
+{
+  "pincodes": {
+    "title": "Pincodes",
+    "group": "Postal",
+    "description": "All India postal pincodes with state, district, blocks and LGD codes.",
+    "source": "India Post pincode directory, compiled in bilal-webdev/india-postal-pincode-dataset (GitHub)",
+    "license": "MIT",
+    "code_column": "pincode",
+    "name_column": "district",
+    "search_columns": ["pincode", "district", "blocks", "state"],
+    "filter_columns": ["state"]
+  },
+  "districts": {
+    "title": "Districts",
+    "group": "Administrative",
+    "description": "Districts of India with state and district LGD codes and number of pincodes.",
+    "source": "Derived from the pincode dataset (unique state, district and LGD codes)",
+    "license": "MIT (derived from the pincode dataset)",
+    "code_column": "district_lgd",
+    "name_column": "district",
+    "search_columns": ["district", "state", "district_lgd"],
+    "filter_columns": ["state"]
+  },
+  "bank_codes": {
+    "title": "Bank codes (IFSC)",
+    "group": "Banking",
+    "description": "IFSC bank codes (first 4 letters) with bank name, MICR and IIN, and payment support flags.",
+    "source": "Razorpay ifsc package 2.0.50 (bank list from RBI and NPCI public lists)",
+    "license": "MIT",
+    "code_column": "ifsc_prefix",
+    "name_column": "bank_name",
+    "search_columns": ["ifsc_prefix", "bank_name", "sample_ifsc", "micr_sample", "internal_code"],
+    "filter_columns": ["bank_type", "upi"]
+  },
+  "_upcoming": [
+    {"title": "Village panchayats", "group": "Local bodies", "reason": "No public list reachable yet. Needs the LGD / Census village directory for Tamil Nadu."},
+    {"title": "Town panchayats", "group": "Local bodies", "reason": "No public list reachable yet. Needs the Tamil Nadu urban local body list."},
+    {"title": "Municipalities", "group": "Local bodies", "reason": "No public list reachable yet. Needs the Tamil Nadu urban local body list."},
+    {"title": "Corporations", "group": "Local bodies", "reason": "No public list reachable yet. Needs the Tamil Nadu urban local body list."}
+  ]
+}

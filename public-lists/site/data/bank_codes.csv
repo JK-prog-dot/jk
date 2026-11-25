@@ -1,0 +1,1347 @@
+﻿ifsc_prefix,bank_name,internal_code,sample_ifsc,micr_sample,iin,bank_type,upi,ach_credit,ach_debit,nach_debit,apbs
+HDFC,Akhand Anand Co.op Bank,AACX,HDFC0CAACOB,395437002,607227,O-UCB,yes,yes,yes,no,yes
+HDFC,AB Bank,ABBL,HDFC0CABBLM,400240262,990312,Foreign,no,yes,no,no,no
+YESB,Aurangabad District Central Co-operative Bank,ABCX,YESB0AURDCC,431579002,508752,DCCB,no,yes,yes,no,yes
+YESB,Dr. Ambedkar Nagrik Sahakari Bank Mydt Gwalior,ABDX,YESB0ANBL01,474526002,,O-UCB,no,yes,yes,no,no
+,Andhra Bank Employees Co-operative Bank,ABEX,,500438001,,O-UCB,no,yes,yes,no,no
+ABHY,Abhyudaya Co-operative Bank,ABHY,ABHY0065001,400065001,607261,S-UCB,yes,yes,yes,no,yes
+SVCB,Abhinav Sahakari Bank,ABSB,SVCB0007002,400345000,607293,O-UCB,yes,yes,yes,no,yes
+HDFC,Abhinandan Urban Co-operative Bank Amravati,ABUX,HDFC0CMAN01,444885101,608061,O-UCB,no,yes,yes,no,yes
+HDFC,Assam Co-operative Apex Bank,ACAX,HDFC0CACABL,781117000,508729,SCB,no,yes,yes,no,yes
+HDFC,Adarsh Co-operative Bank,ACBX,HDFC0CADARS,395575002,508612,O-UCB,yes,yes,yes,no,yes
+IBKL,Ace Co-operative Bank,ACCX,IBKL0100ACB,400876002,607186,O-UCB,no,yes,yes,no,yes
+HDFC,Annasaheb Chougule Urban Co-operative Bank,ACKX,HDFC0CDACUB,416403002,607604,O-UCB,no,yes,yes,no,yes
+HDFC,Amarnath Co-operative Bank,ACOX,HDFC0CAMARN,380809001,990142,O-UCB,no,yes,yes,no,yes
+HDFC,Aryapuram Co-operative Urban Bank,ACUB,HDFC0CACUB9,533820000,607364,O-UCB,no,yes,yes,no,yes
+ICIC,Adarsh Co-operative Urban Bank,ACUX,ICIC00ADRSH,500229251,607253,O-UCB,yes,yes,yes,no,yes
+GSCB,Ahmedabad District Co-operative Bank,ADBX,GSCB0ADC001,380118000,607811,DCCB,yes,yes,yes,no,yes
+ADCC,Akola District Central Co-operative Bank,ADCC,ADCC0000001,444831002,607382,DCCB,yes,yes,yes,no,yes
+HDFC,Shri Adinath Co-operative Bank,ADCX,HDFC0CSACBL,416432201,607668,O-UCB,no,yes,yes,no,yes
+APBL,Adilabad District Co-operative Central Bank,ADDX,APBL0019001,504812502,607499,DCCB,no,yes,yes,no,yes
+HDFC,Agrasen Co-operative Urban Bank,AGCX,HDFC0CAUB01,500871002,607666,O-UCB,yes,yes,yes,no,yes
+ICIC,Agra District Co-operative Bank,AGDX,ICIC00AGDCB,282461000,607966,DCCB,no,yes,yes,no,yes
+KKBK,Agroha Co-operative Urban Bank,AGRX,KKBK0ACUB01,500860002,508812,O-UCB,no,yes,yes,no,no
+HDFC,Agrasen Nagari Sahakari Bank,AGSX,HDFC0CTANSB,444894002,607683,O-UCB,no,yes,no,no,yes
+UTIB,Agartala Co-operative Urban Bank,AGUX,UTIB0SACUB1,799807002,,O-UCB,no,yes,yes,no,no
+PUNB,Assam Gramin Vikash Bank,AGVX,PUNB0RRBAGB,781116002,607064,RRB,yes,yes,yes,no,yes
+ICIC,Ahmednagar District Central Co-operative Bank,AHMX,ICIC00ADCCB,414885001,608021,DCCB,no,yes,no,no,yes
+IBKL,Ahilyadevi Urban Co-operative Bank Solapur,AHUX,IBKL0478ADC,413024252,990177,O-UCB,no,yes,yes,no,no
+AIRP,Airtel Payments Bank,AIRP,AIRP00000SC,110753000,990288,PB,yes,yes,no,no,yes
+AKJB,Akola Janata Commercial Co-operative Bank,AJKB,AKJB0000001,440364002,608013,S-UCB,yes,yes,yes,no,yes
+RSCB,Ajmer Central Co-operative Bank,AJMX,RSCB0011099,305501000,508750,DCCB,no,yes,no,no,yes
+YESB,Ajantha Urban Co-operative Bank,AJNX,YESB0AUCB01,431532101,508643,O-UCB,yes,yes,yes,no,no
+HDFC,Ambajogai Peoples Co-operative Bank,AJPX,HDFC0CAPCBL,431871152,508506,O-UCB,yes,yes,yes,no,no
+ICIC,Ambarnath Jai-hind Co-operative Bank,AJSX,ICIC00AJHCB,411805002,607151,O-UCB,no,yes,yes,no,yes
+,Ajara Urban Co-operative Bank,AJUX,,400014251,,O-UCB,no,yes,yes,no,no
+UTIB,Akkamahadevi Mahila Sahakari Bank Niyamit,AKKB,UTIB0SAMMSB,590924002,,O-UCB,no,yes,no,no,no
+HDFC,Akola Merchant Co-operative Bank,AKMX,HDFC0CAMBLA,444893002,990209,O-UCB,no,yes,no,no,no
+YESB,Akola Urban Co-operative Bank,AKOX,YESB0AUBHO1,444330002,607795,S-UCB,no,yes,yes,no,yes
+HDFC,Alavi Co-operative Bank,ALAX,HDFC0CALAVI,390322002,990052,O-UCB,no,yes,yes,no,yes
+ICIC,Aligarh District Co-operative Bank,ALIX,ICIC00AZSBL,202803000,508740,DCCB,no,yes,yes,no,yes
+ALLA,Allahabad Bank,ALLA,ALLA0888888,700010001,607117,PSB,no,yes,yes,yes,yes
+ICIC,Allahabad District Co-operative Bank,ALLX,ICIC00ALDCB,211490002,990320,DCCB,no,yes,yes,no,yes
+RSCB,Alwar Central Co-operative Bank,ALWX,RSCB0012001,301802002,508767,O-UCB,no,yes,no,no,yes
+ICIC,Aman Sahakari Bank,AMAX,ICIC00AMSBL,416822201,508765,O-UCB,no,yes,yes,no,yes
+UTIB,Ambala Central Co-operative Bank,AMBX,UTIB0ACCB01,133804002,607746,DCCB,no,yes,no,no,yes
+AMCB,Ahmedabad Mercantile Co-operative Bank,AMCB,AMCB0RTGS4S,380066001,607148,S-UCB,yes,yes,yes,no,yes
+UTIB,Amritsar Central Co-operative Bank,AMCX,UTIB0SASR01,143333001,607624,O-UCB,no,yes,yes,no,yes
+HDFC,Adarsh Mahila Mercantile Co-operative Bank,AMMX,HDFC0CAMMCO,251805002,,O-UCB,no,yes,no,no,no
+HDFC,Astha Mahila Nagrik Sahakari Bank Maryadit,AMNX,HDFC0CAMNSB,462340002,,O-UCB,no,yes,yes,no,no
+GSCB,Amreli Jilla Madhyastha Sahakari Bank,AMRX,GSCB0AMR001,365801001,607973,DCCB,yes,yes,yes,no,yes
+IBKL,Annasaheb Magar Sahakari Bank,AMSB,IBKL0250A01,411164291,607453,O-UCB,no,yes,yes,no,no
+HDFC,Ambika Mahila Sahakari Bank,AMSX,HDFC0CAMSBA,414804002,990228,O-UCB,no,yes,yes,no,no
+IBKL,Amreli Nagarik Sahakari Bank,ANBX,IBKL0697ANS,365802001,,O-UCB,no,yes,no,no,no
+ANDB,Andhra Bank,ANDB,ANDB0TRESUY,500011001,607170,PSB,no,yes,yes,yes,yes
+,Andarsul Urban Co-operative Bank,ANDX,,422259253,,O-UCB,no,yes,yes,no,no
+HDFC,Ahmednagar Merchant's Co-operative Bank,ANMX,HDFC0CMBANK,414803001,607715,O-UCB,no,yes,yes,no,no
+HDFC,Andaman & Nicobar State Co-operative Bank,ANSX,HDFC0CANSCB,744656002,607370,SCB,no,yes,yes,no,yes
+HDFC,Anuradha Urban Co-operative Bank,ANUX,HDFC0CAUCBL,443886102,990227,O-UCB,no,yes,no,no,no
+APBL,Andhra Pradesh State Co-operative Bank,APBL,APBL0000001,500143002,607246,SCB,yes,yes,yes,no,yes
+UTIB,Alappuzha District Co-operative Bank,APCX,UTIB0SADC83,688810002,607842,DCCB,no,yes,yes,no,yes
+APGB,Andhra Pragathi Grameena Bank,APGB,APGB0000001,516703000,607121,RRB,yes,yes,yes,no,yes
+APGV,Andhra Pradesh Grameena Vikas Bank,APGX,APGV0000001,500806002,607198,RRB,no,yes,yes,no,yes
+HDFC,Ap Janata Co-operative Urban Bank,APJX,HDFC0CAPJBK,500234252,990165,O-UCB,no,yes,yes,no,yes
+APMC,A.P. Mahesh Co-operative Urban Bank,APMC,APMC0000001,500142001,607051,S-UCB,yes,yes,yes,no,yes
+UTIB,Ap Mahajan's Co-operative Urban Bank,APMX,UTIB0SAPM01,500015251,,O-UCB,no,yes,yes,no,no
+HDFC,Apani Sahakari Bank,APNX,HDFC0CAPANI,380420002,990084,O-UCB,no,yes,yes,no,yes
+,A.P. Raja Rajeswari Mahila Co-operative Urban Bank,APRR,,,608474,O-UCB,yes,yes,no,no,no
+SBIN,Arunachal Pradesh Rural Bank,APRX,SBIN0RRARGB,791818002,607216,RRB,yes,yes,yes,no,yes
+HDFC,P. D. Patilsaheb Sahakari Bank,APSX,HDFC0CPDPBK,415832352,607606,O-UCB,yes,yes,yes,no,yes
+YESB,Arunachal Pradesh State Co-operative Apex Bank,ARCX,YESB0ARCB01,791824002,608147,SCB,no,yes,no,no,yes
+ICIC,510 Army Base W/s Credit Co-operative Primary Bank,ARMX,ICIC00ABWCC,250184021,990134,O-UCB,no,yes,no,no,yes
+BKID,Gramin Bank of Aryavart,ARYX,BKID0ARYAGB,202448001,508509,RRB,no,yes,yes,no,yes
+ASBL,Apna Sahakari Bank,ASBL,ASBL0000001,400098002,607101,S-UCB,yes,yes,yes,no,yes
+SVCB,Ahmednagar Shahar Sahakari Bank Maryadit,ASBX,SVCB0008002,414802001,508596,O-UCB,yes,yes,yes,no,yes
+IBKL,Ashta People's Co-operative Bank,ASHX,IBKL0116APC,416903501,,O-UCB,no,yes,yes,no,no
+SVCB,Arvind Sahakari Bank,ASKX,SVCB0015003,444823102,508650,O-UCB,no,yes,yes,no,yes
+UTIB,Ashoknagar Co-operative Bank,ASNX,UTIB0SACBL1,,990295,O-UCB,no,yes,no,no,no
+YESB,Associate Co-operative Bank,ASOX,YESB0ASCB02,395449000,607226,O-UCB,yes,yes,yes,no,yes
+ICIC,Ashok Sahakari Bank,ASSX,ICIC00ASHSB,413909301,607641,O-UCB,no,yes,yes,no,yes
+AUBL,AU Small Finance Bank,AUBL,AUBL0000001,302765000,608088,SFB,yes,yes,yes,no,yes
+ORCB,Angul United Central Co-operative Bank,AUBX,ORCB0ANG001,759800102,,DCCB,no,yes,no,no,no
+AUCB,Almora Urban Co-operative Bank,AUCB,AUCB0000001,263849102,607188,O-UCB,no,yes,yes,no,yes
+IBKL,Ajara Urban Co-operative Bank,AUCX,IBKL0116AUC,416394002,607367,O-UCB,no,yes,yes,no,yes
+,Allahabad Up Gramin Bank,AUGX,,,607091,RRB,no,yes,no,no,no
+IBKL,Aurangabad District Central Co-operative Bank. Bihar,AURX,IBKL01192AC,,508674,DCCB,no,yes,no,no,yes
+YESB,Amravati District Central Co-operative Bank,AVDX,YESB0ADB001,444802101,607792,DCCB,no,yes,yes,no,yes
+FDRL,Alwaye Urban Co-operative Bank,AWCX,FDRL0AUCB02,682466002,,O-UCB,no,yes,yes,no,no
+UTIB,Azad Co-operative Bank,AZAX,UTIB0SAZADB,582804002,,O-UCB,no,yes,no,no,no
+,Amravati Zilla Parishad Shikshak Sahakari Bank,AZPX,,444806000,608056,O-UCB,no,yes,no,no,no
+YESB,Almora Zila d Bank,AZSX,YESB0AZSB01,263802102,607343,DCCB,no,yes,no,no,yes
+IBKL,Azad Urban Co-operative Bank Hubli,AZUX,IBKL0069AZB,,607744,O-UCB,no,yes,no,no,yes
+BACB,Bassein Catholic Co-operative Bank,BACB,BACB0000001,400238002,508512,S-UCB,yes,yes,yes,no,yes
+HDFC,Bihar Awami Co-operative Bank,BACX,HDFC0CBACOB,800830002,607268,O-UCB,no,yes,yes,no,yes
+WBSC,Bankura District Central Co-operative Bank,BADX,WBSC0BDCB01,722809002,607176,DCCB,no,yes,yes,no,yes
+ORCB,Balangir District Central Co-operative Bank,BAGX,ORCB0BLR001,,508774,O-UCB,no,yes,no,no,no
+HDFC,Bally Co-operative Bank,BALB,HDFC0CBCBLH,700877002,,O-UCB,no,yes,no,no,no
+HDFC,Balasinor Nagarik Sahakari Bank,BALX,HDFC0CBNSBL,388807121,990023,O-UCB,no,yes,yes,no,yes
+ICIC,Banaras Mercantile Co-operative Bank,BANX,ICIC00BMCBL,221487002,990015,O-UCB,no,yes,yes,no,yes
+BARB,Bank of Baroda,BARB,BARB0TREASU,400012001,606985,PSB,yes,yes,yes,yes,yes
+BARC,Barclays Bank,BARC,BARC0INBB01,400658002,,Foreign,no,yes,yes,no,no
+KKBK,Baroda City Co-operative Bank,BARX,KKBK0BCCB04,390156006,990022,O-UCB,yes,yes,yes,no,yes
+ICIC,Shri Basaveshwar Sahakari Bank Nyt.bagalkot,BASX,ICIC00SBSBN,587818002,607547,O-UCB,yes,yes,yes,no,yes
+IBKL,Badagara Co-operative Urban Bank,BAUX,IBKL01365B1,673854302,508903,O-UCB,no,yes,no,no,no
+HDFC,Bavla Nagrik Sahakari Bank,BAVX,HDFC0CTBNSB,380421004,990163,O-UCB,no,yes,yes,no,yes
+ORCB,Bhawanipatna Central Co-operative Bank,BAWX,ORCB0BWP001,,508778,O-UCB,no,yes,no,no,no
+WBSC,Birbhum District Central Co-operative Bank,BBDX,WBSC0BIRB02,731805302,608331,DCCB,no,yes,no,no,no
+BBKM,Bank of Bahrein and Kuwait,BBKM,BBKM0000001,400150002,607338,Foreign,no,yes,yes,no,yes
+KKBK,Bhingar Urban Co-operative Bank,BBLX,KKBK0BUCB01,414805001,508821,O-UCB,no,yes,yes,no,yes
+KSCB,Bangalore  Bangalore Rural&ramanagara Dccb,BBRX,KSCB0002001,560226299,607907,DCCB,no,yes,yes,no,yes
+ORCB,Balasore Bhadrak Central Co-operative Bank,BBSX,ORCB0BLS001,756800004,,DCCB,no,yes,no,no,no
+IBKL,Bellad Bagewadi Urban Souharada Sahakari Bank Nyt,BBUX,IBKL0101BBU,591852501,608378,O-UCB,no,yes,no,no,no
+HDFC,Bhabhar Vibhag Nagrik Sahakari Bank,BBVX,HDFC0CBVNSB,385806501,,O-UCB,no,yes,no,no,no
+BCBM,Bharat Co-operative Bank,BCBM,BCBM0000001,400112001,607339,S-UCB,yes,yes,yes,no,yes
+HDFC,Bantra Co-operative Bank,BCBX,HDFC0CBCBBK,700101002,508688,O-UCB,no,yes,yes,no,yes
+INDB,Bangalore City Co-operative Bank,BCCB,INDB0BCCB02,560225000,607958,O-UCB,no,yes,yes,no,no
+UTIB,Bathinda Central Co-operative Bank,BCCX,UTIB0SBCB01,151813002,607563,O-UCB,no,yes,yes,no,yes
+RSCB,Banswara Central Co-operative Bank,BCEX,RSCB0013099,327815000,508697,DCCB,no,yes,yes,no,yes
+BCEY,Bank of Ceylon,BCEY,BCEY0CHEN01,600331001,607244,Foreign,no,yes,yes,no,yes
+IBKL,Bapuji Co-operative Bank,BCOX,IBKL0364BCB,577808000,508843,O-UCB,no,yes,no,no,no
+HDFC,Bicholim Urban Co-operative Bank,BCUB,HDFC0CBUCBG,403413000,607108,O-UCB,yes,yes,yes,no,yes
+IBKL,Baghat Urban Co-operative Bank,BCUX,IBKL0773BCB,173825002,607542,O-UCB,no,yes,no,no,yes
+ICIC,Bahraich District Co-operative Bank,BDBB,ICIC00BAHDC,271804002,990316,DCCB,no,yes,no,no,no
+BDBL,Bandhan Bank,BDBL,BDBL0000001,400750000,508753,Private,yes,yes,yes,no,yes
+IBKL,Bellary District Co-operative Central Bank,BDBX,IBKL0103925,583801517,508819,DCCB,yes,yes,no,no,yes
+KSCB,Bijapur District Central Co-operative Bank,BDCX,KSCB0014001,,607774,DCCB,no,yes,no,no,yes
+SRCB,Bhadradri Co-operative Urban Bank,BDDX,SRCB0BCB808,507808002,607878,O-UCB,yes,yes,no,no,yes
+IBKL,Bhandara District Central Co-operative Bank,BDIX,IBKL0596BDC,441822102,607847,DCCB,no,yes,no,no,yes
+HDFC,Bhind Nagrik Sahakari Bank Mydt,BDNX,HDFC0CBNSBM,477844001,990265,O-UCB,no,yes,yes,no,yes
+ICIC,Banda District Co-operative Bank,BDOX,ICIC00BDCBL,210828302,607954,DCCB,no,yes,no,no,yes
+YESB,Banda Urban Co-operative Bank,BDUX,YESB0BUCB01,210827302,508713,O-UCB,no,yes,yes,no,yes
+UTIB,Beed District Central Co-operative Bank,BEDX,UTIB0SBDCC1,431855302,990223,DCCB,no,yes,no,no,yes
+IBKL,Belgaum District Central Co-operative Bank,BELX,IBKL0101BDC,590609002,607937,DCCB,no,yes,no,no,yes
+,Berhampore Co-operative Central Bank,BERX,,760800002,508759,O-UCB,no,yes,no,no,no
+,Dakshin Bihar Gramin Bank,BGBX,,851704102,607377,RRB,no,yes,no,no,no
+IBKL,Balageria Central Co-operative Bank,BGCX,IBKL0752BCB,721811402,607756,DCCB,no,yes,yes,no,yes
+BARB,Baroda Gujarat Gramin Bank,BGGX,BARB0BGGBXX,392459001,606995,RRB,yes,yes,yes,no,yes
+IBKL,Begusarai Central Co-operative Bank,BGUX,IBKL01077BD,851820102,607814,DCCB,no,yes,no,no,yes
+PUNB,Bangiya Gramin Vikash Bank,BGVX,PUNB0RRBBGB,723830601,607063,RRB,no,yes,yes,no,yes
+HDFC,Bhagyodaya Co-operative Bank,BHAX,HDFC0CTBCBL,380134001,990034,O-UCB,yes,yes,yes,no,yes
+HDFC,Bhilai Nagarik Sahakari Bank Maryadit,BHBX,HDFC0CBNSAH,490534002,,O-UCB,no,yes,no,no,no
+UTIB,Bhuj Commercial Co-operative Bank,BHCX,UTIB0BCCB01,370805051,607974,O-UCB,yes,yes,yes,no,yes
+YESB,Bhadohi Urban Co-operative Bank Gyanpur,BHDX,YESB0BHUC01,221803102,607682,DCCB,no,yes,yes,no,yes
+,Bhel Employees Co-operative Bank,BHEX,,620538000,,O-UCB,no,yes,yes,no,no
+IBKL,Bhagalpur Central Co-operative Bank,BHGX,IBKL0721BCC,812805002,607652,DCCB,no,yes,no,no,yes
+FDRL,Bhuj Mercentile Co-operative Bank,BHJX,FDRL01BMCOB,370803051,990242,O-UCB,no,yes,yes,no,yes
+YESB,Brahmadeodada Mane Sahakari Bank Solapur,BHMX,YESB0BMSB01,413593002,607627,O-UCB,no,yes,yes,no,yes
+CBIN,Bhopal Co-operative Central Bank,BHOX,CBIN0MPDCAE,462309018,607719,DCCB,no,yes,yes,no,yes
+RSCB,Bharatpur Central Co-operative Bank,BHRX,RSCB0015001,321804001,508693,O-UCB,no,yes,no,no,yes
+SVCB,Bharati Sahakari Bank,BHSX,SVCB0010999,411355002,990091,S-UCB,no,yes,yes,no,yes
+UTIB,Bhatkal Urban Co-operative Bank,BHTX,UTIB0SBUCB1,581220352,608124,O-UCB,no,yes,yes,no,yes
+HDFC,Bhilwara Urban Co-operative Bank,BHUX,HDFC0CBHLUB,311623002,508635,O-UCB,yes,yes,yes,no,yes
+UTIB,Bhiwani Central Co-operative Bank Bhiwani,BHWX,UTIB0BHIW01,127807002,508653,DCCB,no,yes,no,no,yes
+HDFC,Bijnor Urban Co-operative Bank,BJUX,HDFC0CBUCBL,,990004,O-UCB,no,yes,yes,no,yes
+BKID,Bhavasara Kshatriya Co-operative Bank,BKCX,BKID099BKCB,560226264,608034,O-UCB,no,yes,yes,no,no
+BKDN,Dena Bank,BKDN,BKDN0RTGSSC,400018001,508547,PSB,no,yes,yes,no,yes
+GSCB,Banaskantha District Central Co-operative Bank,BKDX,GSCB0BKD001,385801001,607972,DCCB,yes,yes,yes,no,yes
+BKID,Bank of India,BKID,BKID000PIGW,400013000,508505,PSB,yes,yes,yes,yes,yes
+RSCB,Baran Kendriya Sahakari Bank Baran,BKSX,RSCB0039099,325811000,508789,DCCB,no,yes,no,no,yes
+IBKL,Shree Basaveshwar Co-operative Bank,BLGX,IBKL0101SBC,590804002,,O-UCB,no,yes,no,no,no
+UTIB,Bombay Mercantile Co-operative Bank,BMCB,UTIB0SBMCB1,400069002,508722,S-UCB,yes,yes,yes,yes,yes
+RSCB,Barmer Central Co-operative Bank,BMCX,RSCB0014099,344809004,508791,DCCB,no,yes,yes,no,yes
+HDFC,Banaskantha Mercantile Co-operative Bank,BMPX,HDFC0CTBMCB,385802001,607611,O-UCB,no,yes,yes,no,yes
+HDFC,Bhagyalakshmi Mahila Sahakari Bank,BMSX,HDFC0CBLMSB,413879052,508636,O-UCB,no,yes,yes,no,yes
+UTIB,Betul Nagrik Sahakari Bank Mydt,BNBX,UTIB0SBNSBM,460835001,,O-UCB,no,yes,yes,no,no
+WBSC,Bhatpara Naihati Co-operative Bank,BNCX,WBSC0BUCB01,700093254,990057,DCCB,no,yes,yes,no,yes
+YESB,Banki Central Co-operative Bank,BNKX,YESB0BNKCCB,753800007,,O-UCB,no,yes,no,no,no
+BNPA,BNP Paribas Bank,BNPA,BNPA0RTGSMI,400034002,,Foreign,no,yes,yes,yes,no
+HDFC,Bhagini Nivedita Sahakari Bank,BNSX,HDFC0CBNBNK,411272001,607155,O-UCB,no,yes,yes,no,yes
+ORCB,Boudh Co-operative Central Bank,BOCX,ORCB0BOU001,,,O-UCB,no,yes,no,no,no
+IBKL,Bagalkot District Central Co-operative Bank,BODX,IBKL01071BD,587895102,508731,DCCB,no,yes,yes,no,yes
+BOFA,Bank of America,BOFA,BOFA0MM6205,400032002,,Foreign,yes,yes,yes,yes,no
+HDFC,Boral Union Co-operative Bank,BORX,HDFC0CTBUCB,700010251,990043,O-UCB,no,yes,yes,no,yes
+BOTM,MUFG Bank,BOTM,BOTM0003611,110033001,,Foreign,no,yes,yes,no,no
+IBKL,Shree Botad Mercantile Co-operative Bank,BOTX,IBKL01606BM,364802051,990208,O-UCB,no,yes,yes,no,yes
+HDFC,Bhadgaon People's Co-operative Bank,BPCX,HDFC0CBPCBL,,607674,O-UCB,no,yes,yes,no,yes
+IBKL,Bilagi Pattana Sahakari Bank Niyamit,BPSX,IBKL01071BP,587871501,,O-UCB,no,yes,no,no,no
+YESB,Bhavana Rishi Co-operative Urban Bank,BRCX,YESB0BRCB01,500259256,607639,O-UCB,yes,yes,yes,no,yes
+GSCB,Baroda Central Co-operative Bank,BRDX,GSCB0BRD001,390153004,607899,DCCB,yes,yes,yes,no,yes
+BARB,Baroda Rajasthan Kshetriya Gramin Bank,BRGX,BARB0BRGBXX,345647004,607280,RRB,yes,yes,yes,no,yes
+HDFC,Bramhapuri Urban Co-operative Bank,BRMX,HDFC0CBUCBB,422813502,990016,O-UCB,no,yes,yes,no,yes
+HDFC,Baran Nagrik Bank,BRSX,HDFC0CBNB01,325812002,990325,O-UCB,yes,yes,no,no,no
+GSCB,Bharuch District Central Co-operative Bank Bharuc,BRUX,GSCB0BRC001,392801001,607864,DCCB,no,yes,no,no,yes
+HDFC,Baramati Sahakari Bank,BSBX,HDFC0CBSB01,413606101,607359,O-UCB,no,yes,yes,no,yes
+HDFC,Baidyabati Sheoraphuli Co-operative Bank,BSCX,HDFC0CBDSCB,700093259,990058,O-UCB,no,yes,yes,no,yes
+HDFC,Balitikuri Co-operative Bank,BTCX,HDFC0CBCBMN,,508668,O-UCB,no,yes,yes,no,yes
+ICIC,Balotra Urban Co-operative Bank,BTUX,ICIC00BALUC,344808025,990005,O-UCB,yes,yes,yes,no,yes
+HDFC,Bhandara Urban Co-operative Bank,BUBX,HDFC0CBHUCB,441807102,607614,O-UCB,no,yes,yes,no,yes
+UTIB,Belur Urban Co-operative Bank,BUCL,UTIB0SUBBLR,573803302,,O-UCB,no,yes,no,no,no
+HDFC,Beawar Urban Co-operative Bank,BUCX,HDFC0CBWRUB,305823025,607675,O-UCB,no,yes,yes,no,yes
+BARB,Baroda Uttar Pradesh Gramin Bank,BUGX,BARB0BUPGBX,229454002,606993,RRB,yes,yes,yes,no,yes
+RSCB,Bundi Central Co-operative Bank,BUNX,RSCB0018099,323711000,508746,DCCB,no,yes,yes,no,yes
+HDFC,Burdwan Central Co-operative Bank,BURX,HDFC0CBCCBL,713804002,607379,DCCB,no,yes,yes,no,yes
+YESB,Business Co-operative Bank,BUSX,YESB0BCBL02,422502002,607786,O-UCB,yes,yes,yes,no,yes
+ICIC,Badaun Zila d Bank,BUZX,ICIC00ZSBBU,243801202,608170,DCCB,no,yes,yes,no,yes
+GSCB,Bhavnagar District Co-operative Bank,BVNX,GSCB0BVN001,364801001,607968,DCCB,yes,yes,yes,no,yes
+IBKL,Bhavani Sahakari Bank,BVSX,IBKL0579BSB,400068261,990103,O-UCB,no,yes,yes,no,yes
+FDRL,Calicut Co-operative Urban Bank,CALX,FDRL0CCUB01,673831002,508802,DCCB,no,yes,yes,no,yes
+RSCB,Central Co-operative Bank  Bhilwara,CBHX,RSCB0016001,311630002,508725,DCCB,no,yes,yes,no,yes
+CBIN,Central Bank of India,CBIN,CBIN0281102,400016000,607115,PSB,yes,yes,yes,yes,yes
+CCBL,Citizen Credit Co-operative Bank,CCBL,CCBL0209003,400209002,607327,S-UCB,no,yes,yes,no,yes
+HDFC,Citizen Co-operative Bank,CCBX,HDFC0CTZNBK,403639002,607107,O-UCB,no,yes,yes,no,yes
+TNSC,Chennai Central Co-operative Bank,CCCX,TNSC0010500,600092001,508664,DCCB,no,yes,yes,no,yes
+GSCB,Chanasma Commercial Co-operative Bank,CCMX,GSCB0UCCCBL,384821501,990217,O-UCB,no,yes,no,no,no
+TNSC,Cuddalore District Central Co-operative Bank,CDCX,TNSC0011200,605816002,508647,DCCB,no,yes,yes,no,yes
+RSCB,Central Co-operative Bank Bikaner,CEBX,RSCB0017001,334512002,508698,DCCB,no,yes,yes,no,yes
+SBIN,Chhattisgarh Rajya Gramin Bank,CGBX,SBIN0RRCHGB,492521002,607214,RRB,no,yes,yes,no,yes
+UBIN,Chaitanya Godavari Grameena Bank,CGGX,UBIN0CG7999,520011251,607080,RRB,yes,yes,yes,no,yes
+CHAS,JP Morgan Chase Bank NA,CHAS,CHAS0INBX01,400500002,,Foreign,no,yes,yes,no,no
+IBKL,Chamoli Zila d Bank,CHAX,IBKL070CZSB,246810102,607516,DCCB,no,yes,yes,no,yes
+HDFC,Chamba Urban Co-operative Bank Chamba,CHBX,HDFC0C0CUCB,176845002,990124,O-UCB,no,yes,yes,no,yes
+RSCB,Churu Central Co-operative Bank,CHCX,RSCB0020001,331818000,508712,DCCB,no,yes,yes,no,yes
+APBL,Chittoor District Co-operative Central Bank,CHDX,APBL0010001,517803000,607498,DCCB,no,yes,yes,no,yes
+HDFC,Chikhli Urban Co-operative Bank,CHIX,HDFC0CCUB01,431800501,607368,O-UCB,no,yes,yes,no,yes
+RSCB,Chittorgarh Kendriya Sahakari Bank,CHKX,RSCB0019099,312814000,508694,DCCB,no,yes,yes,no,yes
+UTIB,Chopda Peoples Co-operative Bank,CHPX,UTIB0SCPCB1,425815501,990184,O-UCB,no,yes,no,no,no
+IBKL,Cherpalcheri Co-operative Urban Bank,CHRX,IBKL0763CCB,679846252,508921,O-UCB,no,yes,yes,no,no
+UTIB,Chandigarh State Co-operative Bank,CHSX,UTIB0CSCB22,160351001,607612,SCB,no,yes,yes,no,yes
+KKBK,Chitnavispura Sahakari Bank,CHTX,KKBK0TCSB02,440199002,990147,O-UCB,no,yes,yes,no,no
+KSCB,Chikmagalur District Central Co-operative Bank,CIDX,KSCB0012001,577816102,607796,DCCB,no,yes,no,no,yes
+CITI,CITI Bank,CITI,CITI0RTGSMI,400037002,607485,Foreign,yes,yes,yes,yes,yes
+KSCB,Chitradurga District Co-operative Central Bank,CITX,KSCB0004001,577874510,607817,DCCB,no,yes,no,no,yes
+CIUB,City Union Bank,CIUB,CIUB0000082,600054001,607324,Private,yes,yes,yes,yes,yes
+YESB,Citizens' Co-operative Bank Jammu,CJAX,YESB0CJ0101,180660001,990119,O-UCB,no,yes,yes,no,yes
+UTIB,Karnataka Mahila Sahakari Bank,CJMX,UTIB0SCJMSB,577259251,608029,O-UCB,yes,yes,no,no,yes
+CLBL,Capital Small Finance Bank,CLBL,CLBL0000001,144545002,607307,SFB,yes,yes,yes,no,yes
+HDFC,Colour Merchant's Co-operative Bank,CMCB,HDFC0CCMCBL,380138002,607330,O-UCB,yes,yes,yes,no,yes
+ICIC,Commercial Co-operative Bank,CMCX,ICIC00COMCB,390318000,990116,O-UCB,no,yes,yes,no,yes
+TNSC,Coimbatore District Central Co-operative Bank,CMDX,TNSC0010000,641464002,508646,DCCB,no,yes,yes,no,yes
+HDFC,Commercial Co-operative Bank,CMLX,HDFC0COMMCO,361802000,990113,O-UCB,no,yes,yes,no,yes
+,Central Madhya Pradesh Gramin Bank,CMPX,,,607071,RRB,no,yes,no,no,no
+UTIB,"Chaitanya Mahila Sahakari Bank, Vijayapur",CMSV,UTIB0SCHAIT,586259261,817363,O-UCB,no,yes,no,no,no
+CNRB,Canara Bank,CNRB,CNRB0RTGS01,560015000,508532,PSB,yes,yes,yes,yes,yes
+ICIC,Chembur Nagarik Sahakari Bank,CNSX,ICIC00CNSBL,400082513,508543,O-UCB,yes,yes,yes,no,yes
+HDFC,Co-operative City Bank,COCX,HDFC0CCCB02,781115002,990270,O-UCB,no,yes,yes,no,yes
+COAS,Coastal Local Area Bank,COLX,COAS0000001,520652002,607783,LAB,yes,yes,yes,no,yes
+IBKL,Co-operative Bank of Mehsana,COMX,IBKL0443MCB,384802001,607780,O-UCB,yes,yes,yes,no,yes
+ICIC,Contai Co-operative Bank,CONX,ICIC00CCBLT,721862402,508866,O-UCB,no,yes,no,no,no
+CORP,Corporation Bank,CORP,CORP0000920,560017001,607184,PSB,no,yes,yes,yes,yes
+COSB,Cosmos Co-operative Bank,COSB,COSB0000025,400164001,607090,S-UCB,yes,yes,yes,no,yes
+YESB,Chandrapur District Central Co-operative Bank,CPDX,YESB0CDC016,442806052,607716,DCCB,no,yes,no,no,yes
+UTIB,Chikmagalur Pattana Sahakara Bank Niyamitha,CPSN,UTIB0SCPSBN,577815102,,O-UCB,no,yes,no,no,no
+IBKL,Central Co-operative Bank Ara,CRBX,IBKL0722CCB,802817102,607967,DCCB,no,yes,no,no,yes
+CRLY,Credit Agricole Corporate and Investment Bank,CRLY,CRLY0000001,400151002,,Foreign,no,yes,yes,no,no
+CBIN,Chhattisgarh Rajya Sahakari Bank Mydt,CRSX,CBIN0CGDCBN,492491002,607894,SCB,yes,yes,yes,no,yes
+CRUB,Shri Chhatrapati Rajashri Shahu Urban Co-operative Bank,CRUB,CRUB0000001,431840302,607694,O-UCB,yes,yes,yes,no,yes
+CSBK,Catholic Syrian Bank,CSBK,CSBK0000001,695047002,607082,Private,yes,yes,yes,yes,yes
+CSBX,Chartered Sahakari Bank Niyamitha,CSBX,CSBX0CSB001,560006252,990060,O-UCB,yes,yes,yes,no,no
+IBKL,Citizens Co-operative Bank,CTBX,IBKL01642C1,364471002,990038,O-UCB,yes,yes,yes,no,yes
+RSCB,Central Co-operative Bank Tonk,CTOX,RSCB0034099,304820000,608141,DCCB,no,yes,no,no,yes
+HDFC,Chittorgarh Urban Co-operative Bank,CTUX,HDFC0CCUCBL,312833002,508625,O-UCB,yes,yes,no,no,yes
+,Catholic Co-operative Urban Bank,CUBX,,500259253,,O-UCB,no,yes,no,no,no
+SVCB,Chiplun Urban Co-operative Bank,CUCX,SVCB0006002,415810201,607125,O-UCB,no,yes,yes,no,yes
+YESB,Citizens Urban Co-operative Bank,CURX,YESB0CB0001,144297001,607633,O-UCB,no,yes,yes,no,yes
+ORCB,Cuttack Central Co-operative Bank,CUTX,ORCB0CTC001,753800002,508776,O-UCB,no,yes,no,no,no
+,Citizen Co-operative Bank,CZCX,,110240257,990031,O-UCB,yes,yes,yes,no,yes
+HDFC,Churu Zila Urban Co-operative Bank,CZUX,HDFC0CRCZUC,331826002,990032,O-UCB,no,yes,yes,no,yes
+SVCB,Defence Accounts Co-operative Bank,DAAX,SVCB0014002,411863002,990256,O-UCB,no,yes,no,no,no
+HDFC,Dahod Mercantile Co-operative Bank,DAHX,HDFC0CDMCBD,389809021,607329,O-UCB,no,yes,yes,no,yes
+UTIB,Dausa Urban Co-operative Bank,DAUX,UTIB0SDUCB3,303828002,990212,O-UCB,yes,yes,no,no,no
+HDFC,Dr Babasaheb Ambedkar Sahakari Bank Nasik,DBAX,HDFC0CASB01,422511002,,O-UCB,no,yes,yes,no,no
+DBSS,Development Bank of Singapore,DBSS,DBSS0IN0811,400641002,607578,Foreign,yes,yes,yes,no,yes
+DCBL,DCB Bank,DCBL,DCBL0000037,400072001,607290,Private,yes,yes,yes,yes,yes
+TNSC,Dindigul Central Co-operative Bank,DCBX,TNSC0011700,625800001,508659,DCCB,no,yes,yes,no,yes
+APBL,District Co-operative Central Bank Mahabubnagar,DCCX,APBL0014001,509815002,607503,DCCB,no,yes,yes,no,yes
+APBL,District Central Co-operative Bank Elluru,DCDX,APBL0005001,534837000,607490,DCCB,no,yes,yes,no,yes
+APBL,District Central Co-operative Bank Khammam,DCEX,APBL0022001,,607502,DCCB,no,yes,yes,no,yes
+APBL,District Co-operative Central Bank Kurnool,DCKX,APBL0013001,518823502,607496,DCCB,no,yes,yes,no,yes
+ICIC,District Co-operative Bank Mainpuri,DCMX,ICIC00MDCCB,205804002,608184,DCCB,no,yes,yes,no,yes
+KKBK,Deccan Co-operative Urban Bank,DCNX,KKBK0DCUB01,500485253,,O-UCB,no,yes,yes,no,no
+ICIC,District Co-operative Bank Pilibhit,DCPX,ICIC00PDCBL,262801002,607522,DCCB,no,yes,yes,no,yes
+ICIC,District Co-operative Bank Shahjahanpur,DCSX,ICIC00SJDCB,242801000,607590,DCCB,no,yes,yes,no,yes
+ICIC,District Co-operative Bank Teliyabagh,DCTX,ICIC00VDCBL,221299001,990317,DCCB,no,yes,yes,no,yes
+HDFC,Darussalam Co-operative Urban Bank,DCUX,HDFC0CDUCBL,500876002,508619,O-UCB,yes,yes,yes,no,no
+TNSC,Dharmapuri District Central Co-operative Bank,DDBX,TNSC0010100,636800102,508658,DCCB,no,yes,yes,no,yes
+WBSC,Darjeeling District Central Co-operative Bank,DDCX,WBSC0DJCB01,734816202,508738,DCCB,no,yes,yes,no,yes
+WBSC,Dakshin Dinajpur District Central Co-operative Bank,DDDX,WBSC0DDCB01,733803102,607171,DCCB,no,yes,yes,no,yes
+YESB,Dehradun District Co-operative Bank,DDHX,YESB0DZSB02,248541002,607518,DCCB,no,yes,yes,no,yes
+,Dena Gujarat Gramin Bank,DEGX,,,607099,RRB,no,yes,no,no,no
+YESB,Delhi Nagrik Sehkari Bank,DENS,YESB0DNB002,110196002,990093,O-UCB,no,yes,yes,yes,yes
+DEOB,Deogiri Sahakari Bank Aurangabad,DEOX,DEOB0000001,431582001,607149,DCCB,no,yes,yes,no,yes
+DEUT,Deutsche Bank,DEUT,DEUT0000PBC,400200002,990175,Foreign,yes,yes,yes,yes,yes
+ICIC,Devika Urban Co-operative Bank,DEUX,ICIC00DUCBL,182820001,990327,O-UCB,no,yes,no,no,no
+YESB,Development Co-operative Bank Kanpur,DEVX,YESB0DEVB01,208185294,990067,O-UCB,no,yes,yes,no,yes
+SBIN,Telangana Grameena Bank,DGBX,SBIN0RRDCGB,500707000,607195,RRB,yes,yes,yes,no,yes
+UTIB,Dhanbad Central Co-operative Bank,DHBX,UTIB0SDCCB1,826801002,990081,DCCB,no,yes,yes,no,no
+BKID,Dhakuria Co-operative Bank,DHKX,BKID000DCBL,700875002,990129,O-UCB,no,yes,yes,no,yes
+HDFC,Dahod Urban Co-operative Bank,DHUX,HDFC0CDUCBE,389808022,,O-UCB,yes,yes,no,no,no
+ICIC,District Co-operative Bank Barabanki,DIBX,ICIC00BBDCB,226804001,508742,DCCB,no,yes,yes,no,yes
+APBL,District Co-operative Central Bank Visakhapatnam,DICX,APBL0003001,530519001,607487,DCCB,no,yes,yes,no,yes
+ICIC,"District Co-operative Bank, Sitapur",DISX,ICIC00ZSBLS,260803002,990290,DCCB,no,yes,no,no,no
+HDFC,Dilip Urban Co-operative Bank,DIUX,HDFC0CDILIP,413800201,,O-UCB,no,yes,no,no,no
+ICIC,Deoria Kasia District Co-operative Bank,DKCL,ICIC00DKDCB,274862001,990319,DCCB,no,yes,no,no,yes
+RSCB,Dausa Kendriya Bank,DKSX,RSCB0037099,303832000,608136,O-UCB,no,yes,no,no,yes
+DLXB,Dhanlaxmi Bank,DLXB,DLXB0000146,680048002,607239,Private,yes,yes,yes,yes,yes
+IBKL,Deccan Merchants Co-operative Bank,DMCB,IBKL0501DMC,400071001,607524,O-UCB,no,yes,yes,no,yes
+HDFC,Durgapur Mahila Co-operative Bank,DMCX,HDFC0CDMOBL,713804205,,O-UCB,no,yes,no,no,no
+DMKJ,Dattatraya Maharaj Kalambe Jaoli Sahakari Bank,DMKB,DMKJ0000001,400743001,607102,O-UCB,yes,yes,yes,no,yes
+IBKL,Dhule And Nandurbar District Central Co-operative Bank,DNDC,IBKL0483DND,424812001,607269,DCCB,no,yes,no,no,no
+DNSB,Dombivli Nagari Sahakari Bank,DNSB,DNSB0000001,400235001,607055,S-UCB,yes,yes,yes,no,yes
+HDFC,Deendayal Nagari Sahakari Bank,DNSX,HDFC0CDNSBA,450535101,607636,O-UCB,yes,yes,yes,no,yes
+IBKL,Dapoli Urban Co-operative Bank,DOBX,IBKL0116DPC,415800176,607860,O-UCB,yes,yes,yes,no,no
+,Durg Rajnandgaon Gramin Bank,DRGX,,400018101,,O-UCB,no,yes,no,no,yes
+ICIC,"District Central Co-operative Bank, Supaul",DSAX,ICIC00DCBSU,852838052,,DCCB,no,yes,no,no,no
+HDFC,Daivadnya Sahakara Bank Niyamit,DSBX,HDFC0CDSBNB,590812002,,O-UCB,no,yes,no,no,no
+DLSC,Delhi State Co-operative Bank,DSCB,DLSC0000001,110094002,607912,SCB,no,yes,yes,yes,yes
+ICIC,District Co-operative Bank Saharanpur,DSHX,ICIC00DCBLS,247802002,990056,DCCB,no,yes,yes,no,yes
+IBKL,Durgapur Steel Peoples' Co-operative Bank,DSPX,IBKL0256DSC,713836202,607316,O-UCB,no,yes,yes,no,yes
+SVCB,Dharamvir Sambhaji Urban Co-operative Bank,DSUX,SVCB0004003,411532255,508572,O-UCB,no,yes,yes,no,no
+ICIC,District Co-operative Bank Rae Bareli,DTCX,ICIC00RBDCB,229804003,508730,DCCB,no,yes,yes,no,yes
+ICIC,District Co-operative Bank Pratapgarh,DTPX,ICIC00PRDCB,230810002,508741,DCCB,no,yes,no,no,yes
+HDFC,Daund Urban Co-operative Bank,DUCX,HDFC0CDACBL,413921476,990159,O-UCB,no,yes,yes,no,yes
+RSCB,Dungarpur Central Co-operative Bank,DUNX,RSCB0021099,314831000,607945,DCCB,no,yes,yes,no,yes
+KSCB,Davanagere District Central Co-operative Bank,DVDX,KSCB0701001,577873002,607803,DCCB,no,yes,no,no,yes
+IBKL,D.y.patil Sahakari Bank Kolhapur,DYPX,IBKL0463DYP,416259264,990170,O-UCB,no,yes,yes,no,no
+EBIL,Emirates NBD Bank,EBIL,EBIL0000001,400770002,990315,Foreign,no,yes,no,no,no
+HDFC,Excellent Co-operative Bank,ECBL,HDFC0CECBL2,400108002,607297,O-UCB,no,yes,yes,no,no
+SBIN,Ellaquai Dehati Bank,EDBX,SBIN0RRELGB,180644001,607218,RRB,no,yes,yes,no,yes
+TNSC,Erode District Central Co-operative Bank,EDCX,TNSC0010800,638572002,508654,DCCB,no,yes,yes,no,yes
+UBIN,Ernakulam District Co-operative Bank,EDSX,UBIN0DCBEDC,682452000,607295,DCCB,no,yes,yes,no,yes
+ESMF,ESAF Small Finance Bank,ESAF,ESMF0000001,673760002,508992,SFB,no,yes,yes,no,yes
+ESFB,Equitas Small Finance Bank,ESFB,ESFB0000001,600756000,508998,SFB,yes,yes,yes,no,yes
+ICIC,Etawah District Co-operative Bank Etwah,ETCX,ICIC00ETAWH,206801000,607349,DCCB,no,yes,no,no,yes
+ICIC,Etah District Co-operative Bank,ETDX,ICIC00ETDCB,207835102,990029,DCCB,no,yes,no,no,yes
+ICIC,Etah Urban Co-operative Bank,EUCX,ICIC00ETUCB,207834102,990114,O-UCB,no,yes,no,no,yes
+HDFC,Etawah Urban Co-operative Bank Etawah,EWCX,HDFC0CEUCBL,206802002,990151,O-UCB,no,yes,no,no,yes
+UTIB,Fazilka Central Co-operative. Bank,FCBX,UTIB0SFAZ01,152831052,607559,O-UCB,no,yes,yes,no,yes
+UTIB,Faridkot Central Co-operative Bank,FCCX,UTIB0SFDK03,151832102,607557,O-UCB,no,yes,yes,no,yes
+ICIC,District Co-operative Bank Faizabad,FCOX,ICIC00FDCCB,224801002,990291,DCCB,no,yes,yes,no,no
+ICIC,Farrukhabad District Co-operative Bank Fatehgarh,FDFX,ICIC00FDCBL,209801002,508728,DCCB,no,yes,no,no,yes
+FDRL,Federal Bank,FDRL,FDRL0000379,683049001,607165,Private,yes,yes,yes,yes,yes
+FDRL,Feroke Co-operative Bank,FEKX,FDRL012FCUB,673832002,608140,O-UCB,no,yes,yes,no,yes
+HDFC,Fingrowth Co-operative Bank,FGCB,HDFC0CTUCBL,302192001,607711,O-UCB,yes,yes,yes,no,yes
+FSFB,Fincare Small Finance Bank,FINF,FSFB0000001,560775001,608304,SFB,no,yes,yes,no,yes
+FINO,Fino Payments Bank,FINO,FINO0000001,990099909,608001,PB,yes,yes,no,no,yes
+YESB,Financial Co-operative Bank,FINX,YESB0FINCO2,395419002,990045,O-UCB,yes,yes,yes,no,yes
+YESB,"Faiz Mercantile Co-operative Bank, Nasik",FMCX,YESB0FAIZBK,422532252,608060,O-UCB,no,yes,yes,no,yes
+UTIB,Faridabad Central Co-operative Bank,FRIX,UTIB0SFCB01,110024253,607890,DCCB,no,yes,yes,no,yes
+UTIB,Fatehgrah Sahib Central Co-operative Bank,FSCX,UTIB0SFGH01,140818102,607623,O-UCB,no,yes,yes,no,yes
+UTIB,Ferozepur Central Co-operative. Bank,FZCX,UTIB0SFCB02,152812002,607568,O-UCB,no,yes,yes,no,yes
+ICIC,Firozabad Zila d Bank,FZSX,ICIC00FZSBL,283801002,508890,DCCB,no,yes,no,no,no
+GSCB,Gujarat Ambuja Co-operative Bank,GACX,GSCB0UGACBL,380852002,,O-UCB,yes,yes,yes,no,no
+ICIC,Gadhinglaj Urban Co-operative Bank,GADX,ICIC00GUCCB,416404476,990118,O-UCB,no,yes,yes,no,yes
+ICIC,Ganga Mercantile Urban Co-operative Bank,GAMX,ICIC00TGMUC,251852002,,O-UCB,no,yes,no,no,no
+HDFC,Gandhidham Co-operative Bank,GANX,HDFC0CGCBLG,370802001,990104,O-UCB,no,yes,yes,no,yes
+GBCB,Greater Bombay Co-operative Bank,GBCB,GBCB0000001,400095001,607303,S-UCB,yes,yes,yes,no,yes
+,Guruvayur Co-operative Urban Bank,GCBX,,680815052,,O-UCB,no,yes,yes,no,no
+UTIB,Gurdaspur Central Co-operative Bank,GCCX,UTIB0SGDS01,143821202,607567,O-UCB,no,yes,yes,no,yes
+IBKL,Gauhati Co-operative Urban Bank,GCUL,IBKL0115GCU,781113002,990135,O-UCB,no,yes,yes,no,no
+HDFC,Gayatri Co-operative Urban Bank,GCUX,HDFC0CTGCUB,505846102,607157,O-UCB,yes,yes,yes,no,yes
+GDCB,Gadchiroli District Central Co-operative Bank,GDCB,GDCB0000001,442833204,607348,DCCB,yes,yes,yes,no,yes
+APBL,Guntur District Co-operative Central Bank,GDCX,APBL0007001,520635102,607492,DCCB,no,yes,yes,no,yes
+UTIB,Godhra Urban Co-operative Bank,GDUX,UTIB0SGUCB1,389807001,608154,O-UCB,yes,yes,yes,no,yes
+IBKL,Gopalganj Central Co-operative Bank,GGCX,IBKL01011GC,841808102,607671,DCCB,no,yes,no,no,yes
+HDFC,Ghatal Peoples' Co-operative Bank,GHPX,HDFC0CGPCBL,,990001,O-UCB,no,yes,yes,no,yes
+RSCB,Ganganagar Kendriya Sahakari Bank,GKNX,RSCB0033099,335830005,508724,DCCB,no,yes,yes,no,no
+YESB,Gandhidham Mercantile Co-operative Bank,GMBX,YESB0GMCB01,370801001,990195,O-UCB,no,yes,no,no,no
+GSCB,Gujarat Mercantile Co-operative Bank,GMCX,GSCB0GUMC01,380826002,,O-UCB,no,yes,yes,no,no
+IBKL,Gulshan Mercantile Urban Co-operative Bank,GMUX,IBKL01529GM,251854002,608049,O-UCB,no,yes,no,no,yes
+YESB,Gandhi Co-operative Urban Bank,GNCX,YESB0GCUB01,520649000,508899,O-UCB,no,yes,yes,no,no
+HDFC,Gozaria Nagrik Sahakari Bank,GNSX,HDFC0CTGNSB,382810161,607733,O-UCB,no,yes,yes,no,yes
+HDFC,Godavari Urban Co-operative Bank Nashik,GODX,HDFC0CGCB02,422376002,,O-UCB,no,yes,yes,no,no
+HDFC,Gondal Nagarik Sahakari Bank,GOSX,HDFC0CGNSBL,360801002,,O-UCB,no,yes,yes,no,no
+IBKL,Gandevi People's Co-operative Bank,GPCX,IBKL0068GP1,396802171,607660,O-UCB,yes,yes,yes,no,yes
+SBIN,General Post Office,GPOX,SBIN0000DOP,600111001,607245,PSB,no,yes,no,yes,yes
+IBKL,Grain Merchants' Co-operative Bank,GRAX,IBKL0551GMC,560197000,607957,O-UCB,no,yes,yes,no,yes
+YESB,Goa State Co-operative Bank,GSBL,YESB0GSCB02,403415055,607238,SCB,no,yes,yes,no,yes
+YESB,Gandhibag Sahakari Bank  Nagpur,GSBX,YESB0GSB001,440360000,,DCCB,no,yes,yes,no,no
+GSCB,Gujarat State Co-operative Bank,GSCB,GSCB0000001,380124002,607689,SCB,yes,yes,yes,no,yes
+SVCB,Guardian Souharda Sahakari Bank Niyamita,GSSX,SVCB0002001,560234251,607127,O-UCB,no,yes,yes,no,yes
+,George Town Co-operative Bank,GTCX,,600458001,,O-UCB,no,yes,yes,no,no
+YESB,Godavari Urban Co-operative Bank,GUBX,YESB0GUCB01,431849102,608130,O-UCB,no,yes,no,no,no
+HDFC,Goa Urban Co-operative Bank,GUCX,HDFC0CGUB02,403416002,607277,S-UCB,no,yes,yes,no,yes
+UTIB,Guntur Co-operative Urban Bank,GUNX,UTIB0SGUB02,520801102,508997,O-UCB,yes,yes,no,no,yes
+UTIB,Gurgaon Central Co-operative Bank,GUOX,UTIB0SGCB01,110024252,607735,DCCB,no,yes,yes,no,yes
+ICIC,Hamirpur District Co-operative Bank,HAMX,ICIC00HDCCB,210818202,607871,DCCB,no,yes,yes,no,yes
+RSCB,Hanumangarh Kendriya Sahakari Bank,HANX,RSCB0038099,335807000,508695,DCCB,no,yes,yes,no,yes
+SVCB,HASTI Co-operative Bank,HCBL,SVCB0001002,400801002,607159,O-UCB,yes,yes,yes,no,yes
+HCBL,Hasti Co-operative Bank,HCBX,HCBL0000001,424736001,607621,O-UCB,no,yes,yes,no,yes
+YESB,HCBL Co-operative Bank,HCLX,YESB0HCBL01,226640002,607876,O-UCB,no,yes,no,no,no
+ICIC,Hardoi District Co-operative Bank,HDCL,ICIC00HDCBL,241801001,,DCCB,no,yes,no,no,no
+APBL,Hyderabad District Co-operative Bank,HDCX,APBL0015022,500144002,607500,DCCB,no,yes,yes,no,yes
+HDFC,HDFC Bank,HDFC,HDFC0999999,400240001,607152,Private,yes,yes,yes,yes,yes
+PUNB,Sarva Haryana Gramin Bank,HGBX,PUNB0HGB001,110696001,607139,RRB,yes,yes,yes,no,yes
+UTIB,Hisar Central Co-operative Bank Hisar,HISX,UTIB0HCCB01,125816052,607865,DCCB,no,yes,yes,no,yes
+PUNB,Himachal Pradesh Gramin Bank,HMBX,PUNB0HPGB04,173828002,607140,RRB,yes,yes,yes,no,yes
+IBKL,Himatnagar Nagarik Sahakari Bank,HMNX,IBKL0218HNS,383804001,990076,O-UCB,yes,yes,yes,no,yes
+UTIB,Hoshiarpur Central Co-operative Bank,HOCX,UTIB0SHSP01,146820002,607638,O-UCB,no,yes,yes,no,yes
+WBSC,Hooghly District Central Co-operative Bank,HOOX,WBSC0HDCB01,700093261,607174,DCCB,no,yes,yes,no,yes
+HDFC,Shree Parswanath Co-operative Bank,HPCX,HDFC0CSPCBK,360475002,990149,O-UCB,no,yes,yes,no,yes
+HPSC,Himachal Pradesh State Co-operative Bank,HPSX,HPSC0000001,438311002,508598,SCB,no,yes,yes,no,yes
+HSBC,Hongkong & Shanghai Banking Corporation,HSBC,HSBC0RTGSMI,400039002,,Foreign,yes,yes,yes,yes,no
+YESB,Haveli Sahakari Bank,HSBM,YESB0HSBLM0,411945002,508550,O-UCB,no,yes,yes,no,no
+ICIC,Harihareshwar Sahakari Bank,HSBX,ICIC00HHSBL,412804002,990276,O-UCB,no,yes,no,no,no
+HARC,Haryana State Co-operative Apex Bank,HSCX,HARC0000001,,607647,SCB,no,yes,yes,no,yes
+UTIB,Hassan District Co-operative Central Bank,HSDX,UTIB0SHDCCB,,607133,DCCB,no,yes,yes,no,yes
+YESB,Hindustan Shipyard Staff Co-operative Bank,HSSX,YESB0HSCB01,530875002,608017,O-UCB,no,yes,no,no,no
+SVCB,Hubli Urban Co-operative Bank,HUBX,SVCB0033002,580211251,,O-UCB,no,yes,no,no,no
+UTIB,Hadagali Urban Co-operative Bank,HUCB,UTIB0SHUCBH,583913501,608406,O-UCB,no,yes,no,no,no
+UTIB,Hanamasagar Urban Co-operative Bank,HUCH,UTIB0SHUCBL,583858501,508577,O-UCB,no,yes,no,no,no
+HDFC,Hissar Urban Co-operative Bank,HUCX,HDFC0CHUCBH,125816058,607586,O-UCB,no,yes,no,no,yes
+IBKL,Hutatma Sahakari Bank,HUTX,IBKL0116HSB,416089251,508683,O-UCB,yes,yes,yes,no,yes
+IBKL,IDBI,IBKL,IBKL0009998,400259001,607095,Private,yes,yes,yes,yes,yes
+IBKL,Industrial Co-operative Bank,ICBL,IBKL0115ICB,781114002,990065,O-UCB,no,yes,yes,no,yes
+HDFC,Ichalkaranji Merchants Co-operative Bank,ICHX,HDFC0CIMB01,416837201,990078,O-UCB,no,yes,yes,no,yes
+ICIC,ICICI Bank,ICIC,ICIC0TREA00,400229000,508534,Private,yes,yes,yes,yes,yes
+YESB,Indore Cloth Market Co-operative Bank,ICMX,YESB0ICMB02,452278002,,O-UCB,yes,yes,yes,no,no
+IDFB,IDFC FIRST Bank,IDFB,IDFB0000001,400751001,608117,Private,yes,yes,yes,no,yes
+IDIB,Indian Bank,IDIB,IDIB000C080,600019001,607105,PSB,yes,yes,yes,yes,yes
+UTIB,Idukki District Co-operative Bank,IDUX,UTIB0SIDB99,685818205,607830,DCCB,no,yes,yes,no,yes
+UTIB,Ilkal Co-operative Bank,ILCB,UTIB0SICB25,587855501,607282,O-UCB,no,yes,no,no,no
+YESB,Imperial Urban Co-operative Bank Jalandhar,IMCX,YESB0IUBL01,144477002,,O-UCB,no,yes,no,no,no
+UTIB,Imphal Urban Co-operative Bank,IMPX,UTIB0SIUCB1,795803002,607252,O-UCB,no,yes,yes,no,yes
+YESB,Indapur Urban Co-operative Bank,INCX,YESB0ICBL01,,508633,O-UCB,no,yes,no,no,no
+INDB,Indusind Bank,INDB,INDB0000098,400234001,607189,Private,yes,yes,yes,yes,yes
+HDFC,Independence Co-operative Bank,INDX,HDFC0CICBL1,422082251,,O-UCB,no,yes,yes,no,no
+IOBA,Indian Overseas Bank,IOBA,IOBA0009016,600020001,508541,PSB,yes,yes,yes,yes,yes
+CBIN,Indore Premier Co-operative Bank,IPCX,CBIN0MPDCAO,452280001,607729,DCCB,yes,yes,yes,no,yes
+IPOS,India Post Payments Bank,IPPB,IPOS0000001,600768002,508528,PB,yes,yes,no,no,yes
+ICIC,Indore Paraspar Sahakari Bank,IPSX,ICIC00INPRS,452279002,508566,O-UCB,yes,yes,yes,no,yes
+UTIB,Indraprastha Sehkari Bank,ISBX,UTIB0SIPSB1,110255002,607728,O-UCB,no,yes,yes,yes,yes
+HDFC,Indore Swayam Mahila Co-operative Bank,ISMX,HDFC0CISWAM,,608192,O-UCB,no,yes,yes,no,yes
+HDFC,Irinjalakuda Town Co-operative Bank,ITCX,HDFC0CITC01,680814202,607256,O-UCB,no,yes,yes,no,yes
+IBKL,Income Tax Dept Co-operative Bank,ITDX,IBKL0100ITB,,508975,O-UCB,no,yes,yes,no,no
+HDFC,Integral Urban Co-operative Bank,IUCB,HDFC0CIUCBL,302456000,607321,O-UCB,no,yes,yes,no,yes
+YESB,Imperial Urban Co-operative Bank,IUCX,YESB0IUCB01,224802002,,O-UCB,no,yes,no,no,no
+HDFC,Jain Co-operative Bank,JACX,HDFC0CJCBLD,110329002,607737,O-UCB,no,yes,yes,yes,yes
+JAKA,Jammu and Kashmir Bank,JAKA,JAKA0DEALER,400051001,607440,Private,yes,yes,yes,yes,yes
+YESB,Janalaxmi Co-operative Bank,JALX,YESB0JLCB01,422373002,,S-UCB,no,yes,yes,no,no
+UTIB,Jamia Co-operative Bank,JAMX,UTIB0SJCB01,110410000,607263,O-UCB,no,yes,yes,yes,yes
+JANA,"Janaseva Sahakari Bank, Pune",JANA,JANA0000001,411257002,508551,O-UCB,yes,yes,yes,no,yes
+HDFC,Janata Co-operative Bank,JANX,HDFC0CTJCBL,110361002,607695,O-UCB,no,yes,yes,yes,yes
+JASB,Janaseva Sahakari Bank (Borivli),JASB,JASB0000001,400804001,607887,O-UCB,no,yes,yes,no,yes
+HDFC,Janatha Seva Co-operative Bank,JASX,HDFC0CJSCBL,560903002,607773,O-UCB,no,yes,yes,no,yes
+SVCB,Jaihind Urban Co-operative Bank,JAUX,SVCB0011002,411861002,990263,O-UCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Bhind,JBHX,CBIN0MPDCAD,477843001,607891,DCCB,no,yes,no,no,yes
+UTIB,Jila d Kendriya Bank Maryadit Bilaspur,JBIX,UTIB0SJSB01,495562002,508700,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Sagar,JBMX,CBIN0MPDCBC,,607753,DCCB,no,yes,no,no,yes
+HDFC,Janata Co-operative Bank Malegaon.,JCBX,HDFC0CJBMLG,591857501,607659,O-UCB,no,yes,yes,no,yes
+RSCB,Jaipur Central Co-operative Bank,JCCB,RSCB0022099,302189001,508696,O-UCB,no,yes,yes,no,yes
+UTIB,Jalandhar Central Co-operative Bank,JCCX,UTIB0SJAL01,144296001,607551,O-UCB,no,yes,yes,no,yes
+GSCB,Jamnagar District Co-operative Bank,JCDX,GSCB0JMN001,361801001,990136,DCCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Chhatarpur,JCHX,CBIN0MPDCAF,417873003,607835,DCCB,no,yes,no,no,yes
+ICIC,Janata Co-operative Bank,JCPX,ICIC00JCBLG,389805001,990279,O-UCB,no,yes,no,no,no
+KKBK,Jagruti Co-operative Urban Bank,JCUX,KKBK0JCUB01,500485258,990146,O-UCB,no,yes,yes,no,no
+ICIC,Jalaun District Co-operative Bank,JDCX,ICIC00JDCBL,285817003,607823,DCCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydtt Dewas,JDEX,CBIN0MPDCAJ,455882001,607725,DCCB,no,yes,no,no,yes
+,Jharkand Gramin Bank,JGBX,,834807002,508526,RRB,no,yes,no,no,no
+YESB,Jogindra Central Co-operative Bank,JGCX,YESB0JCCB01,160211252,607575,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Bank Mydt. Gwalior,JGWX,CBIN0MPDCAM,474479001,607751,DCCB,no,yes,yes,no,yes
+HDFC,Jharneshwar Nagrik Sahakari Bank Maryadit,JHAX,HDFC0CJNSBM,462308002,,O-UCB,no,yes,yes,no,no
+CBIN,Jila Sahakari Kendriya Bank Mydt Hoshangabad,JHSX,CBIN0MPDCAN,461829001,607776,DCCB,no,yes,no,no,yes
+RSCB,Jhunjhunu Kenddriya Sahakari Bak,JHUX,RSCB0025099,333810002,508749,DCCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Balaghat,JIBX,CBIN0MPDCAB,481846001,607829,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Chhindwara,JICX,CBIN0MPDCAG,480845001,607724,DCCB,no,yes,no,no,yes
+CBIN,Jila d Kendriya Bank Mydt Damoh,JIDX,CBIN0MPDCAH,470848051,607833,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Guna,JIGX,CBIN0MPDCAL,473818052,607767,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendariya Bank Mydt Khandwa,JIKX,CBIN0MPDCAR,450822101,607722,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Mandla,JIMX,CBIN0MPDACT,481800002,607761,DCCB,no,yes,no,no,yes
+UTIB,Jind Central Co-operative Bank,JINX,UTIB0JIND01,126840002,607781,DCCB,no,yes,no,no,yes
+JIOP,Jio Payments Bank,JIOP,JIOP0000001,400767002,607884,PB,yes,yes,no,no,no
+CBIN,Jila Sahakari Kendriya Bank Mydt Shahdol,JIOX,CBIN0MPDCBG,484869001,607832,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Rajgarh,JIRX,CBIN0MPDCAZ,465814001,607763,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Sidhi,JISX,CBIN0MPDCBJ,486847051,607759,DCCB,no,yes,no,no,yes
+IBKL,Jivaji Sahakari Bank  Ichalkaranji,JIVX,IBKL0467JSB,416825201,990037,O-UCB,no,yes,no,no,yes
+UTIB,Jhajjar Central Co-operative Bank,JJCX,UTIB0JCCB01,124844065,607788,DCCB,no,yes,no,no,yes
+CBIN,Jila d Kendriya Bank Mydt Jhabua,JJHX,CBIN0MPDCAQ,457881101,607775,DCCB,no,yes,no,no,yes
+JJSB,Jalgaon Janata Bank,JJSB,JJSB0000001,425507002,607158,S-UCB,yes,yes,yes,no,yes
+UTIB,Jila Sahakari Kendriya Bank Mydt Ambikapur,JKAX,UTIB0SJSA01,497888001,508687,DCCB,no,yes,no,no,yes
+HDFC,Janakalyan Co-operative Bank Nashik,JKCX,HDFC0CJCBLN,422503002,,O-UCB,no,yes,yes,no,no
+CBIN,Jila Sahakari Kendriya Bank Mydt. Jabalpur,JKDX,CBIN0MPDCAP,482476001,607778,DCCB,no,yes,yes,no,yes
+RSCB,Jhalawar Kendriya Bank,JKEX,RSCB0024099,326829000,508766,DCCB,no,yes,yes,no,yes
+CBIN,Jila Kendriya Bank Maryadit Khargone,JKHX,CBIN0MPDCAS,451817001,607765,DCCB,yes,yes,no,no,yes
+UTIB,Jila Sahakari Kendriya Bank Maryadit Jagdalpur,JKMX,UTIB0SJSJ01,494875001,508684,DCCB,no,yes,no,no,yes
+CBIN,Jilla Sahakari Kendriya Bank Mydt Raisen,JKRX,CBIN0MPDCAY,464800006,607875,DCCB,no,yes,no,no,yes
+UTIB,J&k State Co-operative Bank,JKSX,UTIB0SJKCB1,190654011,607952,SCB,no,yes,yes,no,no
+RSCB,Jalore Central Co-operative Bank Jalore,JLCX,RSCB0023012,343825001,508786,O-UCB,no,yes,no,no,yes
+IBKL,Jalna District Central Co-operative Bank,JLDX,IBKL0530JDC,,990221,DCCB,no,yes,no,no,yes
+HDFC,Jalna Peoples Co-operative Bank Jalna,JLNX,HDFC0CJPCBL,431808052,990173,O-UCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Vidisha,JLSX,CBIN0MPDCBM,464825201,607726,DCCB,no,yes,no,no,yes
+HDFC,Jhalawar Nagrik Sahakari Bank,JLWX,HDFC0CJNSBL,326704025,,O-UCB,no,yes,no,no,no
+CBIN,Jila Sahakari Kendriya Bank Mydt Mandsaur,JMAX,CBIN0MPDCAU,458831001,607727,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Betul,JMBX,CBIN0MPDCAC,460551001,607754,DCCB,no,yes,no,no,yes
+HDFC,Jalna Merchants Co-operative Bank,JMCX,HDFC0CJMCBL,431807052,607673,O-UCB,yes,yes,yes,no,yes
+CBIN,Jila d Kendriya Bank Mydt Datia,JMDX,CBIN0MPDCAI,,607766,DCCB,no,yes,no,no,yes
+HDFC,Jamshedpur Urban Co-operative Bank,JMHX,HDFC0CJUCBL,831810002,607610,O-UCB,no,yes,yes,no,no
+,Jammu Central Co-operative Bank,JMMX,,180645001,,DCCB,no,yes,yes,no,no
+CBIN,Jila Sahakari Kendriya Bank Mydt Morena,JMOX,CBIN0MPDCAV,476838001,607723,DCCB,no,yes,no,no,yes
+HDFC,Jamnagar Peoples Co-operative Bank,JMPX,HDFC0CTJPCB,361803000,990138,O-UCB,no,yes,yes,no,no
+HDFC,Jijamata Mahila Sahakari Bank,JMSX,HDFC0CJMS99,411174441,607331,O-UCB,yes,yes,yes,no,yes
+UTIB,Jila Sahakari Kendriya Bank Mydt Durg,JMYX,UTIB0SJSD01,491840003,508686,DCCB,yes,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Narsinghpur,JNAX,CBIN0MPDCAW,487479001,607752,DCCB,no,yes,no,no,yes
+GSCB,Junagadh Jilla Sahakari Bank,JNDX,GSCB0JNDC01,,508671,DCCB,yes,yes,no,no,yes
+HDFC,Janseva Nagari Sahakari Bank Marydit,JNSX,HDFC0CJNSBB,413826501,607616,O-UCB,no,yes,no,no,yes
+RSCB,Jodhpur Central Co-operative Bank,JODX,RSCB0026099,342517001,508748,DCCB,no,yes,yes,no,yes
+HDFC,Jodhpur Nagrik Sahakari Bank,JONX,HDFC0CJNB08,342514002,607685,O-UCB,yes,yes,yes,no,yes
+HDFC,Jowai Co-operative Urban Bank,JOWX,HDFC0CJCUBL,793807501,990225,O-UCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Panna,JPAX,CBIN0MPDCAX,488836001,607779,DCCB,no,yes,no,no,yes
+JPCB,Jalgaon Peoples Co-operative Bank,JPCB,JPCB0000001,425740001,607134,S-UCB,yes,yes,yes,no,yes
+WBSC,Jalpaiguri Central Co-operative Bank,JPCX,WBSC0JCCB01,735808002,607553,DCCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Ratlam,JRAX,CBIN0MPDCBA,457886003,607777,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Ujjain,JRKX,CBIN0MPDCBL,456540003,607721,DCCB,no,yes,no,no,yes
+UTIB,Jila Sahakari Kendriya Bank Maryadit Rajnandgaon,JRNX,UTIB0SJSN01,491853101,508699,DCCB,no,yes,no,no,yes
+HDFC,Jalore Nagrik Sahakari Bank,JRSX,HDFC0CJALOR,343824002,607615,O-UCB,no,yes,no,no,yes
+IBKL,Jain Sahakari Bank,JSAB,IBKL0452JSB,400073000,607911,O-UCB,no,yes,yes,no,yes
+IBKL,Janata Sahakari Bank Ajara,JSAX,IBKL0116JSB,416406002,,O-UCB,yes,yes,yes,no,no
+JSBL,Janakalyan Sahakari Bank,JSBL,JSBL0000001,400105009,607088,S-UCB,yes,yes,yes,no,yes
+JSBP,Janata Sahakari Bank (Pune),JSBP,JSBP0000001,411074002,607276,S-UCB,yes,yes,yes,no,yes
+YESB,Janaseva Co-operative Bank (Nashik),JSBX,YESB0JCBL01,422510002,,O-UCB,no,yes,yes,no,no
+IBKL,Jharkhand State Co-operative Bank,JSCX,IBKL0063JCB,834735002,607637,SCB,no,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Dhar,JSDX,CBIN0MPDCAK,454806001,607741,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Sehore,JSEX,CBIN0MPDCBE,466857054,607828,DCCB,no,yes,no,no,yes
+JSFB,Jana Small Finance Bank,JSFB,JSFB0000001,560788005,652268,SFB,yes,yes,yes,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Shajapur,JSHX,CBIN0MPDCBH,465826101,607740,DCCB,no,yes,no,no,yes
+UTIB,Jila Sahakari Kendriya Bank Maryadit Raipur,JSKX,UTIB0JSBR01,492522002,607889,DCCB,yes,yes,yes,no,yes
+SVCB,Janata Sahakari Bank Amravati,JSMX,SVCB0043002,444819101,,O-UCB,no,yes,no,no,no
+CBIN,Jila Sahakari Kendriya Bank Myt Seoni,JSOX,CBIN0MPDCBF,480856101,607739,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Rewa,JSRX,CBIN0MPDCBB,486893002,607760,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Mydt Satna,JSTX,CBIN0MPDCBD,485802001,607834,DCCB,no,yes,no,no,yes
+CBIN,Jila Sahakari Kendriya Bank Maryadit Shivpuri,JSVX,CBIN0MPDCBI,473812051,607764,DCCB,no,yes,no,no,yes
+HDFC,Jansewa Urban Co-operative Bank,JSWX,HDFC0CJUCBI,440803002,,O-UCB,no,yes,yes,no,no
+CBIN,Jila Sahakari Kendriya Bank Mydt Tikamgarh,JTIX,CBIN0MPDCBK,472848001,607762,DCCB,no,yes,no,no,yes
+,Jugalkishor Tapdiya Shree Mahesh Ucb Aurangabadltd,JTSX,,431082671,990186,O-UCB,no,yes,yes,no,no
+HDFC,Junagadh Commercial Co-operative Bank,JUCX,HDFC0CJCCBL,380240255,607714,O-UCB,yes,yes,yes,no,yes
+ICIC,Jaysingpur Udgaon Sahakari Bank Jaysingpur,JUSX,ICIC00JUSBL,416884501,990141,O-UCB,no,yes,yes,no,no
+YESB,Jivan Commercial Co-operative Bank,JVCX,YESB0JIVAN1,360443002,990061,O-UCB,yes,yes,yes,no,yes
+APBL,Kadappa District Co-operative Central Bank,KAAX,APBL0011001,516819000,607495,DCCB,no,yes,yes,no,yes
+KACE,Kangra Central Co-operative Bank,KACE,KACE0000001,176850052,607292,DCCB,no,yes,yes,no,yes
+GSCB,Kachchh District Central Co-operative Bank,KACX,GSCB0KTC001,370804051,990035,DCCB,no,yes,no,no,yes
+IBKL,Kasaragod District Co-operative Bank,KADX,IBKL0450TKD,671811002,607658,DCCB,no,yes,yes,no,yes
+IBKL,Kagal Co-operative Bank Kagal,KAGX,IBKL0116KCB,416877002,607963,O-UCB,no,yes,no,no,yes
+KAIJ,Kallappanna Awade Ichalkaranji Janata Sahakari Bank,KAIJ,KAIJ0000001,416386201,607249,S-UCB,yes,yes,yes,no,yes
+HDFC,Kalna Town Credit Co-operative Bank,KALX,HDFC0CKTCCB,713864251,990063,DCCB,no,yes,yes,no,yes
+IBKL,Kamala Co-operative Bank Solapur,KAMX,IBKL0478KCB,413605002,,O-UCB,no,yes,yes,no,no
+KSCB,Kanara District Central Co-operative Bank,KANX,KSCB0016001,581801000,607730,DCCB,no,yes,no,no,yes
+KARB,Karnataka Bank,KARB,KARB0000001,561052002,607270,Private,yes,yes,yes,yes,yes
+YESB,Kaira District Central Co-operative Bank,KARX,YESB0KDCC01,387801001,607866,DCCB,yes,yes,yes,no,yes
+HDFC,Kashmir Mercantile Co-operative Bank,KASX,HDFC0CKAMCO,193850101,990042,O-UCB,no,yes,yes,no,yes
+INDB,Kattappana Urban Co-operative Bank,KATX,INDB0KUCB01,685865203,,O-UCB,no,yes,no,no,no
+TNSC,Kanyakumari District Central Co-operative Bank,KAYX,TNSC0010300,629800002,508655,DCCB,no,yes,yes,no,yes
+IBKL,Kanakamahalakshmi Co-operative Bank,KBCX,IBKL0150KMC,530528001,607314,O-UCB,yes,yes,yes,no,yes
+KOEX,KEB Hana Bank,KBHB,KOEX0000001,,,Foreign,no,yes,no,no,no
+GSCB,Khambhat Nagarik Sahakari Bank,KBNX,GSCB0UKNSBL,388805091,990203,O-UCB,no,yes,no,no,no
+HDFC,Krishna Bhima Samruddhi Local Area Bank,KBSX,HDFC0CKBS01,509663002,607257,LAB,yes,yes,yes,no,yes
+ICIC,Kutch Co-operative Bank,KCBX,ICIC00KUTCB,400068355,607697,O-UCB,no,yes,yes,no,no
+KCCB,Kalupur Commercial Co-operative Bank,KCCB,KCCB0RTGS4C,380126001,607278,S-UCB,yes,yes,yes,no,yes
+TNSC,Kancheepuram Central Co-operative Bank,KCCX,TNSC0010200,600091276,508734,DCCB,no,yes,yes,no,yes
+KSCB,Karnatak Central Co-operative Bank Dharwad,KCDX,KSCB0015001,,607816,DCCB,no,yes,no,no,yes
+RSCB,Kota Central Co-operative Bank Kota,KCEX,RSCB0027001,324616002,508790,DCCB,no,yes,yes,no,yes
+KANG,Kangra Co-operative Bank,KCOB,KANG0000001,110304001,607710,O-UCB,no,yes,yes,yes,yes
+YESB,Khattri Co-operative Urban Bank,KCUB,YESB0KCUB01,110305002,990089,O-UCB,no,yes,yes,yes,yes
+IBKL,Kannur Co-operative Urban Bank,KCUX,IBKL0340KU1,670801002,508961,O-UCB,no,yes,yes,no,no
+APBL,Karimnagar District Co-operative Central Bank,KDBX,APBL0020001,505810001,607501,DCCB,yes,yes,yes,no,yes
+IBKL,Kozhikode District Co-operative Bank,KDCX,IBKL0114K01,673829002,607608,DCCB,no,yes,yes,no,yes
+YESB,Shree Kadi Nagarik Sahakari Bank,KDIX,YESB0KNB002,380802006,607975,O-UCB,yes,yes,yes,no,yes
+HDFC,Kodinar Nagrik Sahakari Bank,KDNX,HDFC0CKNSBZ,362810141,,O-UCB,no,yes,no,no,no
+KSCB,Kodagu District Co-operative Central Bank,KDUX,KSCB0011001,,607743,DCCB,no,yes,no,no,yes
+ORCB,Keonjhar Central Co-operative Bank,KEJX,ORCB0KJR001,758800004,508760,O-UCB,no,yes,no,no,no
+IBKL,Kerala Mercantile Co-operative Bank,KEMX,IBKL0114KMB,673830002,,O-UCB,no,yes,no,no,no
+IBKL,Keshav Sehkari Bank,KESX,IBKL0413KSB,110094278,990298,O-UCB,no,yes,yes,no,yes
+,Kaveri Grameena Bank,KGBX,,,607308,RRB,no,yes,no,no,no
+IBKL,Khagaria District Central Co-operative Bank,KGDX,IBKL01077KD,851823002,508824,DCCB,no,yes,no,no,yes
+,Kashi Gomti Samyut Gramin Bank,KGSX,,,508510,RRB,no,yes,yes,no,yes
+YESB,Khalilabad Nagar d Bank,KHAX,YESB0KHBKGB,272847202,990068,O-UCB,no,yes,yes,no,yes
+ICIC,Khardah Co-operative Bank,KHCX,ICIC00KDCBL,700093267,990277,O-UCB,no,yes,yes,no,yes
+GSCB,Kheda People's Co-operative Bank,KHDX,GSCB0UKPCBL,387810501,990194,O-UCB,no,yes,yes,no,no
+HDFC,Kohinoor Sahakari Bank Ichalkaranji,KHNX,HDFC0CKSBL1,416826201,990213,O-UCB,no,yes,no,no,no
+ORCB,Khurda Central Co-operative Bank,KHTX,ORCB0KHU001,752800518,,O-UCB,no,yes,no,no,no
+HDFC,Khamgaon Urban Co-operative Bank,KHUX,HDFC0CKUB01,444825302,608058,S-UCB,yes,yes,yes,no,no
+UTIB,Kaithal Central Co-operative Bank,KICX,UTIB0KAIT01,136841302,508651,DCCB,no,yes,no,no,yes
+KJSB,Kalyan Janata Sahakari Bank,KJSB,KJSB0000001,400367001,607506,S-UCB,yes,yes,yes,no,yes
+KKBK,Kotak Mahindra Bank,KKBK,KKBK0RTGSMI,400485002,607420,Private,yes,yes,yes,no,yes
+HDFC,Kankaria Mainagar Nagrik Sahakari Bank,KKMX,HDFC0CKMNSB,380303004,,O-UCB,yes,yes,yes,no,no
+IBKL,Kumbhi Kasari Bank Kuditre,KKSX,IBKL0463KS1,416259256,990171,O-UCB,no,yes,yes,no,yes
+KLGB,Kerala Gramin Bank,KLGB,KLGB0000001,670480002,607476,RRB,yes,yes,yes,no,yes
+YESB,Kollam District Co-operative Bank,KLMX,YESB0KLMDCB,691807002,607688,DCCB,no,yes,yes,no,yes
+KKBK,Kokan Mercantile Co-operative Bank,KMCB,KKBK0KMCB02,400075001,607446,O-UCB,yes,yes,yes,no,yes
+UTIB,Krishna Mercantile Co-operative Bank,KMCX,UTIB0SKMCBL,462363002,990268,O-UCB,no,yes,yes,no,yes
+YESB,Kota Mahila Nagrik Sahakari Bank,KMNX,YESB0KMNSB2,324705002,,O-UCB,no,yes,no,no,no
+HDFC,Kolhapur Mahila Sahakari Bank,KMSX,HDFC0CKMB01,416401002,607546,O-UCB,yes,yes,yes,no,yes
+IBKL,Kalol Nagarik Sahakari Bank,KNBX,IBKL01282KB,380816001,990154,O-UCB,no,yes,yes,no,yes
+UTIB,Karnal Central Co-operative Bank,KNCX,UTIB0KCCB01,132817105,607923,DCCB,no,yes,no,no,yes
+IBKL,Sri Kannikaparameswari Co-operative Bank,KNNX,IBKL0100SKP,577904002,508559,O-UCB,no,yes,yes,no,yes
+ICIC,Kurla Nagarik Sahakari Bank,KNSB,ICIC00KURLA,400077001,607799,O-UCB,no,yes,yes,no,yes
+UTIB,Kisan Nagari Sahakari Bank Maryadit Parbhani,KNSX,UTIB0SKNSB2,,,O-UCB,no,yes,no,no,no
+SVCB,Kopargaon Peoples Co-operative Bank,KOBX,SVCB0035002,,607634,O-UCB,yes,yes,no,no,no
+IBKL,Konoklota Mahila Urban Co-operative Bank,KOCX,IBKL0743KMC,785814003,990108,O-UCB,no,yes,yes,no,yes
+IBKL,Kodungallur Town Co-operative Bank,KODX,IBKL0269KTC,680841252,607703,O-UCB,yes,yes,yes,no,yes
+ORCB,Koraput Central Co-operative Bank,KORX,ORCB0KPT001,,508755,O-UCB,no,yes,no,no,no
+HDFC,Kota Nagrik d Bank Kota,KOSX,HDFC0CKNB02,324617002,990207,O-UCB,no,yes,no,no,yes
+GSCB,Kodinar Taluka Co-operative Banking Union,KOTX,GSCB0KDT001,362809141,508670,DCCB,yes,yes,no,no,yes
+HDFC,Koylanchal Urban Co-operative Bank,KOYX,HDFC0CKOUCB,826802002,990105,O-UCB,no,yes,yes,no,yes
+IBKL,Kolhapur District Central Co-operative Bank,KPCX,IBKL0463KDC,416387002,607749,DCCB,yes,yes,yes,no,yes
+KSCB,Kolar And Chickballapur Dt Co-operative Central Bank,KRCX,KSCB0003001,,508690,DCCB,no,yes,no,no,yes
+APBL,Krishna District Co-operative Bank,KRDX,APBL0006001,520650002,607491,DCCB,no,yes,yes,no,yes
+HDFC,Krishnagar City Co-operative Bank,KRIX,HDFC0CKCCBL,741865102,990027,O-UCB,no,yes,yes,no,yes
+KKBK,Karamana Co-operative Urban Bank,KRMX,KKBK0KCUB01,695856002,,O-UCB,no,yes,yes,no,no
+KKBK,Karnavati Co-operative Bank,KRNX,KKBK0TKCB01,380803002,607801,O-UCB,yes,yes,yes,no,yes
+UTIB,Kranthi Co-operative Urban Bank,KRTX,UTIB0SKRN01,500259254,608425,O-UCB,yes,yes,yes,no,yes
+IBKL,Krishna Sahakari Bank Rethare Bk,KSBX,IBKL0470KRS,415804352,990192,O-UCB,no,yes,yes,no,no
+KSCB,Karnataka State Co-operative Apex Bank,KSCB,KSCB0000001,560226001,607661,SCB,yes,yes,yes,no,yes
+IBKL,Kerala State Co-operative Bank,KSCX,IBKL046KS01,695177010,608165,SCB,no,yes,yes,no,yes
+GSCB,Kosamba Mercantile Co-operative Bank,KSMX,GSCB0UKMCBL,394803101,,O-UCB,no,yes,no,no,no
+HDFC,Koteshwara Sahakari Bank Niyamitha,KSNX,HDFC0CKSBNB,560240253,608024,O-UCB,no,yes,yes,no,no
+IBKL,Kasaragod Co-operative Town Bank No 970,KSTX,IBKL0450KCT,671812002,508958,O-UCB,no,yes,no,no,no
+HDFC,Kashipur Urban Co-operative Bank,KSUX,HDFC0CKUCPL,244851202,990039,O-UCB,no,yes,yes,no,yes
+UTIB,Kottayam District Co-operative Bank,KTBX,UTIB0SKDB88,686805002,608138,DCCB,no,yes,yes,no,yes
+UTIB,Kapurthala Central Co-operative Bank,KTCX,UTIB0SKPT01,144808202,607677,O-UCB,no,yes,yes,no,yes
+YESB,Katihar District Central Co-operative Bank,KTDX,YESB0KCCB01,,608155,DCCB,no,yes,no,no,yes
+,Tumkur District Central Bank,KTTX,,572804019,508940,DCCB,no,yes,no,no,yes
+UTIB,Kaduthuruthy Urban Co-operative Bank,KUBX,UTIB0SKU399,686847402,508967,O-UCB,no,yes,no,no,yes
+KUCB,Karad Urban Co-operative Bank,KUCB,KUCB0488036,415488353,607106,S-UCB,no,yes,yes,no,yes
+HDFC,Kolhapur Urban Co-operative Bank,KUCX,HDFC0CKUCBL,411398002,607289,O-UCB,no,yes,yes,no,yes
+HDFC,Kukarwada Nagarik Sahakari Bank,KUKX,HDFC0CTKNSB,382434042,990012,O-UCB,no,yes,yes,no,yes
+IBKL,Kodoli Urban Co-operative Bank Kodoli,KULX,IBKL0116KUC,416259269,990196,O-UCB,no,yes,no,no,no
+TNSC,Kumbakonam Central Co-operative Bank,KUMX,TNSC0010400,612800002,508720,DCCB,no,yes,yes,no,yes
+KNSB,Kurmanchal Nagar Sahakari Bank,KUNS,KNSB0000001,263846000,607156,O-UCB,no,yes,yes,no,yes
+YESB,Konark Urban Co-operative Bank,KUOB,YESB0KNUCB1,400843002,607594,O-UCB,no,yes,no,no,no
+UTIB,Kurukshetra Central Co-operative Bank,KURX,UTIB0KURU01,136802002,607806,DCCB,no,yes,no,no,yes
+IBKL,Kuttiady Co-operative Urban Bank,KUTX,IBKL01307KU,673853801,508865,O-UCB,no,yes,no,no,no
+KVBL,Karur Vysya Bank,KVBL,KVBL0001260,600053001,607100,Private,yes,yes,yes,yes,yes
+HDFC,Kavita Urban Co-operative Bank,KVCX,HDFC0CKUCBS,413240252,,O-UCB,no,yes,yes,no,no
+KVGB,Karnataka Vikas Grameena Bank,KVGB,KVGB0000001,580483017,607122,RRB,yes,yes,yes,no,yes
+KSCB,Kalaburagi and Yadgir District Co-operative Central Bank,KYDX,KSCB0017001,585801002,607463,DCCB,no,yes,no,no,yes
+IBKL,Latur Urban Co-operative Bank Latur,LATX,IBKL0497LUC,413804052,607247,O-UCB,no,yes,yes,no,yes
+LAVB,Laxmi Vilas Bank,LAVB,LAVB0000883,,607058,Foreign,no,yes,yes,yes,yes
+ICIC,Laxmibai Mahila Nagrik Sahakari Bank Maradit,LBMX,ICIC00LMNSB,474497001,,O-UCB,no,yes,yes,no,no
+HDFC,Lalbaug Co-operative Bank,LCBX,HDFC0CLCBLO,,990245,O-UCB,no,yes,no,no,no
+UTIB,Ludhiana Central Co-operative Bank,LCCX,UTIB0SLDH01,141379002,607558,O-UCB,no,yes,yes,no,yes
+IBKL,Latur District Central Co-operative Bank,LDCX,IBKL0497LDC,413862227,508667,DCCB,no,yes,yes,no,yes
+UTIB,Loknete Dattaji Patil Sahakari Bank,LDPX,UTIB0SLDP47,422807152,508816,O-UCB,no,yes,yes,no,yes
+,Langpi Dehangi Rural Bank,LDRX,,,607202,RRB,no,yes,no,no,no
+IBKL,LIC Employees Co-operative Bank,LECX,IBKL0186LEC,576259258,990168,O-UCB,no,yes,no,no,no
+HDFC,Liluah Co-operative Bank,LICB,HDFC0CLLC02,700103002,990003,O-UCB,no,yes,yes,no,yes
+,Little Kancheepuram Co-operative Urban Bank,LKCX,,600091281,,O-UCB,no,yes,yes,no,no
+YESB,Lakhimpur Urban Co-operative Bank,LKHX,YESB0LUBLMP,262829702,608191,O-UCB,no,yes,yes,no,yes
+IBKL,Lokmangal Co-operative Bank Solapur,LKMX,IBKL0478LOK,413604002,508719,O-UCB,no,yes,yes,no,no
+YESB,Laxmi Mahila Nagrik Sahakari Bank Maryadit,LMNX,YESB0LMNSB2,492493002,990109,O-UCB,no,yes,yes,no,yes
+UTIB,Lunawada Nagarik Sahakari Bank,LNSX,UTIB0SLNSB1,389811061,508702,O-UCB,no,yes,no,no,no
+YESB,Lokvikas Nagari Sahakari Bank Aurangabad,LOKX,YESB0LNSB01,431661001,608388,O-UCB,no,yes,yes,no,no
+HDFC,Lonavala Sahakari Bank,LONX,HDFC0CLSABL,411259263,607942,O-UCB,yes,yes,yes,no,yes
+SRCB,Lucknow Urban Co-operative Bank,LUCX,SRCB0LUB262,226185262,990071,O-UCB,no,yes,yes,no,yes
+ICIC,Laxmi Urban Co-operative Bank Latur,LULX,ICIC00LUCBL,413811052,990269,O-UCB,no,yes,no,no,no
+HDFC,Malleshwaram Co-operative Bank,MABL,HDFC0CMCOBL,560227000,990260,O-UCB,no,yes,yes,no,yes
+HDFC,Mahabhairab Co-operative Urban Bank,MACX,HDFC0CMBCUB,784822002,,O-UCB,no,yes,yes,no,no
+SBIN,Madhyanchal Gramin Bank,MADX,SBIN0RRMBGB,473741545,607232,RRB,no,yes,yes,no,yes
+MAHB,Bank of Maharashtra,MAHB,MAHB0003007,411014000,607387,PSB,yes,yes,yes,yes,yes
+SVCB,Shree Mahalaxmi Urban Co-operative Credit Bank,MAHX,SVCB0012002,591851502,607680,O-UCB,yes,yes,yes,no,yes
+ICIC,Manjeri Co-operative Urban Bank,MAJX,ICIC00MCUBL,676821052,508964,O-UCB,no,yes,yes,no,yes
+YESB,Makarpura Industrial Estate Co-operative Bank,MAKX,YESB0MIEB02,390159002,607224,O-UCB,no,yes,yes,no,yes
+HDFC,Malviya Urban Co-operative Bank,MALX,HDFC0CMUCBL,302834007,990254,O-UCB,yes,yes,yes,no,no
+UTIB,Mandvi Mercantile Co-operative Bank,MAMX,UTIB0SMMCB1,370806101,,O-UCB,no,yes,no,no,no
+YESB,Mansa Nagarik Sahakari Bank,MANX,YESB0TMNS02,380807002,990077,O-UCB,no,yes,yes,no,no
+ICIC,Maharana Pratap Co-operative Urban Bank,MAPX,ICIC00MPCUB,500259252,,O-UCB,no,yes,no,no,no
+IBKL,Mahesh Urban Co-operative Bank Solapur,MASX,IBKL0478MCB,413598002,,O-UCB,no,yes,yes,no,no
+KKBK,Shree Mahavir Sahakari Bank,MAVX,KKBK0SMSB01,431823002,,O-UCB,yes,yes,yes,no,no
+YESB,Manipur Womens Co-operative Bank,MAWX,YESB0MWCB01,795810002,,O-UCB,no,yes,no,no,no
+ICIC,Mayani Urban Co-operative Bank,MAYX,ICIC00TMUCB,,508567,O-UCB,no,yes,no,no,no
+WBSC,Mugberia Central Co-operative Bank,MBCX,WBSC0MGCB01,721812901,607182,DCCB,no,yes,yes,no,yes
+PUNB,Dakshin Bihar Gramin Bank,MBGX,PUNB0MBGB06,801811102,607136,RRB,yes,yes,yes,no,yes
+ICIC,Manmandir Co-operative Bank,MBLX,ICIC00MMCBL,415812476,990137,O-UCB,no,yes,no,no,yes
+ICIC,Mahesh Urban Co-operative Bank Ahmedpur,MCAX,ICIC00MUCBA,413824052,608038,O-UCB,no,yes,no,no,yes
+MCBL,Mahanagar Co-operative Bank,MCBL,MCBL0960009,400096009,607320,S-UCB,yes,yes,yes,no,yes
+,Modern Co-operative Bank,MCBX,,424865202,607582,O-UCB,no,yes,no,no,yes
+UTIB,Muktsar Central Co-operative Bank,MCCX,UTIB0SMCC01,152837110,607552,O-UCB,no,yes,yes,no,yes
+ICIC,Muzaffarnagar District Co-operative Bank,MCDX,ICIC00MUZAF,251807154,607845,DCCB,no,yes,yes,no,yes
+UTIB,Mahendragarh Central Co-operative Bank,MCLX,UTIB0SMCCB1,123839000,508652,DCCB,no,yes,no,no,yes
+UTIB,Mahesh Urban Co-operative Bank,MCOX,UTIB0SMUCB1,431851202,990281,O-UCB,no,yes,yes,no,yes
+KKBK,Mattancherry Sarvajanik Co-operative Bank,MCSX,KKBK0MSCB01,682859002,,O-UCB,no,yes,yes,no,no
+HDFC,Mahaveer Co-operative Urban Bank,MCUX,HDFC0CMCUBL,500240257,607587,O-UCB,yes,yes,yes,no,yes
+MDCB,Mumbai District Central Co-operative Bank,MDCB,MDCB0680001,400068001,607272,DCCB,no,yes,yes,no,yes
+TNSC,Madurai District Central Co-operative Bank,MDCX,TNSC0010600,625306002,508681,DCCB,no,yes,yes,no,yes
+MDBK,Model Co-operative Bank,MDEX,MDBK0000001,400807002,607304,O-UCB,no,yes,yes,no,yes
+SBIN,Rajasthan Marudhara Gramin Bank,MDGX,SBIN0RRMRGB,302348002,607509,RRB,no,yes,yes,no,yes
+KSCB,Mandya District Co-operative Central Bank,MDIX,KSCB0008001,571841502,607971,DCCB,no,yes,no,no,yes
+YESB,Mann Deshi Mahila Sahakari Bank,MDMX,YESB0MAN001,415867501,608133,O-UCB,yes,yes,no,no,no
+ICIC,Md Pawar Peoples Co-operative Bank Urun Islampur,MDPX,ICIC00MDPPC,415813101,,O-UCB,no,yes,no,no,no
+APBL,District Co-operative Central Bank,MEDX,APBL0017001,502816307,607504,DCCB,no,yes,yes,no,yes
+SBIN,Meghalaya Rural Bank,MERX,SBIN0RRMEGB,793620002,607206,RRB,yes,yes,yes,no,yes
+FDRL,Meenachil East Urban Co-operative Bank,MEUX,FDRL01MEUCB,686837103,607827,O-UCB,no,yes,no,no,yes
+IBKL,Muzaffarpur Central Co-operative Bank,MFCX,IBKL0294MCC,,608121,DCCB,no,yes,no,no,yes
+HDFC,"Mahatma Fule Urban Co-operative Bank,amravati",MFUX,HDFC0CMFUCB,444813102,,O-UCB,no,yes,no,no,no
+MAHG,Maharashtra Gramin Bank,MGBX,MAHG0004000,431570000,607000,RRB,no,yes,yes,no,yes
+IBKL,Mogaveera Co-operative Bank,MGCB,IBKL0452MCB,400084001,607196,O-UCB,no,yes,yes,no,no
+HDFC,Mansing Co-operative Bank,MGCX,HDFC0CMCBLD,416907276,607635,O-UCB,yes,yes,yes,no,yes
+IBKL,Magadh Central Co-operative Bank,MGDX,IBKL0414MCB,,608174,DCCB,no,yes,no,no,yes
+,Malwa Gramin Bank,MGRB,,140846102,607241,RRB,no,yes,no,no,no
+UTIB,Mangaldai Nagar Samabai Bank,MGSX,UTIB0SMNSB1,784816102,,O-UCB,no,yes,yes,no,no
+MHCB,Mizuho Bank,MHCB,MHCB0000532,400694002,,Foreign,no,yes,yes,no,no
+UTIB,Mahoba Urban Co-operative Bank Mahoba,MHCX,UTIB0SMUC12,210211251,990150,O-UCB,no,yes,yes,no,no
+,Mahila Co-operative Bak,MHLX,,560267002,,O-UCB,no,yes,yes,no,no
+IBKL,Shri Mahalaxmi Co-operative Bank Kolhapur,MHMX,IBKL0116MCO,416389001,607284,O-UCB,yes,yes,yes,no,yes
+YESB,Mahanagar Nagrik Sahakari Bank Maryadit,MHNX,YESB0MNSB01,462341002,607154,O-UCB,yes,yes,yes,no,yes
+HDFC,Mahesh Sahakari Bank Pune,MHSX,HDFC0CMASBL,411175001,607770,O-UCB,yes,yes,yes,no,yes
+ICIC,Mahesh Urbank Co-operative Bank Parli V.,MHUX,ICIC00MAUCB,431851352,990229,O-UCB,no,yes,no,no,no
+YESB,Mizoram Co-operative Apex Bank,MIZX,YESB0MAB001,796806002,607706,SCB,no,yes,yes,no,yes
+IBKL,Monghyr Jamui Central Co-operative Bank,MJCX,IBKL01078MJ,,508891,DCCB,no,yes,no,no,yes
+GSCB,Marketyard Commercial Co-operative Bank,MKYX,GSCB0UMCCBL,384808051,990252,O-UCB,no,yes,yes,no,yes
+UTIB,Merchants Liberal Co-operative Bank,MLCG,UTIB0SMLCBK,582802002,,O-UCB,no,yes,no,no,no
+WBSC,Malda District Central Co-operative Bank,MLDX,WBSC0MALD15,732802102,607175,DCCB,no,yes,yes,no,yes
+KKBK,Mattancherry Mahajanik Co-operative Urban Bank,MMCX,KKBK0MMCB01,628858002,,O-UCB,no,yes,yes,no,no
+HDFC,Mahila Nagrik Sahakari Bank Maryadit Mahasamund,MMMX,HDFC0CMNSBM,493863101,990216,O-UCB,yes,yes,no,no,no
+HDFC,"Mahila Co-operative Nagarik Bank,bharuch",MNBX,HDFC0CTMCNB,392802001,508939,O-UCB,no,yes,no,no,no
+UTIB,Mansa Central Co-operative Bank,MNCX,UTIB0SMSA01,151829054,607565,O-UCB,no,yes,yes,no,yes
+IBKL,Mehsana Nagarik Sahakari Bank,MNSX,IBKL0443MNB,382807141,607667,O-UCB,no,yes,yes,no,yes
+UTIB,Moga Central Co-operative Bank,MOGX,UTIB0SMCB01,142803002,607564,O-UCB,no,yes,yes,no,yes
+,Mohol Urban Co-operative Bank,MOUX,,813858501,,O-UCB,no,yes,no,no,no
+UTIB,Moirang Primary Co-operative Bank,MPCX,UTIB0SMPCB1,795826202,990253,O-UCB,no,yes,yes,no,yes
+IBKL,Malappuram District Co-operative Bank,MPDX,IBKL0209M01,676822152,607588,DCCB,no,yes,yes,no,yes
+CBIN,Madhya Pradesh Rajya Sahakari Bank Maryadit,MPRX,CBIN0MPABAA,462281002,607738,DCCB,yes,yes,yes,no,yes
+PUNB,Manipur Rural Bank,MRBX,PUNB0RRBMRB,795614002,607062,RRB,yes,yes,yes,no,yes
+IBKL,Maratha Co-operative Bank,MRTX,IBKL0101MCB,590807002,990070,O-UCB,yes,yes,yes,no,yes
+SRCB,Mansarovar Urban Co-operative Bank,MSAX,SRCB0001MCB,226185263,607334,O-UCB,no,yes,yes,no,yes
+HDFC,Malad Sahakari Bank,MSBL,HDFC0CMALAD,400079002,508549,O-UCB,yes,yes,yes,no,yes
+IBKL,M.s.Co-operative Bank,MSBX,IBKL0553MSC,390320001,990098,O-UCB,no,yes,yes,no,yes
+MSCI,Maharashtra State Co-operative Bank,MSCI,MSCI0082002,400082002,607315,SCB,yes,yes,yes,no,yes
+YESB,Manipur State Co-operative Bank,MSCX,YESB0MSCB01,795808002,508795,SCB,no,yes,yes,no,yes
+MSNU,Mehsana Urban Co-operative Bank,MSNU,MSNU0000001,384313001,607084,S-UCB,yes,yes,yes,no,yes
+GSCB,Mehsana District Central Co-operative Bank,MSNX,GSCB0MSN001,380124256,607870,DCCB,no,yes,yes,no,yes
+HDFC,Manorama Co-operative Bank Solapur,MSOX,HDFC0CMANCB,413596002,,O-UCB,no,yes,yes,no,no
+IBKL,Merchants Souharda Sahakara Bank Niyamitha,MSSX,IBKL01241MB,577894502,608455,O-UCB,yes,yes,no,no,no
+MUBL,Municipal Co-operative Bank,MUBL,MUBL0000001,400110002,607143,O-UCB,yes,yes,yes,no,yes
+IBKL,Maharaja Co-operative Urban Bank,MUBX,IBKL0031MCB,530259251,,O-UCB,no,yes,yes,no,no
+UTIB,Merchants Urban Co-operative Bank,MUCG,UTIB0SMUCBG,582883002,,O-UCB,no,yes,no,no,no
+HDFC,Madheshwari Urban Development Co-operative Bank,MUDX,HDFC0CMUDCB,413915501,608055,O-UCB,no,yes,no,no,no
+UTIB,Mahudha Nagarik Sahakari Bank,MUNX,UTIB0STMNBI,387808501,990013,O-UCB,no,yes,no,no,no
+ICIC,Mehmadabad Urban Peoples Co-operative Bank,MUPX,ICIC00MUPCB,387809501,608187,O-UCB,no,yes,yes,no,yes
+WBSC,Murshidabad District Central Co-operative Bank,MURX,WBSC0MCCB01,742806003,607181,DCCB,no,yes,yes,no,yes
+HDFC,Muslim Co-operative Bank,MUSX,HDFC0CMUSLM,411165001,607702,O-UCB,yes,yes,yes,no,yes
+HDFC,Mahaveer Co-operative Bank,MVCX,HDFC0CTMCBL,590802002,607940,O-UCB,yes,yes,yes,no,yes
+HDFC,Manvi Pattana Souharda Sahakari Bank Ni,MVIX,HDFC0CMPSSB,584854501,607180,O-UCB,yes,yes,yes,no,yes
+YESB,Meghalaya Co-operative Apex Bank,MYAX,YESB0MCA001,793618002,607162,SCB,no,yes,yes,no,yes
+ORCB,Mayurbhanj Central Co-operative Bank,MYCX,ORCB0MYB001,757800002,508756,O-UCB,no,yes,no,no,no
+KSCB,Mysore Chamarajanagar District Co-operative Bank,MYSX,KSCB0007001,570573002,508701,DCCB,no,yes,no,no,no
+YESB,Mizoram Urban Co-operative Development Bank,MZCX,YESB0MUDC01,796820002,,O-UCB,no,yes,yes,no,no
+SBIN,Mizoram Rural Bank,MZRX,SBIN0RRMIGB,796805002,607230,RRB,yes,yes,yes,no,yes
+HDFC,Nandani Sahakari Bank,NABX,HDFC0CNSBLN,,990148,O-UCB,no,yes,no,no,yes
+IBKL,Nalanda Central Co-operative Bank Nalanda,NACX,IBKL0780NCB,803819002,607964,DCCB,no,yes,no,no,yes
+IBKL,Nadapuram Co-operative Bank,NADX,IBKL0114NUB,673852801,608182,O-UCB,no,yes,no,no,no
+SBIN,Nagaland Rural Bank,NAGX,SBIN0RRNLGB,797804102,607220,RRB,no,yes,yes,no,yes
+YESB,Nainital District Co-operative Bank,NAIX,YESB0NDCB01,263808002,607592,DCCB,no,yes,yes,no,yes
+UTIB,National Urban Co-operative Bank,NALX,UTIB0SNUC01,110211251,990166,O-UCB,no,yes,yes,no,yes
+UTIB,Nanded District Central Co-operative Bank,NANX,UTIB0SNDCC1,431807101,990201,DCCB,no,yes,no,no,yes
+ICIC,Nasik District Central Co-operative Bank,NASX,ICIC00NDCCB,422372026,508800,DCCB,no,yes,yes,no,no
+RSCB,Nagaur Central Co-operative Bank,NAUX,RSCB0028099,341822500,508744,DCCB,no,yes,yes,no,yes
+NVNM,Navnirman Co-operative Bank,NAVX,NVNM0000001,380139009,990014,O-UCB,no,yes,yes,no,yes
+IBKL,Nawanagar Co-operative Bank,NAWX,IBKL0427NCB,380621000,508669,O-UCB,no,yes,yes,no,yes
+UTIB,National Co-operative Bank Bangalore,NBBX,UTIB0SNCB01,560275001,607846,O-UCB,no,yes,yes,no,yes
+UTIB,Nalbari Urban Co-operative Bank,NBCX,UTIB0SNUCB1,781085202,990185,O-UCB,no,yes,no,no,no
+HDFC,"Nagrik Sahakari Bank, Vidisha",NBMX,HDFC0CNSBMV,464841201,607886,O-UCB,yes,yes,no,no,yes
+KKBK,National Co-operative Bank,NCBL,KKBK0TNCB02,400409004,607317,O-UCB,yes,yes,yes,no,yes
+UTIB,Nawanshahr Central Co-operative Bank,NCBX,UTIB0SNWS01,144806927,607550,O-UCB,no,yes,yes,no,yes
+HDFC,Nabadwip Co-operative Credit Bank,NCCX,HDFC0CNCCBL,741860302,990082,O-UCB,no,yes,yes,no,yes
+HDFC,Nagnath Urban Co-operative Bank Hingoli,NCOX,HDFC0CNUB01,431850402,990294,O-UCB,no,yes,no,no,no
+FDRL,Nilambur Co-operative Urban Bank,NCUX,FDRL0NCUB01,679828102,607905,O-UCB,no,yes,yes,no,yes
+IBKL,Naval Dockyard Co-operative Bank,NDCB,IBKL0452ND1,400936002,990304,O-UCB,no,yes,yes,no,yes
+TNSC,Nilgiris District Central Co-operative Bank,NDCX,TNSC0010700,643800002,508660,DCCB,no,yes,yes,no,yes
+WBSC,Nadia District Central Co-operative Bank,NDDX,WBSC0NDCB01,741807102,607173,DCCB,no,yes,yes,no,yes
+HDFC,Nashik District Girna Sahakari Bank,NDGX,HDFC0CNDGCB,422509002,,DCCB,no,yes,no,no,no
+ICIC,Nashik District Industrial & Mercantile Co-operative Bank,NDIX,ICIC00NDIMC,422377002,,O-UCB,no,yes,yes,no,no
+ORCB,Nayagarh District Central Co-operative Bank,NDOX,ORCB0NGR001,752800102,508772,O-UCB,no,yes,no,no,no
+NESF,North East Small Finance Bank,NESF,NESF0000001,781773002,607929,SFB,yes,yes,yes,no,yes
+KKBK,Neyyattinkara Co-operative Urban Bank,NEYX,KKBK0NTCUB1,695857002,,O-UCB,no,yes,no,no,no
+YESB,Nagar Sahakari Bank Maharajganj,NGBX,YESB0NSB001,273803202,607142,O-UCB,no,yes,yes,no,yes
+INDB,Nagrik Sahakari Bank Maryadit Gwalior,NGKX,INDB0NSBG01,474470001,508632,O-UCB,yes,yes,yes,no,yes
+HDFC,Nagina Urban Co-operative Bank,NGNX,HDFC0CNGUBL,,990080,O-UCB,no,yes,no,no,yes
+IBKL,Nagar Sahakari Bank,NGRX,IBKL01064NS,206803002,990099,O-UCB,no,yes,yes,no,yes
+NGSB,Nagpur Nagarik Sahakari Bank,NGSB,NGSB0000001,440183000,607573,S-UCB,no,yes,yes,no,yes
+HDFC,Nagarik Sahakari Bank Maryadit Durg,NGSX,HDFC0CNSBLD,491841002,990017,O-UCB,no,yes,yes,no,yes
+HDFC,Nagaur Urban Co-operative Bank,NGUX,HDFC0CNUCB2,341706002,,O-UCB,no,yes,no,no,no
+NICB,New India Co-operative Bank,NICB,NICB0000001,400085001,607583,S-UCB,no,yes,yes,no,yes
+ICIC,Nidhi Co-operative Bank,NIDX,ICIC00NIDHI,380118306,990088,O-UCB,no,yes,yes,no,yes
+HDFC,Nilkanth Co-operative Bank,NILX,HDFC0CNUCBH,413600002,,O-UCB,no,yes,yes,no,no
+HDFC,Nirmal Urban Co-operative Bank Nagpur,NIRX,HDFC0CNB311,440082311,607549,O-UCB,no,yes,yes,no,yes
+IBKL,Nileshwar Co-operative Urban Bank,NIUX,IBKL0340NCU,671860052,508820,O-UCB,no,yes,no,no,no
+ICIC,Nav Jeevan Co-operative Bank,NJCX,ICIC00NVJVN,400082443,508544,O-UCB,no,yes,yes,no,yes
+BKID,Narmada Jhabua Gramin Bank,NJGX,BKID0NAMRGB,452653002,508515,RRB,no,yes,yes,no,yes
+HDFC,Nashik Zila Mahila Vikas Sahakari Bank,NJMX,HDFC0CNJMVB,422381002,,DCCB,no,yes,yes,no,no
+IBKL,Nasik Zila Mahila Sahakari Bank,NJSX,IBKL0458NJM,422371002,,DCCB,no,yes,yes,no,no
+NKGS,NKGSB Co-operative Bank,NKGS,NKGS0000001,400086001,607104,S-UCB,yes,yes,yes,no,yes
+APBL,Nalgonda Dist. Co-operative Central Bank,NLGX,APBL0023001,508856002,607505,DCCB,no,yes,yes,no,yes
+IBKL,"National Urban Co-operative Bank,bahraich",NLUX,IBKL01095NU,,,O-UCB,no,yes,no,no,no
+NMCB,Nasik Merchants Co-operative Bank,NMCB,NMCB0000001,422369018,508627,S-UCB,no,yes,yes,no,yes
+IBKL,Navi Mumbai Co-operative Bank,NMCX,IBKL0123NMC,400082666,508823,O-UCB,yes,yes,yes,no,yes
+GSCB,Naroda Nagrik Co-operative Bank,NNCX,GSCB0UNNCBL,380302003,607684,O-UCB,yes,yes,yes,no,yes
+NNSB,Nutan Nagarik Sahakari Bank,NNSB,NNSB0000001,380128001,502801,S-UCB,yes,yes,yes,no,yes
+IBKL,Nutan Nagari Sahakari Bank Ichalkaranji,NNSX,IBKL0467NS1,416830201,990160,O-UCB,no,yes,no,no,yes
+YESB,Noble Co-operative Bank,NOBX,YESB0NCB001,110532251,508592,O-UCB,no,yes,yes,no,yes
+INDB,Noida Commercial Co-operative Bak,NOIX,INDB0NCCB00,110094277,990101,O-UCB,no,yes,yes,no,yes
+NOSC,Bank of Nova Scotia,NOSC,NOSC0000MUM,400239002,,Foreign,no,yes,yes,yes,no
+UTIB,Nadiad Peoples Co-operative Bank,NPCX,UTIB0NPCB01,387802001,,O-UCB,no,yes,yes,no,no
+KKBK,Nashik Zilha Sarkari & Parishad Karmachari Sb Nmt,NPKX,KKBK0NZSPK1,422259251,,O-UCB,no,yes,yes,no,no
+HDFC,Nabagram Peoples' Co-operative Credit Bank,NPPX,HDFC0CNPCCB,700882002,817221,O-UCB,no,yes,yes,no,yes
+YESB,Nasik Road Deolali Vyapari Sahakari Bank,NRDX,YESB0NRDB01,422374000,607678,O-UCB,no,yes,yes,no,yes
+UTIB,Northern Railway Multi State Primary Co-operative Bank,NRMX,UTIB0SNRP03,226853301,608156,O-UCB,no,yes,no,no,yes
+IBKL,Nagarik Sahakari Bank Bhiwandi,NSBB,IBKL0100NS2,400082445,990297,O-UCB,no,yes,yes,no,yes
+IBKL,Nagrik Sahakari Bank Lucknow,NSBX,IBKL0015NSB,226185272,508692,O-UCB,no,yes,yes,no,yes
+UTIB,Nagaland State Co-operative Bank,NSCX,UTIB0SNSCB1,797812002,508751,SCB,no,yes,yes,no,yes
+YESB,Nagar Sahakari Bank Gorakhpur,NSGX,YESB0NBGKPI,273611002,990110,O-UCB,no,yes,yes,no,yes
+IBKL,Nagrik Sahakari Bank Indore,NSIX,IBKL0001NSB,452283000,,O-UCB,no,yes,yes,no,no
+HDFC,"Nagarik Sahakari Bank Maryadit,jagdalpur",NSJX,HDFC0CNSBMJ,,990224,O-UCB,no,yes,no,no,no
+,Nagarik Samabay Bank,NSMX,,781450002,,O-UCB,no,yes,yes,no,no
+NSPB,NSDL Payments Bank,NSPB,NSPB0000001,123900123,990326,PB,yes,yes,no,no,no
+ICIC,Nishigandha Sahakari Bank,NSPX,ICIC00NGSBL,413868151,990215,O-UCB,no,yes,no,no,no
+HDFC,Nagrik Sahakari Bank,NSRX,HDFC0CNSBLR,492496002,990007,O-UCB,no,yes,yes,no,yes
+NTBL,Nainital Bank,NTBL,NTBL0DEL080,110184001,508573,Private,yes,yes,yes,yes,yes
+HDFC,New Urban Co-operative Bank Rampur,NUBX,HDFC0CNUCBL,244848100,607378,O-UCB,yes,yes,yes,no,yes
+KKBK,Navabharat Co-operative Urban Bank,NUCX,KKBK0NCUB01,500866002,607617,O-UCB,no,yes,yes,no,yes
+IBKL,"National Urban Co-operative Bank, Pratapgarh",NULX,IBKL01870N1,230830002,,O-UCB,no,yes,no,no,no
+HDFC,Navanagara Urban Co-operative Bank,NVCX,HDFC0CNUCBK,571804002,607642,O-UCB,no,yes,yes,no,yes
+YESB,Nagar Vikas Sahakari Bank,NVSX,YESB0NVSB01,241841002,607342,O-UCB,no,yes,yes,no,yes
+YESB,Nawada Central Co-operative Bank,NWCX,YESB0NCCB01,,508716,DCCB,no,yes,no,no,yes
+YESB,Osmanabad District Central Co-operative Bank,ODCX,YESB0DCC001,413830127,990248,DCCB,no,yes,no,no,no
+IOBA,Odisha Gramya Bank,ODGB,IOBA0ROGB01,751706002,607060,RRB,no,yes,yes,no,yes
+DOHB,HSBC Bank Oman S.A.O.G,OIBA,DOHB0000001,400746002,,Foreign,no,yes,yes,no,no
+HDFC,Ojhar Merchant's Co-operative Bank,OMCX,HDFC0COMC01,422809000,607789,O-UCB,no,yes,yes,no,yes
+YESB,Omkar Nagreeya Sahakari Bank,ONSX,YESB0OMKAR1,208185271,990096,O-UCB,no,yes,yes,no,yes
+ORBC,Oriental Bank of Commerce,ORBC,ORBC0100000,122022000,508585,PSB,no,yes,yes,yes,yes
+ORCB,Odisha State Co-operative Bank,ORCB,ORCB0000001,751218002,,SCB,no,yes,yes,no,no
+HDFC,Osmanabad Janata Sahakari Bank,OSMX,HDFC0COJSBL,413599002,990120,O-UCB,no,yes,yes,no,yes
+IDIB,Pallavan Grama Bank,PABX,IDIB0PLB001,605019351,607052,RRB,no,yes,yes,no,yes
+RSCB,Pali Central Co-operative Bank,PACX,RSCB0029099,306700000,508788,O-UCB,no,yes,no,no,yes
+GSCB,Padra Nagar Nagrik Sahakari Bank,PADX,GSCB0UPNSBL,390153257,990011,O-UCB,no,yes,yes,no,yes
+HDFC,Pali Urban Co-operative Bank,PALX,HDFC0CPUB04,306701002,990018,O-UCB,yes,yes,yes,no,yes
+GSCB,Panchmahal District Co-operative Bank,PANX,GSCB0PDC001,389815002,990053,DCCB,yes,yes,yes,no,yes
+YESB,Parbhani District Central Co-operative Bank,PARX,YESB0PDBHO1,431847202,607930,DCCB,no,yes,yes,no,yes
+UCBA,Paschim Banga Gramin Bank,PASX,UCBA0RRBPBG,700028255,607079,RRB,yes,yes,yes,no,yes
+IBKL,Pathanmthitta District Co-operative Bank,PATX,IBKL0339PDC,689806000,608145,DCCB,no,yes,yes,no,yes
+IBKL,Payangadi Urban Co-operative Bank,PAYX,IBKL0340PC1,670862152,508801,O-UCB,no,yes,no,no,no
+IDIB,Puduvai Bharathiar Grama Bank,PBGX,IDIB0PBG001,605638002,607054,RRB,no,yes,yes,no,yes
+HDFC,Patan Co-operative Bank,PCBL,HDFC0CPATAN,400149002,607357,O-UCB,no,yes,yes,no,yes
+HDFC,Parshwanath Co-operative Bank,PCBX,HDFC0CPCB01,416622002,607323,O-UCB,no,yes,yes,no,yes
+WBSC,Purulia Central Co-operative Bank,PCCB,WBSC0PCCB01,723810002,608193,O-UCB,no,yes,no,no,no
+UTIB,Panchkula Central Co-operative Bank,PCCX,UTIB0SPKL01,160346252,607841,DCCB,no,yes,yes,no,yes
+YESB,Panchsheel Mercantile Co-operative Bank,PCMX,YESB0PMCB02,395242002,990064,O-UCB,no,yes,yes,no,yes
+SVCB,Peoples' Co-operative Bank,PCOX,SVCB0009002,431801402,607279,O-UCB,no,yes,yes,no,yes
+IBKL,"Pimpri Chinchwad Sahakari Bank Maryadit,pimpri",PCPX,IBKL0087PCS,411164285,608186,O-UCB,no,yes,yes,no,yes
+TNSC,Pondicherry State Co-operative Bank,PCSX,TNSC0160101,605632001,990008,SCB,no,yes,yes,no,yes
+HDFC,Pune Cantonment Sahakari Bank,PCTX,HDFC0CPCSBL,411174355,508691,O-UCB,yes,yes,yes,no,yes
+YESB,Pochampally Co-operative Urban Bank,PCUX,YESB0PCUB01,500532251,607255,O-UCB,yes,yes,yes,no,yes
+YESB,Purnea District Central Co-operative Bank,PDBX,YESB0PDCCBL,854832102,508804,DCCB,no,yes,no,no,yes
+HDFC,Pune District Central Co-operative Bank,PDCX,HDFC0CPDCCB,411174002,607628,DCCB,no,yes,yes,no,yes
+,Pandyan Grama Bank,PDNX,,,607059,RRB,no,yes,no,no,no
+KKBK,Priyadarshani Nagari Sahakari Bank Jalna.,PDSX,KKBK0PNSB01,518834000,607326,O-UCB,yes,yes,yes,no,yes
+PUCB,Pandharpur Urban Co-operative Bank,PDUX,PUCB0000002,413588000,502951,O-UCB,no,yes,yes,no,no
+PKGB,Pragathi Krishna Gramin Bank,PGBX,PKGB0000001,583697103,607389,RRB,yes,yes,yes,no,yes
+KKBK,Progressive Co-operative Bank,PGCX,KKBK0PCBL01,400068253,990275,O-UCB,no,yes,yes,no,no
+HDFC,Progressive Urban Co-operative Bank,PGRX,HDFC0CPUCBL,226185267,990140,O-UCB,no,yes,yes,no,yes
+GSCB,"Pragati Co-operative Bank, Thara",PGTX,GSCB0UTPCBL,385807501,990243,O-UCB,no,yes,no,no,yes
+HDFC,Panihati Co-operative Bank,PHIX,HDFC0CTPHCB,700028259,,O-UCB,no,yes,no,no,no
+IBKL,Pithoragarh Zila Sahakari Bank,PITX,IBKL0768PJS,262801803,607595,DCCB,no,yes,no,no,yes
+PJSB,Gopinath Patil Parsik Janata Sahakari Bank,PJSB,PJSB0000001,400312002,607273,S-UCB,yes,yes,yes,no,yes
+YESB,Panchkula Urban Co-operative Bank Lmited,PKBX,YESB0PKUB01,160346251,,O-UCB,no,yes,yes,no,no
+UTIB,Palakkad District Co-operative Bank,PKDX,UTIB0SPKD21,678803003,990009,DCCB,no,yes,yes,no,yes
+UTIB,Palus Sahakari Bank,PLUX,UTIB0SPSB01,416879276,990083,O-UCB,yes,yes,yes,no,yes
+HDFC,Pimpalgaon Merchants Co-operative Bank,PMCX,HDFC0CPIMCO,422518501,607793,O-UCB,yes,yes,yes,no,no
+PMEC,Prime Co-operative Bank,PMEC,PMEC0000001,395250002,508587,O-UCB,yes,yes,yes,no,yes
+YESB,Pragati Mahila Nagrik Sahakari Bank Bhilai,PMNX,YESB0PMNSB1,490530001,607141,O-UCB,no,yes,yes,no,yes
+YESB,Panipat Urban Co-operative Bank,PNCX,YESB0PUCB01,110800002,508607,O-UCB,no,yes,yes,no,yes
+IBKL,Pune Merchant's Co-operative Bank,PNMX,IBKL0548PMC,411167004,608177,O-UCB,no,yes,yes,no,yes
+,Panipat Central Co-operative Bank,PNPX,,132801003,607757,DCCB,no,yes,no,no,yes
+HDFC,Poornawadi Nagrik Sahakari Bank,PNSX,HDFC0CPNSBL,413812052,607632,O-UCB,yes,yes,yes,no,yes
+IBKL,Pune People's Co-operative Bank,PPBX,IBKL0548PPC,411168001,607286,O-UCB,yes,yes,yes,no,yes
+HDFC,Pachora Peoples Co-operative Bank,PPCX,HDFC0CPPCB1,425837002,607619,O-UCB,no,yes,yes,no,yes
+IBKL,Proddatur Co-operative Town Bank,PRCX,IBKL01272PC,516818102,990127,O-UCB,no,yes,no,no,no
+HDFC,Prerana Co-operative Bank,PREX,HDFC0CPRCBL,411164288,607601,O-UCB,no,yes,yes,no,yes
+HDFC,Progressive Mercantile Co-operative Bank,PROX,HDFC0CPMCBL,380141002,990299,O-UCB,no,yes,yes,no,no
+YESB,Paraspar Sahayak Co-operative Bank,PRPX,YESB0PSCB01,452284002,,O-UCB,no,yes,yes,no,no
+HDFC,Pravara Sahakari Bank,PRSX,HDFC0CPSBLN,414811001,607977,S-UCB,no,yes,no,no,yes
+,Priyadarshani Urban Co-operative Bank,PRUX,,,607790,O-UCB,no,yes,no,no,no
+YESB,Pragati Sahakari Bank,PSBX,YESB0PSB002,390202000,607225,O-UCB,no,yes,yes,no,yes
+UTIB,Punjab State Co-operative Bank,PSCX,UTIB0PSCB01,160350001,607543,SCB,no,yes,yes,no,yes
+PSIB,Punjab & Sind Bank,PSIB,PSIB0000001,110023001,607087,PSB,yes,yes,yes,yes,yes
+APBL,Sri Potti Sriramulu Nellore Dccb,PSRX,APBL0009002,,607494,O-UCB,no,yes,yes,no,yes
+IBKL,Prathamik Shikshak Sahakari Bank,PSSX,IBKL0464PSS,416259251,508793,O-UCB,no,yes,yes,no,yes
+UTIB,Patiala Central Co-operative Bank,PTCX,UTIB0SPCB01,147847052,607566,O-UCB,no,yes,yes,no,yes
+HDFC,Patan Urban Co-operative Bank Patan,PTNX,HDFC0CPUBLP,415821252,990097,O-UCB,no,yes,yes,no,yes
+GSCB,Patan Nagarik Sahakari Bank,PTSX,GSCB0UPATAN,384815081,607237,O-UCB,yes,yes,yes,no,yes
+HDFC,People's Urban Co-operative Bank,PUBX,HDFC0CPUCOB,682826001,,O-UCB,yes,yes,yes,no,no
+YESB,Pusad Urban Co-operative Bank,PUCX,YESB0PUB001,445817501,508644,O-UCB,no,yes,yes,no,yes
+TNSC,Pudukottai District Central Co-operative Bank,PUDX,TNSC0010900,622800002,508656,DCCB,no,yes,yes,no,yes
+PUNB,Punjab Gramin Bank,PUGX,PUNB0PGB003,152337302,607138,RRB,yes,yes,yes,no,yes
+PUNB,Punjab National Bank,PUNB,PUNB0244200,110024001,508568,PSB,yes,yes,yes,yes,yes
+HDFC,Pune Urban Co-operative Bank,PUNX,HDFC0CCPUBL,411307000,607145,O-UCB,yes,yes,yes,no,yes
+SBIN,Purvanchal Gramin Bank,PURX,SBIN0RRPUGB,274725002,607213,RRB,no,yes,yes,no,yes
+,Purasawalkam Co-operative Bank,PUSX,,600092253,,O-UCB,no,yes,yes,no,no
+YESB,Puri Urban Co-operative Bank,PUUX,YESB0TPUCB1,752802002,,O-UCB,no,yes,no,no,no
+IBKL,Pavana Sahakari Bank,PVAX,IBKL0087PSB,411894002,607892,O-UCB,no,yes,no,no,no
+ICIC,Purvanchal Co-operative Bank Gazipur,PVCX,ICIC00PURVA,233855002,608137,O-UCB,no,yes,yes,no,yes
+YESB,Parwanoo Urban Co-operative Bank,PWUX,YESB0TPCB02,160024069,,O-UCB,no,yes,no,no,no
+IBKL,Payyoli Co-operative Urban Bank,PYCX,IBKL0114PCB,673851801,817269,O-UCB,no,yes,no,no,yes
+PYTM,Paytm Payments Bank,PYTM,PYTM0000001,110766001,608032,PB,yes,yes,yes,no,no
+HDFC,Qatar National Bank,QNBX,HDFC0CQNB01,400240276,990293,Foreign,no,yes,no,no,no
+IBKL,Quilon Co-operative Urban Bank,QUCX,IBKL0737Q01,691809002,508784,O-UCB,no,yes,yes,no,no
+RABO,Rabobank International,RABO,RABO0000001,,,Foreign,no,yes,yes,no,no
+ICIC,Rajkot Commercial Co-operative Bank,RACX,ICIC00RCCBL,360473002,,O-UCB,yes,yes,yes,no,no
+UTIB,Railway Employees Co-operative Bank,RAEX,UTIB0SRECB1,302211251,508769,O-UCB,no,yes,yes,no,yes
+YESB,Rajsamand Urban Co-operative Bank,RAJX,YESB0RUCB05,313576002,607228,O-UCB,no,yes,yes,no,yes
+IBKL,Rajkot Peoples Co-operative Bank,RAKX,IBKL01642RP,360445002,990128,O-UCB,yes,yes,yes,no,yes
+HDFC,Rajputana Mahila Urban Co-operative Bak,RAMX,HDFC0CRMUCB,302456251,990020,O-UCB,no,yes,yes,no,yes
+HDFC,Rander Peoples Co-operative Bank,RANX,HDFC0CRPCBL,395243003,508907,O-UCB,no,yes,yes,no,yes
+RATN,RBL Bank,RATN,RATN0TREASU,400176001,607393,Private,yes,yes,yes,no,yes
+YESB,Rajlaxmi Urban Co-operative Bank,RAUX,YESB0RLB001,422513002,990030,O-UCB,no,yes,yes,no,yes
+IBKL,Rajarambapu Sahakari Bank Peth,RBBX,IBKL0116RBS,416584002,607150,S-UCB,no,yes,yes,no,yes
+INDB,Reserve Bank Employees Co-operative Bank,RBCX,INDB0RBECBL,560288002,990205,O-UCB,no,yes,yes,no,yes
+RBIS,Reserve Bank Of India,RBIN,RBIS0RBIPI0,110001000,990328,PSB,no,no,no,yes,no
+HDFC,Raniganj Co-operative Bank,RCBX,HDFC0CRNGCB,713866302,,O-UCB,no,yes,no,no,no
+UTIB,Ropar Central Co-operative Bank,RCCX,UTIB0SRCB01,160359002,607562,O-UCB,no,yes,yes,no,yes
+TNSC,Ramanathapuram District Central Co-operative Bank,RCDX,TNSC0011000,623800002,508676,DCCB,no,yes,yes,no,yes
+YESB,Ravi Commercial Urban Co-operative Bank,RCMX,YESB0RCUB01,440082336,990231,O-UCB,no,yes,no,no,no
+KKBK,Rajadhani Co-operative Urban Bank,RCUX,KKBK0RCUB01,500874260,508917,O-UCB,no,yes,yes,no,yes
+IBKL,Raigad District Central Co-operative Bank,RDCX,IBKL0299RDC,402801001,607163,DCCB,no,yes,yes,no,yes
+HDFC,Col Rd Nikam Sainik Sahakari Bank,RDNX,HDFC0CRNSSB,415815001,607961,O-UCB,no,yes,yes,no,yes
+IBKL,Rendal Sahakari Bank Rendal,REBX,IBKL0116RSB,416827201,990100,O-UCB,no,yes,yes,no,yes
+YESB,Railway Employees Co-operative Banking Society,RECX,YESB0RECBS1,342646002,607362,O-UCB,no,yes,no,no,no
+UTIB,Rewari Central Co-operative Bank,REWX,UTIB0REWA01,123814002,607843,DCCB,no,yes,no,no,yes
+IBKL,Ramgarhia Co-operative Bank,RGCX,IBKL0413RCB,110026251,990115,O-UCB,no,yes,yes,no,yes
+RSBL,Rajgurunagar Sahakari Bank,RGSX,RSBL0000001,411739001,607271,O-UCB,no,yes,yes,no,yes
+HDFC,Raj Laxmi Mahila Urban Co-operative Bank Jaipur,RHMX,HDFC0CRLMUB,302189251,,O-UCB,no,yes,yes,no,no
+WBSC,Raiganj Central Co-operative Bank,RJCX,WBSC0RCCB03,733813202,607177,DCCB,no,yes,yes,no,yes
+HDFC,Rajajinagar Co-operative Bank,RJJX,HDFC0CRCBLB,,608131,O-UCB,no,yes,no,no,no
+GSCB,Rajpipla Nagarik Sahakari Bank,RJNX,GSCB0URNSBL,,990220,O-UCB,no,yes,no,no,no
+GSCB,Shri Rajkot District Co-operative Bank,RJTX,GSCB0RJT001,360474002,508672,DCCB,yes,yes,yes,no,yes
+HDFC,Ranilaxmibai Urban Co-operative Bank,RLUX,HDFC0CRLUCB,284826002,990092,O-UCB,no,yes,yes,no,yes
+HDFC,Ranuj Nagrik Sahakari Bank,RNBX,HDFC0CRANUJ,384806501,607585,O-UCB,no,yes,no,no,no
+IBKL,Ratnagiri District Central Co-operative Bank,RNDX,IBKL0574RDC,415803051,607794,DCCB,no,yes,no,no,yes
+KKBK,Ranga Reddy Co-operative Urban Bank,RNGX,KKBK0RRUB01,500025251,,O-UCB,no,yes,yes,no,no
+RNSB,Rajkot Nagarik Sahakari Bank,RNSB,RNSB0000001,360217002,607354,S-UCB,yes,yes,yes,no,yes
+ICIC,Rajdhani Nagar Sahakari Bank,RNSX,ICIC00RNSBL,226424002,990072,O-UCB,no,yes,yes,no,yes
+IBKL,Rohika Central Co-operative Bank Madhubani,ROCX,IBKL01066RC,847259002,508813,DCCB,no,yes,no,no,yes
+UTIB,Rohtak Central Co-operative Bank,ROHX,UTIB0RCCB01,124822007,607807,DCCB,no,yes,no,no,yes
+ICIC,Rajapur Urban Co-operative Bank,RPUX,ICIC00RUCBL,415229502,607804,O-UCB,no,yes,no,no,no
+YESB,Ramrajya Sahakari Bank,RRSX,YESB0RSBL01,411532251,607704,O-UCB,no,yes,yes,no,no
+HDFC,Raigad Sahakari Bank,RSBX,HDFC0C0RSBL,,607686,O-UCB,no,yes,yes,no,yes
+RSCB,Rajasthan State Co-operative Bank,RSCB,RSCB0000001,302190001,607266,SCB,yes,yes,yes,no,yes
+HDFC,Rajarshi Shahu Sahakari Bank,RSSX,HDFC0CRSSBL,411353002,508557,O-UCB,no,yes,yes,no,yes
+IBKL,Radhasoami Urban Co-operative Bank,RSUX,IBKL0080RUC,282024102,,O-UCB,no,yes,no,no,no
+IBKL,Rajarshi Shahu Govt Servants Co-operative Bank Kolh,RSVX,IBKL0464GSB,416906002,607355,O-UCB,no,yes,yes,no,no
+UTIB,Rajasthan Urban Co-operative Bank,RUCX,UTIB0SRUCB1,302191002,607932,O-UCB,no,yes,yes,no,yes
+KKBK,Shri Rukmini Sahakari Bank,RUKX,KKBK0SRSB01,411881004,,O-UCB,no,yes,no,no,no
+HDFC,Raipur Urban Mercantile Co-operative Bank,RUMX,HDFC0CTRUMC,492494002,607548,O-UCB,no,yes,yes,no,yes
+ICIC,Rampur Zila Sahakari Bank,RZSX,ICIC00RAMPR,244803102,607306,DCCB,no,yes,yes,no,yes
+KKBK,Saraswati Sahakari Bank,SABX,KKBK0SSBL02,422259255,990182,O-UCB,no,yes,yes,no,no
+ICIC,Shri Arihant Co-operative Bank,SACB,ICIC00ARIHT,400800002,607296,O-UCB,yes,yes,yes,no,yes
+HDFC,Sarvodaya Co-operative Bank Mumbai,SACX,HDFC0CSCBL1,400068322,990132,O-UCB,no,yes,yes,no,yes
+GSCB,Sabarkantha District Central Co-operative Bank,SADX,GSCB0SKB001,383802001,607836,DCCB,yes,yes,yes,no,yes
+SBIN,Saurashtra Gramin Bank,SAGX,SBIN0RRSRGB,360662002,607200,RRB,yes,yes,yes,no,yes
+SAHE,Sahebrao Deshmukh Co-operative Bank,SAHE,SAHE0000001,400349003,607288,O-UCB,no,yes,yes,no,yes
+HDFC,Sadhana Sahakari Bank Pune,SAHX,HDFC0CSBL02,411174310,990174,O-UCB,yes,yes,yes,no,yes
+HDFC,Sanmitra Sahakari Bank,SAIX,HDFC0CSSB01,,508897,O-UCB,no,yes,no,no,no
+GSCB,Salal Sarvodaya Nagarik Sahakari Bank,SALX,GSCB0USSNPL,383812501,,O-UCB,no,yes,no,no,no
+SRCB,Samata Sahakari Bank,SAMX,SRCB0SAM001,400068256,607881,O-UCB,yes,yes,yes,no,yes
+UTIB,Saibaba Nagari Sahakari Bank,SANX,UTIB0SSNS01,431822501,990282,O-UCB,yes,yes,no,no,yes
+UTIB,Shimoga Arecanut Mandy Merchants Co-operative Bank,SAOX,UTIB0SAMMCB,577802202,,O-UCB,no,yes,no,no,no
+ICIC,Shrimant Malojiraje Sahakari Bank,SAPX,ICIC00SMSBL,411164298,508591,O-UCB,no,yes,yes,no,yes
+UTIB,Sardarganj Mercantile Co-operative Bank,SARX,UTIB0SSMC01,388802001,990026,O-UCB,no,yes,yes,no,yes
+SVCB,Sahyadri Sahakari Bank,SASA,SVCB0013002,400087001,607709,O-UCB,no,yes,yes,no,yes
+UTIB,S.A.S Nagar Central Co-operative Bank,SASX,UTIB0SAS001,140836002,607561,O-UCB,no,yes,yes,no,yes
+YESB,Adv. Shamraoji Shinde Satyashodhak Bank,SATX,YESB0SATYA0,416259263,990094,O-UCB,no,yes,yes,no,yes
+,Saidapet Co-operative Urban Bank,SAUX,,600092256,,O-UCB,no,yes,yes,no,no
+HDFC,Sardar Vallabhbhai Sahakari Bank,SAVX,HDFC0CSVSBL,380256002,,O-UCB,yes,yes,yes,no,no
+RSCB,Sawai Madhopur Kendriya Sahakari Bank,SAWX,RSCB0030099,322819000,508768,DCCB,no,yes,no,no,yes
+UTIB,Shree Basaveshwar Urban Co-operative Bank,SBCR,UTIB0SBUBRN,581821102,,O-UCB,yes,yes,no,no,no
+ICIC,Sultan's Bathery Co-operative Urban Bank,SBCX,ICIC00SBCUB,673843801,607720,O-UCB,no,yes,yes,no,yes
+SBIN,State Bank of India,SBIN,SBIN0004343,400002000,508548,PSB,yes,yes,yes,yes,yes
+HDFC,Sri Channabasavaswamy Souhardha Pattana Sahak Bank,SBKX,HDFC0CCBSBK,583808302,,O-UCB,no,yes,no,no,no
+HDFC,Sonali Bank,SBLD,HDFC0CSBLIN,700099000,,Foreign,no,yes,yes,no,no
+YESB,Shubhalakshmi Mahila Co-operative Bank,SBLX,YESB0SLMCB2,452285002,,O-UCB,no,yes,yes,no,no
+INDB,Sri Banashankari Mahila Co-operative Bank,SBMX,INDB0SBMC01,560234253,990246,O-UCB,no,yes,yes,no,no
+GSCB,Shree Bhavnagar Nagrik Sahakari Bank,SBNX,GSCB0USBNBL,364615002,990048,O-UCB,no,yes,yes,no,yes
+UTIB,Sri Basaveshwar Pattana Sahakari Bank,SBPS,UTIB0SBPSBN,586824002,,O-UCB,no,yes,no,no,no
+UTIB,Sardar Bhiladwala Pardi People's Co-operative Bank,SBPX,UTIB0SBPP02,396804000,607584,S-UCB,yes,yes,yes,no,yes
+HDFC,Shri Bharat Urban Co-operative Bank Jaysingpur,SBUJ,HDFC0CBHRAT,416240155,608444,O-UCB,yes,yes,yes,no,yes
+ICIC,Shree Balaji Urban Co-operative Bank,SBUX,ICIC00SBUCB,485803001,990075,O-UCB,no,yes,yes,no,yes
+SCBL,Standard Chartered Bank,SCBL,SCBL0036001,400036001,607394,Foreign,yes,yes,yes,yes,yes
+RSCB,Sirohi Central Co-operative Bank,SCBX,RSCB0032099,307813000,508763,DCCB,no,yes,yes,no,yes
+TNSC,Salem District Central Co-operative Bank,SCCX,TNSC0011100,636624002,508648,DCCB,no,yes,yes,no,yes
+IBKL,South Canara District Central Co-operative Bank,SCDX,IBKL078SCDC,574298000,607312,DCCB,no,yes,no,no,yes
+HDFC,Social Co-operative Bank,SCIX,HDFC0CSCBL2,380130002,,O-UCB,no,yes,yes,no,no
+HDFC,Shri Chhani Nagrik Sahakari Bank,SCNX,HDFC0CSCNSB,390315002,990019,O-UCB,no,yes,yes,no,yes
+IBKL,Samruddhi Co-operative Bank,SCOB,IBKL0041SCB,440082326,990302,O-UCB,yes,yes,yes,no,no
+KSCB,Shimoga District Co-operative Central Bank,SCOX,KSCB0005001,577843202,607970,DCCB,no,yes,no,no,yes
+UTIB,Sangrur Central Co-operative Bank,SCPX,UTIB0SCCB01,148819004,607560,O-UCB,no,yes,yes,no,yes
+INDB,Sree Charan Souhardha Co-operative Bank,SCSX,INDB0SCSC02,560446001,608394,O-UCB,no,yes,yes,no,yes
+HDFC,Sudha Co-operative Urban Bank,SCUX,HDFC0CSUCUB,508848202,607369,O-UCB,yes,yes,yes,no,yes
+HDFC,Samata Co-operative Development Bank,SDBX,HDFC0CSAMAT,700093253,990261,O-UCB,no,yes,yes,no,yes
+SDCB,Surat District Co-operative Bank,SDCB,SDCB0000001,395244000,607336,DCCB,yes,yes,yes,no,yes
+HDFC,Sindhudurg District Central Co-operative Bank,SDCX,HDFC0CSINDC,416801560,607262,DCCB,no,yes,yes,no,yes
+HDFC,Solapur Siddheshwar Sahakari Bank,SDHX,HDFC0CSIDDH,413589000,505419,O-UCB,no,yes,yes,no,yes
+IBKL,Satara District Central Co-operative Bank,SDSX,IBKL0485SDC,415851151,607613,DCCB,no,yes,yes,no,yes
+IBKL,Shri D T Patil Co-operative Bank,SDTC,IBKL01340DT,591846202,990324,O-UCB,no,yes,no,no,yes
+ORCB,Sambalpur District Co-operative Central Bank,SDTX,ORCB0SBP001,768800302,508777,DCCB,no,yes,no,no,no
+HDFC,Sri Sudha Co-operative Bank,SDUX,HDFC0CSUDHA,560226275,,O-UCB,yes,yes,yes,no,no
+IBKL,Secunderabad Mercantile Co-operative Urban Bank,SEMX,IBKL0297TSM,500873002,,O-UCB,no,yes,no,no,no
+UTIB,Sehore Nagrik Sahakari Bank Sehore,SENX,UTIB0SSNSBL,466868051,,O-UCB,no,yes,no,no,no
+ICIC,Sevalia Urban Co-operative Bank,SEUX,ICIC00SEVUC,,990278,O-UCB,no,yes,yes,no,no
+HDFC,Shri Mahila Sewa Sahakari Bank,SEWX,HDFC0CSMSSB,380814001,607372,O-UCB,yes,yes,yes,no,yes
+IBKL,Sangli District Central Co-operative Bank,SGCX,IBKL0487SDC,416818151,607670,DCCB,no,yes,yes,no,yes
+ORCB,Sundargarh District Central Co-operative Bank,SGDX,ORCB0SUN001,770800002,,O-UCB,no,yes,no,no,no
+UTIB,Sangli Sahakari Bank,SGLX,UTIB0SSSB01,400082343,990126,O-UCB,no,yes,yes,no,yes
+HDFC,Sadguru Nagrik Sahakari Bank Maryadit,SGSX,HDFC0CSNSBM,462310002,,O-UCB,no,yes,yes,no,no
+HDFC,Sadguru Gahininath Urban Co-operative Bank Akluj,SGUX,HDFC0CSGUCB,413917452,990191,O-UCB,no,yes,no,no,no
+SVCB,Shankar Nagari Sahakari Bank,SHAX,SVCB0023002,431811101,508715,O-UCB,no,yes,yes,no,yes
+SHBK,Shinhan Bank,SHBK,SHBK0000001,400659002,,Foreign,no,yes,yes,no,no
+HDFC,Shriram Urban Co-operative Bank,SHBX,HDFC0CSUB01,440365002,508966,O-UCB,no,yes,yes,no,no
+YESB,Shimla Urban Co-operative Bank,SHCX,YESB0SUCB01,171800002,990285,O-UCB,no,yes,yes,no,no
+HDFC,Shree Samarth Sahakari Bank Nashik,SHEX,HDFC0CSSBNK,422375002,,O-UCB,no,yes,yes,no,no
+SVCB,Shri Ganesh Sahakari Bank,SHGX,SVCB0019002,411164287,508908,O-UCB,no,yes,yes,no,no
+SMCB,Shivalik Small Finance Bank,SHIX,SMCB0000001,247721002,607119,SFB,no,yes,yes,no,yes
+SKSB,Shikshak Sahakari Bank,SHKX,SKSB0000001,440182000,607708,S-UCB,no,yes,yes,no,no
+YESB,Sanghamitra Co-operative Urban Bank,SHMX,YESB0SCUB01,508817000,607934,O-UCB,no,yes,yes,no,yes
+UTIB,Shri Kanyaka Nagari Sahakari Bank,SHNX,UTIB0SKNS01,442808102,,O-UCB,no,yes,no,no,no
+HDFC,Sihor Mercantile Co-operative Bank,SHOX,HDFC0CHOKSB,364803071,990051,O-UCB,no,yes,yes,no,yes
+YESB,Shree Mahesh Co-operative Bank Nashik,SHRX,YESB0SMBLHO,422508002,,O-UCB,no,yes,yes,no,no
+HDFC,Sharad Sahakari Bank,SHSX,HDFC0CSHSBL,410805052,607285,O-UCB,yes,yes,yes,no,yes
+UTIB,Shiggaon Urban Co-operative Bank,SHUB,UTIB0S01SUB,581897501,,O-UCB,no,yes,no,no,no
+HDFC,Shushruti Souharda Sahakara Bank Niyamita,SHUX,HDFC0CSSSBN,560240252,990059,O-UCB,no,yes,yes,no,yes
+SIBL,South Indian Bank,SIBL,SIBL0002002,680059001,607167,Private,yes,yes,yes,yes,yes
+RSCB,Sikar Kendriya Sahakari Bank,SIBX,RSCB0031099,332816003,508723,DCCB,no,yes,no,no,yes
+UTIB,Sirsa Central Co-operative Bank,SICX,UTIB0SIRS01,125815253,607826,DCCB,no,yes,no,no,yes
+HDFC,Siddhi Co-operative Bank,SIDX,HDFC0CSCOBL,380258002,,O-UCB,no,yes,yes,no,no
+HDFC,Sihor Nagarik Sahakari Bank,SIHX,HDFC0CSNSBH,364804071,990036,O-UCB,no,yes,yes,no,yes
+GSCB,Shihori Nagarik Sahakari Bank,SINX,GSCB0USHNBL,385810501,990314,O-UCB,no,yes,no,no,no
+SVCB,Sircilla Co-operative Urban Bank,SIRX,SVCB0025002,505850502,508770,O-UCB,no,yes,no,no,yes
+UTIB,Sanmati Sahakari Bank,SISX,UTIB0SSSBL1,416831202,607748,O-UCB,no,yes,no,no,yes
+IBKL,Sitamarhi Central Co-operative Bank,SITX,IBKL0719SCB,843825002,607784,DCCB,no,yes,no,no,yes
+IBKL,Siwan Central Co-operative Bank,SIWX,IBKL01076SB,841826202,607812,DCCB,no,yes,no,no,yes
+,Sutlej Gramin Bank,SJGX,,151830052,607310,RRB,no,yes,no,no,no
+SJSB,Solapur Janata Sahakari Bank,SJSX,SJSB0000001,413587002,508570,S-UCB,no,yes,yes,no,yes
+YESB,Shrikrishna Co-operative Bank,SKCX,YESB0SCB003,440827000,990178,O-UCB,no,yes,yes,no,no
+IBKL,Sikkim State Co-operative Bank,SKKX,IBKL0108SIC,737657002,607920,SCB,no,yes,no,no,yes
+HDFC,Sankheda Nagarik Sahakari Bank,SKNX,HDFC0CSNSB0,390319002,508666,O-UCB,no,yes,yes,no,no
+IBKL,S S L S A Kurundwad Urban Bank,SKUX,IBKL0116SBK,416833152,990133,O-UCB,no,yes,yes,no,yes
+HDFC,Shree Laxmi Co-operative Bank,SLCX,HDFC0CSLCBL,411465002,,O-UCB,no,yes,yes,no,no
+SMBC,Sumitomo Mitsui Banking Corporation,SMBC,SMBC0000001,110040002,,Foreign,no,yes,yes,no,no
+IBKL,Sampada Sahakari Bank,SMBX,IBKL0459SBS,411888002,508639,O-UCB,no,yes,yes,no,no
+HDFC,Sangamner Merchants Co-operative Bank,SMCX,HDFC0CTSMCB,422804201,607731,O-UCB,yes,yes,no,no,no
+HDFC,Sumerpur Mercantile Urban Co-operative Bank,SMEX,HDFC0CS1812,306708125,608146,O-UCB,no,yes,yes,no,yes
+HDFC,Shree Mahalaxmi Mercantile Co-operative Bank,SMMX,HDFC0CSMMB1,390201002,990264,O-UCB,no,yes,yes,no,yes
+HDFC,Shree Mahuva Nagrik Sahakari Bank,SMNX,HDFC0CMNSAA,364808091,607259,O-UCB,no,yes,yes,no,yes
+IBKL,Soubhagya Mahila Souhardha Sahakari Bank,SMSX,IBKL0069SMS,582887002,,O-UCB,no,yes,no,no,no
+HDFC,Sanmitra Urban Co-operative Bank,SMTX,HDFC0CSANBK,444895002,,O-UCB,no,yes,no,no,no
+HDFC,Shri Mahavir Urban Co-operative Bank,SMUX,HDFC0CSMUCB,413603002,607701,O-UCB,no,yes,yes,no,yes
+INDB,Sir M Visvesvaraya Co-operative Bank,SMVC,INDB0VCB001,560261002,508973,O-UCB,no,yes,yes,no,yes
+,Sree Subramanyeswara Co-operative Bank,SMWX,,560455002,,O-UCB,no,yes,yes,no,no
+HDFC,Saraspur Nagarik Co-operative Bank,SNAX,HDFC0CSNCBL,380215001,990296,O-UCB,no,yes,yes,no,yes
+GSCB,Sarvodaya Nagrik Sahakari Bank,SNBX,GSCB0UTSNBL,383803001,990153,O-UCB,yes,yes,yes,no,yes
+IBKL,Sonepat Urban Co-operative Bank,SNCX,IBKL0729SUC,,607665,O-UCB,no,yes,yes,no,yes
+YESB,Sind Co-operative Urban Bank,SNDX,YESB0SIND01,500872002,990241,O-UCB,no,yes,yes,no,yes
+HDFC,Sarangpur Co-operative Bank,SNGX,HDFC0CTSCBL,380135002,990272,O-UCB,no,yes,yes,no,yes
+,Shramik Nagrik Sahakari Bank,SNKX,,452556002,,O-UCB,no,yes,yes,no,no
+SVCB,Sarjeraodada Naik Shirala Sahakari Bank,SNLX,SVCB0030002,416869502,,O-UCB,no,yes,no,no,no
+UTIB,Sonepat Central Co-operative Bank,SNPX,UTIB0SONE01,110024257,607758,DCCB,no,yes,yes,no,yes
+UTIB,Sarakari Naukarara Sahakari Bank Niyamt Vijayapura,SNSV,UTIB0SSNSBK,586806002,990305,O-UCB,no,yes,no,no,no
+YESB,Smriti Nagrik Sahakari Bank,SNSX,YESB0SNSB01,458832001,607248,O-UCB,no,yes,yes,no,yes
+SVCB,Secunderabad Co-operative Urban Bank,SOBX,SVCB0029002,500879002,,O-UCB,no,yes,yes,no,no
+SOGE,Societe Generale,SOGE,SOGE0INBB00,400608002,,Foreign,no,yes,yes,no,no
+YESB,Solapur District Central Co-operative Bank,SOLX,YESB0SDC001,413586002,607943,DCCB,no,yes,yes,no,yes
+HDFC,Sonbhadra Nagar Sahakari Bank,SONX,HDFC0CSNSBL,231803102,607299,O-UCB,no,yes,yes,no,yes
+IDIB,Saptagiri Grameena Bank,SPBX,IDIB0SGB001,520804542,607053,RRB,no,yes,yes,no,yes
+SPCB,Surat People's Co-operative Bank,SPCB,SPCB0251TIM,395251001,607146,S-UCB,yes,yes,yes,no,yes
+IBKL,Shirpur Peoples Co-operative Bank,SPCX,IBKL01600SP,424874001,607664,O-UCB,no,yes,yes,no,yes
+IBKL,Shree Panchganga Nagari Sahakari Bank,SPNX,IBKL0464PNS,416402002,607640,O-UCB,yes,yes,yes,no,yes
+IBKL,Sandur Pattana Souharda Sahakari Bank Niyamitha,SPSX,IBKL0776SPS,583861602,608012,O-UCB,yes,yes,yes,no,yes
+IBKL,Shripatraodada Sahakari Bank,SPTX,IBKL0116SSB,416396002,,O-UCB,no,yes,yes,no,no
+SRCB,Saraswat Co-operative Bank,SRCB,SRCB0NGRTGS,400088001,652150,S-UCB,yes,yes,yes,no,yes
+HDFC,Shree Bharat Co-operative Bank,SRCX,HDFC0CSBCBL,390801000,990267,O-UCB,no,yes,yes,no,yes
+HDFC,Shree Co-operative Bank,SREX,HDFC0CSHREE,390326002,,O-UCB,no,yes,yes,no,no
+SVCB,Sree Narayana Guru Co-operative Bank,SRGX,SVCB0020002,,990206,O-UCB,no,yes,no,no,no
+IBKL,Shree Dharati Co-operative Bank,SRHX,IBKL01642SD,360442000,508976,O-UCB,yes,yes,yes,no,yes
+IBKL,Sharad Nagari Sahakari Bank,SRSX,IBKL0478SNB,413607002,,O-UCB,no,yes,yes,no,no
+TSSB,Satara Shakari Bank,SSBL,TSSB0000001,400107001,607953,O-UCB,no,yes,yes,no,no
+HDFC,Shivdaulat Sahakari Bank,SSBX,HDFC0CSDSBL,415838501,607644,O-UCB,no,yes,yes,no,yes
+HDFC,Suco Souharda Sahakari Bank,SSDX,HDFC0CSUCOB,580836002,607622,O-UCB,no,yes,yes,no,yes
+YESB,Shree Sharada Sahakari Bank,SSHX,YESB0SHBK01,411358002,607982,O-UCB,no,yes,yes,no,yes
+IBKL,Sadhana Sahakari Bank,SSKX,IBKL0041SSB,440207000,,O-UCB,yes,yes,yes,no,no
+HDFC,Solapur Social Urban Co-operative Bank,SSLX,HDFC0CSSUCB,413590002,,O-UCB,no,yes,yes,no,no
+INDB,Sreenidhi Souharda Sahakari Bank Niyamitha,SSNX,INDB0SSBN01,,508739,O-UCB,no,yes,no,no,no
+ICIC,Samarth Sahakari Bank,SSOX,ICIC00SMRTH,413597002,508588,O-UCB,no,yes,yes,no,yes
+HDFC,Sant Sopankaka Sahakari Bank,SSSX,HDFC0CSSSBL,411174437,508614,O-UCB,no,yes,yes,no,yes
+UTIB,Sundarlal Sawaji Urban Co-operative Bank,SSWX,UTIB0SSUCB1,431564002,,O-UCB,yes,yes,yes,no,no
+STCB,SBM Bank,STCB,STCB0000065,400332002,607395,Foreign,yes,yes,yes,no,yes
+IBKL,State Transport Co-operative Bank,STCX,IBKL0617STB,440390002,990258,O-UCB,no,yes,yes,no,yes
+IBKL,Samastipur District Central Co-operative Bank,STDX,IBKL0065SDC,848259002,508689,DCCB,no,yes,no,no,yes
+HDFC,Sterling Urban Co-operative Bank,STRX,HDFC0CSTUCB,302426002,990010,O-UCB,yes,yes,yes,no,yes
+PUNB,Prathama UP Gramin Bank,SUBX,PUNB0SUPGB5,201822501,607135,RRB,yes,yes,yes,no,yes
+HDFC,Sangli Urban Co-operative Bank,SUCX,HDFC0CSUCBL,416819152,607649,S-UCB,no,yes,yes,no,yes
+GSCB,Surendranagar District Co-operative Bank,SUDX,GSCB0SNR001,363802001,607874,DCCB,no,yes,no,no,yes
+ICIC,Sulaimani Co-operative Bank,SULX,ICIC00SULCB,390325002,990112,O-UCB,no,yes,yes,no,yes
+YESB,Surat Mercantile Co-operative Bank,SUMX,YESB0SMCB05,395245002,508663,O-UCB,yes,yes,yes,no,yes
+HDFC,Surat National Co-operative Bank,SUNB,HDFC0CSNCBR,395246002,607335,O-UCB,yes,yes,yes,no,yes
+ICIC,Siddheshwar Urban Co-operative Bank Maryadit Sillod,SURX,ICIC00SIDUC,431899501,990187,O-UCB,no,yes,no,no,no
+SURY,Suryoday Small Finance Bank,SURY,SURY0000001,400757001,608022,SFB,yes,yes,yes,no,yes
+,Suco Souharda Sahakari Bank,SUSB,,591802501,817291,O-UCB,yes,yes,no,no,no
+IBKL,Sirsi Urban Sahakari Bank,SUSX,IBKL0069S01,581804402,990286,O-UCB,yes,yes,no,no,no
+SUTB,Sutex Co-operative Bank,SUTB,SUTB0000001,395248001,607962,O-UCB,yes,yes,yes,no,yes
+HDFC,Suvarnayug Sahakari Bank,SUVX,HDFC0CSUVRN,411352002,607229,O-UCB,yes,yes,yes,no,yes
+IBKL,Sri Vasavamba Co-operative Bank,SVAX,IBKL0365SVC,573804152,,O-UCB,yes,yes,no,no,no
+SVCB,SVC Co-operative Bank,SVCB,SVCB0000001,400089002,607258,S-UCB,yes,yes,yes,no,yes
+IBKL,Sarvodaya Commerical Co-operative Bank,SVCX,IBKL0443SCC,384851001,508673,O-UCB,yes,yes,yes,no,yes
+TNSC,Sivagangai District Central Co-operative Bank,SVGX,TNSC0011900,630800002,508649,DCCB,no,yes,yes,no,yes
+UTIB,Shri Vijay Mahantesh Co-operative Bank,SVMC,UTIB0SSVMCB,587866501,,O-UCB,no,yes,no,no,no
+ICIC,Shivaji Nagari Sahakari Bank,SVNX,ICIC00SHNSB,431816002,607980,O-UCB,no,yes,yes,no,no
+YESB,Sarvodaya Sahakari Bank,SVOX,YESB0SSBL01,395249002,990024,O-UCB,no,yes,yes,no,yes
+YESB,Shree Vardhaman Sahakari Bank,SVRX,YESB0SVSB01,390160000,990106,O-UCB,no,yes,yes,no,yes
+PMEC,Shri Vinayak Sahakari Bank,SVSX,PMEC0USVSBL,380805001,,O-UCB,no,yes,yes,no,no
+HDFC,Sawai Madhopur Urban Co-operative Bank,SWMX,HDFC0CSWMUB,322707002,990130,O-UCB,no,yes,yes,no,yes
+HDFC,Shree Warana Sahakari Bank,SWSX,HDFC0CSWSBL,416397002,508611,O-UCB,yes,yes,yes,no,yes
+SYNB,Syndicate Bank,SYNB,SYNB000RTGS,560025000,508508,PSB,no,yes,yes,yes,yes
+YESB,Adinath Co-operative Bank,TACX,YESB0ACB002,395432003,990257,O-UCB,no,yes,yes,no,yes
+APBL,Anantapur District Co-operative Central Bank,TADX,APBL0012001,515840000,607497,DCCB,no,yes,yes,no,yes
+UTIB,Anand Mercantile Co-operative Bank,TAMX,UTIB0SAMC01,388804001,608178,O-UCB,yes,yes,yes,no,no
+HDFC,Tapindu Urban Co-operative Bank,TAPX,HDFC0CTUCOB,800028251,,O-UCB,no,yes,no,no,no
+HDFC,Annasaheb Savant Co-operative Urban Bank Mahad,TASX,HDFC0CMAHAD,400240261,607607,O-UCB,no,yes,yes,no,yes
+UTIB,Ankola Urban Co-operative Bank,TAUB,UTIB0STAUCB,581803302,,O-UCB,no,yes,no,no,no
+IBKL,Bharath Co-operative Bank,TBCX,IBKL0008BCB,560274001,508525,O-UCB,no,yes,yes,no,yes
+UTIB,Buldana District Central Co-operative Bank,TBDX,UTIB0SBLDB1,,607850,DCCB,no,yes,no,no,yes
+UTIB,Bhadran People's Co-operative Bank,TBHX,UTIB0SBPCB1,,990273,O-UCB,no,yes,no,no,no
+GSCB,Bapunagar Mahila Co-operative Bank,TBMX,GSCB0UBMCBL,380808001,990259,O-UCB,no,yes,yes,no,yes
+GSCB,Becharaji Nagarik Sahakari Bank,TBNS,GSCB0UTBSBL,384822501,608223,O-UCB,no,yes,no,no,yes
+IBKL,Botad Peoples Co-operative Bank,TBPX,IBKL01606BP,364812051,990283,O-UCB,no,yes,no,no,no
+TBSB,Thane Bharat Sahakari Bank,TBSB,TBSB0000001,400525002,607291,S-UCB,yes,yes,yes,no,yes
+YESB,Bihar State Co-operative Bank,TBSX,YESB0BSCB01,800213001,607936,SCB,no,yes,yes,no,yes
+IBKL,Baroda Traders Co-operative Bank,TBTX,IBKL0553TBT,390154002,990271,O-UCB,no,yes,yes,no,no
+IBKL,Balusseri Co-operative Urban Bank,TBUX,IBKL0114BCU,673844352,508919,O-UCB,no,yes,no,no,yes
+YESB,Co-operative Bank of Rajkot,TCBX,YESB0RAJ001,360441002,607676,O-UCB,no,yes,yes,no,yes
+HDFC,Commercial Co-operative Bank,TCCX,HDFC0CTCCBK,416408003,607361,O-UCB,yes,yes,yes,no,yes
+IBKL,Town Co-operative Bank Hoskote,TCHX,IBKL0693TCB,560847002,608065,O-UCB,no,yes,no,no,no
+,Tamilnadu Circle Postal Co-operative Bank,TCPX,,600092257,,O-UCB,no,yes,yes,no,no
+,Trivandrum Co-operative Urban Bank,TCUB,,695198000,,O-UCB,no,yes,yes,no,no
+,Tiruvallur Co-operative Urban Bank,TCUX,,600091273,,O-UCB,no,yes,yes,no,no
+KSCB,District Co-operative Central Bank,TDBX,KSCB0018001,,607969,DCCB,no,yes,no,no,yes
+TDCB,Thane District Central Co-operative Bank,TDCB,TDCB0000001,400524001,607160,DCCB,yes,yes,yes,no,yes
+IBKL,Thrissur District Co-operative Bank,TDCX,IBKL0269TDC,680813002,607541,DCCB,no,yes,yes,no,yes
+APBL,District Co-operative Central Bank Kakinada,TDIX,APBL0004001,,607489,DCCB,no,yes,yes,no,yes
+HDFC,Dhanera Mercantile Co-operative Bank,TDMX,HDFC0CDMCBL,385808081,990090,O-UCB,no,yes,yes,no,yes
+,Thodupuzha Urban Co-operative Bank,TDPX,,685819002,,O-UCB,no,yes,yes,no,no
+,Nizamabad District Co-operative Central Bank,TDSX,,503814002,607056,DCCB,no,yes,yes,no,yes
+HDFC,Eenadu Co-operative Urban Bank,TECX,HDFC0CEENAD,500240256,608134,O-UCB,yes,yes,yes,no,yes
+IBKL,Tehri Garhwal Zila Sahakari Bank,TEHX,IBKL070TGZS,249814209,607654,DCCB,no,yes,yes,no,yes
+INDB,Textile Manufacturers Co-operative Bank,TEMX,INDB0TMCB01,560234256,990236,O-UCB,no,yes,no,no,no
+YESB,Textile Co-operative Bank of Surat,TESX,YESB0TCB002,395271002,990033,O-UCB,no,yes,yes,no,yes
+HDFC,Textile Traders Co-operative Bank,TETX,HDFC0CTTCBL,380131001,607679,O-UCB,no,yes,yes,no,yes
+UTIB,Fatehabad Central Co-operative Bank,TFCX,UTIB0FCCB01,125823102,607825,DCCB,no,yes,no,no,yes
+PUNB,Tripura Gramin Bank,TGBX,PUNB0RRBTGB,799802001,607065,RRB,yes,yes,yes,no,yes
+IBKL,Gokak Urban Co-operative Credit Bank,TGCG,IBKL01720GU,591844502,990301,O-UCB,no,yes,yes,no,yes
+WBSC,Tamluk-ghatal Central Co-operative Bank,TGCX,WBSC0TCCB01,721815202,607183,O-UCB,no,yes,yes,no,yes
+UTIB,Gondia District Central Co-operative Bank Gondia,TGDX,UTIB0SGDC01,441819002,508906,DCCB,no,yes,no,no,yes
+TGMB,Tumkur Grain Merchant's Co-operative Bank,TGMB,TGMB0000001,560574000,508675,O-UCB,no,yes,yes,no,yes
+HDFC,Gandhinagar Nagrik Co-operative Bank,TGNX,HDFC0CGNCBL,380811000,608053,O-UCB,yes,yes,yes,no,yes
+HDFC,Gandhinagar Urban Co-operative Bank,TGUX,HDFC0CTGUCB,380810001,608180,O-UCB,no,yes,yes,no,yes
+IBKL,Hooghly Co-operative Credit Bank,THCX,IBKL0401THC,700012252,990183,O-UCB,no,yes,yes,no,yes
+HDFC,Halol Mercantile Co-operative Bank,THMX,HDFC0CHMCBL,389801041,,O-UCB,no,yes,no,no,no
+TNSC,Thoothukudi District Central Co-operative Bank,THOX,TNSC0012100,627805002,508678,DCCB,no,yes,yes,no,yes
+IBKL,Raichur District Central Co-operative Bank,THRX,IBKL0296RDC,,508792,DCCB,no,yes,no,no,no
+WBSC,Howrah District Central Co-operative Bank,THWX,WBSC0HCCB01,700817505,607554,DCCB,no,yes,no,no,yes
+TNSC,Thiruvannamalai District Central Co-operative Bank,TIDX,TNSC0012000,606800002,508657,DCCB,no,yes,yes,no,yes
+TNSC,Tirunelveli District Central Co-operative Bank,TIRX,TNSC0011500,627803002,508677,DCCB,no,yes,yes,no,yes
+RSCB,Jaisalmer Central Co-operative Bank,TJAX,RSCB0036099,345710001,508747,O-UCB,no,yes,no,no,yes
+IBKL,Janata Co-operative Bank Sadalga,TJBX,IBKL01340JC,591910501,990214,O-UCB,no,yes,no,no,yes
+TNSC,Thanjavur Central Co-operative Bank,TJCX,TNSC0011300,613800002,508665,DCCB,no,yes,yes,no,yes
+ICIC,Jalgaon District Central Co-operative Bank Jalgaon,TJDX,ICIC00JDCCB,425835001,990143,DCCB,no,yes,no,no,yes
+IBKL,Jaynagar Mozilpur Peoples Co-operative Bank,TJMX,IBKL0086JMC,700259251,,O-UCB,no,yes,no,no,no
+GSCB,Jamnagar Mahila Sahakari Bank,TJNX,GSCB0UJAMNA,361804000,990156,O-UCB,no,yes,yes,no,yes
+TJSB,TJSB Sahakari Bank,TJSB,TJSB0000001,400109001,607130,S-UCB,yes,yes,yes,no,yes
+GSCB,Karjan Nagrik Sahakari Bank,TKAX,GSCB0UTKSBL,391803101,990274,O-UCB,no,yes,no,no,no
+IBKL,Kakatiya Co-operative Urban Bank,TKCX,IBKL0280KCB,500485251,607600,O-UCB,yes,yes,yes,no,no
+UTIB,Kannur District Co-operative Bank,TKDX,UTIB0SKDC01,670800001,607643,DCCB,no,yes,yes,no,yes
+UTIB,Kottakkal Co-operative Urban Bank,TKTX,UTIB0SKCU78,676835102,607358,O-UCB,yes,yes,yes,no,yes
+HDFC,Karan Urban Co-operative Bank,TKUX,HDFC0CKUCBK,132817104,990079,O-UCB,no,yes,yes,no,yes
+HDFC,Lunawada Peoples Co-operative Bank,TLPX,HDFC0CLPCBL,389810061,990222,O-UCB,no,yes,no,no,no
+HDFC,Madanapalle Co-operative Town Bank,TMAX,HDFC0CMPLTB,517853202,608183,O-UCB,no,yes,yes,no,no
+TMBL,Tamilnad Mercantile Bank,TMBL,TMBL0000200,400060001,607187,Private,yes,yes,yes,yes,yes
+IBKL,Mangalore Catholic Co-operative Bank,TMBX,IBKL0078MCC,575301009,,O-UCB,no,yes,no,no,no
+IBKL,Motihari Central Co-operative Bank,TMCX,IBKL01075MC,,607981,DCCB,no,yes,no,no,yes
+KKBK,Mahanagar Co-operative Urban Bank,TMNX,KKBK0MCUB01,500485254,,O-UCB,no,yes,yes,no,no
+IBKL,Midnapore Peoples Co-operative Bank,TMPX,IBKL0420MPC,721873302,,O-UCB,no,yes,no,no,no
+KKBK,Mysore Silk Cloth Merchants Co-operative Bank,TMSC,KKBK0MSCMB1,560926002,608486,O-UCB,no,yes,yes,no,no
+KKBK,Modasa Nagarik Sahakari Bank,TMSX,KKBK0MNSB01,383806051,608057,O-UCB,yes,yes,yes,no,yes
+IBKL,Mangalore Co-operative Town Bank,TMTX,IBKL0078MCT,575259251,990190,O-UCB,no,yes,yes,no,no
+HDFC,Mahila Urban Co-operative Bank,TMUX,HDFC0CMUCB1,441821002,,O-UCB,no,yes,no,no,no
+GSCB,Meghraj Nagarik Sahakari Bank,TNBX,GSCB0UMNCBL,383811501,,O-UCB,no,yes,no,no,no
+IBKL,National Central Co-operative Bank Bettiah,TNCX,IBKL01248NC,845824102,508717,DCCB,no,yes,no,no,yes
+IBKL,Thiruvananthapuram District Co-operative Bank,TNDC,IBKL0046T01,695180002,607736,DCCB,no,yes,yes,no,yes
+INDB,Nehrunagar Co-operative Bank,TNEX,INDB0NNCB01,560226324,,O-UCB,no,yes,no,no,no
+HDFC,Nakodar Hindu Urban Co-operative Bank,TNHX,HDFC0CNHUCB,,607325,O-UCB,no,yes,no,no,yes
+TNSC,Tamilnadu Industrial Co-operative Bank,TNIX,TNSC0015000,600411001,608097,O-UCB,no,yes,yes,no,yes
+HDFC,Neela Krishna Co-operative Urban Bank,TNKX,HDFC0CNEELA,500240270,,O-UCB,no,yes,yes,no,no
+IBKL,Nanded Merchants Co-operative Bank Nanded,TNMX,IBKL0500NMC,431808101,608152,O-UCB,no,yes,yes,no,no
+TNSC,Tamilnadu State Apex Co-operative Bank,TNSC,TNSC0099999,600091001,607131,SCB,yes,yes,yes,no,yes
+HDFC,Nandura Urban Co-operative Bank Nandura,TNUX,HDFC0CNUCBN,443846501,508797,O-UCB,yes,yes,yes,no,yes
+IBKL,Ottapalam Co-operative Urban Bank,TOCX,IBKL0763OCB,679834002,607745,O-UCB,no,yes,yes,no,yes
+IBKL,Patliputra Central Co-operative Bank,TPCX,IBKL0140PCC,800829002,607924,O-UCB,no,yes,no,no,yes
+APBL,Prakasam District Co-operative Central Bank,TPDX,APBL0008001,523827006,607493,DCCB,no,yes,yes,no,yes
+ICIC,Tripura State Co-operative Bank,TPSX,ICIC00TSCBL,799637017,607978,SCB,no,yes,yes,no,yes
+IBKL,Urban Co-operative Bank No 1758 Perinthalmanna,TPUX,IBKL0763P10,676827152,607699,O-UCB,no,yes,no,no,no
+YESB,Transport Co-operative Bank,TRAX,YESB0TPBL01,452286003,,O-UCB,no,yes,yes,no,no
+TNSC,Tiruchirapalli Dist. Cent Co-operative Bank,TRDX,TNSC0011400,600547000,508680,DCCB,no,yes,yes,no,yes
+TSAB,Telangana State Co-operative Apex Bank,TSAB,TSAB0000001,500754000,608019,DCCB,yes,yes,yes,no,yes
+IBKL,Sasaram Bhabhua Central Co-operative Bank,TSBX,IBKL0782SBC,821259202,508718,DCCB,no,yes,no,no,yes
+HDFC,Santragachi Co-operative Bank,TSCX,HDFC0CTSGCB,700002255,990066,O-UCB,no,yes,yes,no,yes
+APBL,District Co-operative Central Bank Srikakul,TSDX,APBL0001001,,607508,DCCB,no,yes,yes,no,yes
+IBKL,Shillong Co-operative Urban Bank,TSIX,IBKL0158SCU,793622000,990234,O-UCB,no,yes,yes,no,yes
+ORCB,Aska Co-operative Central Bank,TSKX,ORCB0ASK001,761800202,508773,O-UCB,no,yes,no,no,no
+GSCB,Sardargunj Mercantile Co-operative Bank Patan,TSMX,GSCB0USMCBL,384817081,990249,O-UCB,no,yes,no,no,no
+IBKL,Shoranur Co-operative Urban Bank,TSNX,IBKL0763SCU,679869052,,O-UCB,no,yes,yes,no,no
+GSCB,Sathamba Peoples Co-operative Bank,TSPX,GSCB0USATHM,383810501,,O-UCB,no,yes,no,no,no
+,S.S.K Co-operative Bank,TSSX,,580914002,608030,O-UCB,yes,yes,no,no,no
+GSCB,Saurashtra Co-operative Bank,TSUX,GSCB0USAURA,380815001,508743,O-UCB,yes,yes,yes,no,yes
+UTIB,Tarn Taran Central Co-operative Bank,TTCX,UTIB0STTN01,143838302,607569,O-UCB,no,yes,yes,no,yes
+IBKL,Tasgaon Urban Co-operative Banktasgaon,TTGX,IBKL0608TUC,416806301,,O-UCB,no,yes,no,no,no
+,Textile Co-operative Bank,TTLX,,560260002,,O-UCB,no,yes,yes,no,no
+ICIC,Tirur Urban Co-operative Bank,TTUX,ICIC00TUCBL,676823002,608135,O-UCB,no,yes,yes,no,yes
+HDFC,Trichur Urban Co-operative Bank,TUBX,HDFC0CTR384,680384002,508785,O-UCB,no,yes,yes,no,no
+HDFC,The Union Co-operative Bank Mahinagar,TUCL,HDFC0CUCBLM,700093255,990303,O-UCB,no,yes,yes,no,yes
+HDFC,Tirupati Urban Co-operative Bank,TUCX,HDFC0CTUB02,440344002,607147,O-UCB,yes,yes,yes,no,yes
+KKBK,Urban Co-operative Bank Dharangaon,TUDX,KKBK0UCB001,425828001,508794,O-UCB,yes,yes,no,no,no
+ICIC,Udaipur Mahila Urban Co-operative Bank,TUMX,ICIC00UMUCB,313581001,607693,O-UCB,yes,yes,yes,no,yes
+HDFC,Union Co-operative Bank,TUNX,HDFC0CUCBNR,380136002,607692,O-UCB,yes,yes,yes,no,yes
+IBKL,Urban Co-operative Bank Saharanpur,TUOX,IBKL0236UCS,247803002,990157,O-UCB,no,yes,yes,no,yes
+,Uttarsanda Peoples Co-operative Bank Uttarsanda,TUPX,,387812501,990237,O-UCB,no,yes,no,no,no
+YESB,Tura Urban Co-operative Bank,TURX,YESB0TURA01,794220002,,O-UCB,no,yes,yes,no,no
+,Vellala Co-operative Bank,TVBX,,600092252,,O-UCB,no,yes,yes,no,no
+APBL,District Co-operative Central Bank Vizianagaram,TVDX,APBL0002001,535824000,607488,DCCB,no,yes,yes,no,yes
+HDFC,Veraval Peoples Co-operative Bank,TVPX,HDFC0CVPCBL,362804000,508814,O-UCB,no,yes,yes,no,yes
+ICIC,Vita Urban Co-operative Bank,TVUX,ICIC00TVUCB,415824000,,O-UCB,no,yes,no,no,no
+INDB,Shree Thyagaraja Co-operative Bank,TYCX,INDB0STCB01,560226270,817213,O-UCB,no,yes,yes,no,no
+ICIC,Urban Co-operative Bank Basti,UBBX,ICIC00BASTI,272803002,607341,O-UCB,no,yes,yes,no,yes
+CBIN,Uttar Bihar Gramin Bank,UBGX,CBIN0R10001,846803577,607069,RRB,no,yes,yes,no,yes
+UBIN,Union Bank of India,UBIN,UBIN0550451,400026000,508500,PSB,yes,yes,yes,yes,yes
+UCBA,UCO Bank,UCBA,UCBA0000001,400028001,607066,PSB,yes,yes,yes,yes,yes
+,Utkal Co-operative Banking Society,UCBS,,751221002,,O-UCB,no,yes,yes,no,no
+IBKL,Urban Co-operative Bank Bareilly,UCBX,IBKL0232UCB,243803002,607274,O-UCB,yes,yes,yes,no,yes
+RSCB,Udaipur Central Co-operative Bank,UCCX,RSCB0035008,313578027,508745,DCCB,no,yes,yes,no,yes
+YESB,Urban Co-operative Bank Dehradun,UCDX,YESB0DUCB01,248542002,607898,O-UCB,no,yes,yes,no,yes
+HDFC,Universal Co-operative Urban Bank,UCUX,HDFC0CUCUB9,504813000,607609,O-UCB,no,yes,yes,no,yes
+SBIN,Utkal Grameen Bank,UGBX,SBIN0RRUKGB,767709002,607234,RRB,no,yes,yes,no,yes
+GSCB,Unjha Nagarik Sahakari Bank,UJSX,GSCB0UUNJBL,384810051,608179,O-UCB,yes,yes,no,no,yes
+CBIN,Uttarbanga Kshetriya Gramin Bank,UKGX,CBIN0R40012,734821002,607073,RRB,no,yes,yes,no,yes
+YESB,Uma Co-operative Bank,UMAX,YESB0UMA002,390323002,990044,O-UCB,no,yes,yes,no,yes
+HDFC,Umreth Urban Co-operative Bank,UMCX,HDFC0CUUCB2,388808151,508733,O-UCB,no,yes,yes,no,yes
+YESB,Udaipur Mahila Samridhi Urban Co-operative Bank,UMSX,YESB0MSB002,313610002,607305,O-UCB,yes,yes,yes,no,yes
+YESB,Umiya Urban Co-operative Bank,UMUX,YESB0UMIB01,440801000,990006,O-UCB,no,yes,yes,no,yes
+HDFC,Una Peoples Co-operative Bank,UNAX,HDFC0CUPCBA,362807111,,O-UCB,no,yes,no,no,no
+GSCB,United Co-operative Bank,UNIX,GSCB0UUCOBL,380422001,990049,O-UCB,no,yes,yes,no,yes
+YESB,United Mercantile Co-operative Bank,UNMX,YESB0UMCBHO,208185251,990040,O-UCB,no,yes,yes,no,yes
+GSCB,Unava Nagrik Sahakari Bank,UNSX,GSCB0UUNSBL,384818051,990121,O-UCB,no,yes,yes,no,yes
+UPCB,Uttar Pradesh Co-operative Bank,UPCX,UPCB0000001,123123123,607523,SCB,no,yes,yes,no,yes
+ORCB,United Puri Nimapara Central Bank,UPNX,ORCB0UPN001,752800002,,O-UCB,no,yes,no,no,no
+ICIC,Urban Co-operative Bank Siddharthnagar,URCX,ICIC00SIDRH,,607718,O-UCB,no,yes,yes,no,yes
+IBKL,Urban Co-operative Bank Budaun,URDX,IBKL01263UC,243802202,990199,O-UCB,no,yes,no,no,yes
+IBKL,Urban Co-operative Bank Mainpuri,URMX,IBKL01269UB,205832002,990155,O-UCB,no,yes,no,no,yes
+YESB,Urban Co-operative Bank Rourkela,UROX,YESB0UCBR01,769800002,,O-UCB,no,yes,yes,no,no
+UJVN,Ujjivan Small Finance Bank,USFB,UJVN0000001,560761002,508991,SFB,yes,yes,yes,no,yes
+ICIC,Udham Singh Nagar District Co-operative Bank,USNX,ICIC00USNDC,263812202,607520,DCCB,no,yes,no,no,yes
+UTBI,United Bank of India,UTBI,UTBI0HOA139,700027001,607028,PSB,no,yes,yes,yes,yes
+HDFC,Uttarpara Co-operative Bank,UTBX,HDFC0CTUCB1,700211251,990219,O-UCB,no,yes,no,no,yes
+HDFC,Uttrakhand Co-operative Bank,UTCX,HDFC0CUCOBL,249809102,990069,O-UCB,no,yes,yes,no,yes
+SBIN,Uttarakhand Gramin Bank,UTGX,SBIN0RRUTGB,248544002,607197,RRB,yes,yes,yes,no,yes
+UTIB,Axis Bank,UTIB,UTIB0000248,400211000,607153,Private,yes,yes,yes,yes,yes
+UTKS,Utkarsh Small Finance Bank,UTKS,UTKS0000001,221762002,608014,SFB,yes,yes,yes,no,yes
+ICIC,Uttarakhand State Co-operative Bank,UTKX,ICIC00USCBD,263554002,607356,SCB,no,yes,yes,no,yes
+YESB,Uttarkashi Zila Sahakari Bank,UTZX,YESB0DCBU01,249804302,607656,DCCB,no,yes,yes,no,yes
+UUCB,Udaipur Urban Co-operative Bank,UUCX,UUCB0000001,313577007,607712,O-UCB,yes,yes,yes,no,yes
+GSCB,Valsad District Central Co-operative Bank,VADX,GSCB0VDC001,396801001,607742,DCCB,yes,yes,yes,no,yes
+IBKL,Vaishya Sahakari Bank Mumbai,VAIX,IBKL0501VSB,400082359,607960,O-UCB,yes,yes,yes,no,yes
+UTIB,Vaishya Nagari Sahakari Bank,VANX,UTIB0SVNS01,431852202,990280,O-UCB,yes,yes,yes,no,yes
+VARA,Varachha Co-operative Bank,VARA,VARA0000001,395289002,607311,O-UCB,yes,yes,yes,no,yes
+YESB,Vyaparik Audhyogik Sahakari Bank,VASX,YESB0VASB01,452287002,,O-UCB,no,yes,yes,no,no
+KKBK,Valmiki Urban Co-operative Bank,VAUX,KKBK0VUCB01,431887501,990255,O-UCB,yes,yes,no,no,yes
+YESB,Vaish Co-operative Adarsh Bank,VCAX,YESB0VCA001,110208002,990085,O-UCB,no,yes,yes,yes,yes
+HDFC,Vishwas Co-operative Bank,VCBX,HDFC0CVCBLN,422504002,607556,O-UCB,no,yes,yes,no,yes
+HDFC,Shri Veershaiv Co-operative Bank,VCCX,HDFC0CSVCBL,416407007,607144,O-UCB,yes,yes,yes,no,yes
+YESB,Vaish Co-operative New Bank,VCNB,YESB0VNB001,110195000,990046,O-UCB,no,yes,yes,yes,yes
+IBKL,Vita Merchants Co-operative Bank,VCOX,IBKL0116VMC,416259262,,O-UCB,no,yes,yes,no,no
+TNSC,Villupuram District Central Co-operative Bank,VDCX,TNSC0012200,605901003,508737,DCCB,no,yes,yes,no,yes
+HDFC,Vidyanand Co-operative Bank,VDYX,HDFC0CVCBL1,413602002,,O-UCB,no,yes,yes,no,no
+TNSC,Vellore District Central Co-operative Bank,VEDX,TNSC0011600,632800002,508679,DCCB,no,yes,yes,no,yes
+HDFC,Veraval Mercantile Co-operative Bank,VERX,HDFC0CVMCBA,362803051,607691,O-UCB,no,yes,yes,no,yes
+SBIN,Jharkhand Rajya Gramin Bank,VGBX,SBIN0RRVCGB,822812002,607210,RRB,yes,yes,yes,no,yes
+IBKL,Vaishali District Central Co-operative Bank,VHDX,IBKL0724VDC,844815002,508798,DCCB,no,yes,no,no,yes
+KKBK,Vijay Commercial Co-operative Bank,VICX,KKBK0VCCB01,360468002,607955,O-UCB,no,yes,yes,no,yes
+WBSC,Vidyasagar Central Co-operative Bank,VIDX,WBSC0VCCB01,721800051,607172,DCCB,no,yes,yes,no,yes
+VIJB,Vijaya Bank,VIJB,VIJB0009502,560029001,607075,PSB,no,yes,yes,no,yes
+VCOB,Vijay Co-operative Bank,VIJX,VCOB0000001,380132005,607260,O-UCB,no,yes,yes,no,yes
+YESB,Vikramaditya Nagrik Sahakari Bank,VIKX,YESB0VNSB01,456533002,990111,DCCB,yes,yes,yes,no,yes
+GSCB,Viramgam Mercantile Co-operative Bank,VIMX,GSCB0UVIRAM,380118364,990161,O-UCB,no,yes,no,no,no
+TNSC,Virudhunagar District Central Co-operative Bank,VIRX,TNSC0011800,626800302,508732,DCCB,no,yes,yes,no,yes
+IBKL,Visakhapatnam Co-operative Bank,VISX,IBKL0031VCB,530469002,990086,O-UCB,yes,yes,yes,no,yes
+VASJ,Vasai Janata Sahakari Bank,VJSX,VASJ0000001,400758001,607328,O-UCB,no,yes,yes,no,yes
+IBKL,Vima Kamgar Co-operative Bank,VKCX,IBKL0452VK1,400068258,990284,O-UCB,no,yes,yes,no,yes
+HDFC,Vikas Sahakari Bank Solapur,VKSX,HDFC0CVSBLS,413591002,,O-UCB,no,yes,yes,no,no
+HDFC,Vardhaman (mahila) Co-operative Urban Bank,VMCX,HDFC0CVB003,500222000,607629,O-UCB,yes,yes,yes,no,yes
+YESB,Vaijapur Merchants Co-operative Bank,VMMX,YESB0VMCB04,431814002,,O-UCB,no,yes,yes,no,no
+YESB,Vidarbha Merchants Urban Co-operative Bank,VMUX,YESB0VMUB04,440879002,,O-UCB,no,yes,yes,no,no
+ICIC,Vivekanand Nagrik Sahakari Bank Mydt,VNSX,ICIC00VNSBL,465827051,607571,O-UCB,no,yes,yes,no,yes
+ICIC,Vardhaman Co-operative Bank,VRDX,ICIC00TVCBL,361805001,990158,O-UCB,no,yes,yes,no,yes
+VSBL,Vishweshwar Sahakari Bank,VSBL,VSBL0000001,411335001,607103,O-UCB,yes,yes,yes,no,yes
+SVCB,Vidya Sahakari Bank,VSBX,SVCB0003002,411171002,607707,O-UCB,no,yes,yes,no,yes
+ICIC,Vikas Souharda Co-operative Bank,VSCX,ICIC00VSCBL,583229251,607178,O-UCB,yes,yes,yes,no,yes
+HDFC,Veerashaiva Sahakari Bank,VSSX,HDFC0CVSBHO,560226309,508927,O-UCB,yes,yes,yes,no,no
+YESB,Vaishali Shahari Vikas Co-operative Bank,VSVX,YESB0VSV001,844814002,607555,O-UCB,no,yes,no,no,no
+HDFC,Vaidyanath Urban Co-operative Bank,VUCX,HDFC0CVUCBL,431853352,607626,O-UCB,no,yes,yes,no,yes
+HDFC,Vallabh Vidyanagar Commercial Bank,VVCX,HDFC0CVVCCB,388810001,607976,O-UCB,yes,yes,yes,no,yes
+VVSB,Vasai Vikas Sahakari Bank,VVSB,VVSB0000001,400803002,607544,S-UCB,yes,yes,yes,no,yes
+YESB,Vyavsayak Sahakari Bank,VYAX,YESB0VSBL02,492495002,990073,O-UCB,no,yes,yes,no,yes
+HDFC,Vyapari Sahakari Bank Maryadit Solapur,VYPX,HDFC0CVSBMS,413592002,990262,O-UCB,no,yes,yes,no,yes
+IBKL,Waghodia Urban Co-operative Bank,WACX,IBKL0553TWU,390259251,,O-UCB,no,yes,yes,no,no
+SVCB,Wai Urban Co-operative Bank,WAIX,SVCB0016101,412801002,607240,O-UCB,no,yes,yes,no,yes
+APBL,Warangal District Co-operative Central Bank,WARX,APBL0021001,506851002,607507,DCCB,no,yes,yes,no,yes
+IBKL,Wardhaman Urban Co-operative Bank Nagpur,WAUX,IBKL0510WUC,440802000,,O-UCB,no,yes,yes,no,no
+WBSC,West Bengal State Co-operative Bank,WBSC,WBSC0000001,700093012,607120,SCB,no,yes,yes,no,yes
+HDFC,Women's Co-operative Bank,WCBX,HDFC0CWOMEN,403451002,990308,O-UCB,no,yes,yes,no,yes
+FDRL,Wayanad District Co-operative Bank,WDCX,FDRL0WDCB01,673839203,607631,DCCB,no,yes,yes,no,yes
+BKID,Vidharbha Kokan Gramin Bank,WKGX,BKID0WAINGB,416874002,508516,RRB,no,yes,yes,no,yes
+YESB,Wana Nagirik Sahakari Bank,WNBX,YESB0WANA01,442889152,,O-UCB,no,yes,no,no,no
+YESB,Warangal Urban Co-operative Bank,WRCX,YESB0WUCB01,506836002,,O-UCB,no,yes,no,no,no
+HDFC,Washim Urban Co-operative Bank.,WUCX,HDFC0CWUCBL,444811101,607687,O-UCB,no,yes,yes,no,yes
+UTIB,Wardha Zilla Parishad Emp Urban Co-operative Bank,WZUX,UTIB0SWJP01,442804001,990131,O-UCB,no,yes,no,no,no
+JAKA,J&K Grameen Bank,XJKG,JAKA0GRAMEN,180642000,607808,RRB,yes,yes,yes,no,yes
+YESB,Yavatmal District Central Co-operative Bank,YADX,YESB0YDC001,445813008,607602,DCCB,no,yes,yes,no,yes
+IBKL,Yavatmal Urban Co-operative Bank,YAVX,IBKL0041Y01,440800000,,O-UCB,no,yes,yes,no,no
+HDFC,Yashwant Co-operative Bank,YCBX,HDFC0CYACBP,415814151,607630,O-UCB,no,yes,yes,no,yes
+YESB,Yes Bank,YESB,YESB0000001,400532002,607223,Private,yes,yes,yes,no,yes
+YESB,Yadagiri Lakshmi Narsimha Swamy Co-operative Urban Bank,YLNX,YESB0YLNS01,508861702,607254,O-UCB,yes,yes,yes,no,yes
+HDFC,Yavatmal Mahila Sahakari Bank,YMSX,HDFC0CYMSB1,445814001,608158,O-UCB,no,yes,no,no,no
+UTIB,Yamuna Nagar Central Co-operative Bank,YNCX,UTIB0YCCB01,135824001,607862,DCCB,no,yes,no,no,yes
+HDFC,Yeshwant Nagari Sahakari Bank,YNSX,HDFC0CYNSBL,413814052,607381,O-UCB,no,yes,no,no,yes
+ICIC,Zila Sahakari Bank Bulandshahar,ZBBX,ICIC00BULND,203801002,607650,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Mathura,ZBSX,ICIC00MZSBL,281801003,607840,DCCB,no,yes,yes,no,yes
+ZCBL,Zoroastrian Co-operative Bank,ZCBL,ZCBL0000001,400693002,607319,S-UCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Bareilly,ZIBX,ICIC00ZSBLB,243802000,607877,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Unnao,ZILX,ICIC00UDCCB,208024252,607873,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Mirzapur,ZIMX,ICIC00MIRZA,231802002,607868,DCCB,no,yes,yes,no,yes
+YESB,Zila Sahakari Bank Lucknow,ZISX,YESB0ZSBL15,226185252,508959,DCCB,no,yes,no,no,yes
+ICIC,Zila Sahakari Bank Lalitpur,ZLLX,ICIC00LDCBL,284801102,607965,DCCB,no,yes,no,no,yes
+ICIC,Zila Sahakari Bank Moradabad,ZMMX,ICIC00MORAD,244803002,607837,DCCB,no,yes,yes,no,yes
+IBKL,Rani Channamma Mahila Sahakari Bank,ZRNB,IBKL0101BZR,590815002,608048,O-UCB,yes,yes,no,no,no
+ICIC,Zila Sahakari Bank Mau,ZSAX,ICIC00ZSMAU,272801103,607818,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Gorakhpur,ZSBG,ICIC00DCCBG,273072001,,DCCB,no,yes,no,no,no
+ZSBL,Zila Sahakari Bank Ghaziabad,ZSBL,ZSBL0000001,666666666,607332,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Bijnor,ZSBX,ICIC00BIJNR,246801000,607805,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Garhwal Kotdwar,ZSGX,ICIC00ZSKTW,246810802,607346,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Haridwar,ZSHX,ICIC00ZSBHA,247801102,607597,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Jhansi,ZSJX,ICIC00ZSBLJ,284802002,607869,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Kanpur,ZSKX,ICIC00KZSBL,208185270,607872,DCCB,no,yes,no,no,yes
+ICIC,Zila Sahakari Bank Lakhimpur Kheri,ZSLX,ICIC00KHIRI,262810702,607132,DCCB,no,yes,yes,no,yes
+ICIC,Zila Sahakari Bank Meerut,ZSMX,ICIC00MERUT,250802002,607819,DCCB,no,yes,yes,no,yes

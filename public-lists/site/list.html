@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Public Lists</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="list">
+<header class="top">
+  <a class="brand" href="index.html">Public Lists</a>
+  <nav><a href="index.html">← All lists</a></nav>
+</header>
+<main>
+  <h1 id="title">Loading…</h1>
+  <p class="lead" id="intro"></p>
+  <div class="info" id="info"></div>
+  <div id="error" class="notice" hidden></div>
+
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Search by name or code" aria-label="Search by name or code" autocomplete="off">
+    <div id="filters" style="display:contents"></div>
+    <button class="btn" id="clear" type="button">Clear</button>
+    <span class="count" id="count"></span>
+  </div>
+  <div class="toolbar">
+    <a class="btn primary" id="full-download" href="#">Download full CSV</a>
+    <button class="btn" id="dl-filtered" type="button">Download filtered rows</button>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead id="thead"></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <div class="pager">
+    <button class="btn" id="prev" type="button">← Previous</button>
+    <span id="pageinfo"></span>
+    <button class="btn" id="next" type="button">Next →</button>
+  </div>
+</main>
+<footer>Click a column heading to sort. Downloads open as CSV (UTF-8 with BOM, so Tamil text opens correctly in Excel).</footer>
+<script src="app.js"></script>
+</body>
+</html>

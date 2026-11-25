@@ -1,0 +1,120 @@
+{
+  "generated": "2026-11-25",
+  "datasets": [
+    {
+      "id": "bank_codes",
+      "title": "Bank codes (IFSC)",
+      "description": "IFSC bank codes (first 4 letters) with bank name, MICR and IIN, and payment support flags.",
+      "source": "Razorpay ifsc package 2.0.50 (bank list from RBI and NPCI public lists)",
+      "license": "MIT",
+      "rows": 1346,
+      "columns": [
+        "ifsc_prefix",
+        "bank_name",
+        "internal_code",
+        "sample_ifsc",
+        "micr_sample",
+        "iin",
+        "bank_type",
+        "upi",
+        "ach_credit",
+        "ach_debit",
+        "nach_debit",
+        "apbs"
+      ],
+      "file": "data/bank_codes.csv",
+      "code_column": "ifsc_prefix",
+      "name_column": "bank_name",
+      "search_columns": [
+        "ifsc_prefix",
+        "bank_name",
+        "sample_ifsc",
+        "micr_sample",
+        "internal_code"
+      ],
+      "filter_columns": [
+        "bank_type",
+        "upi"
+      ],
+      "group": "Banking"
+    },
+    {
+      "id": "districts",
+      "title": "Districts",
+      "description": "Districts of India with state and district LGD codes and number of pincodes.",
+      "source": "Derived from the pincode dataset (unique state, district and LGD codes)",
+      "license": "MIT (derived from the pincode dataset)",
+      "rows": 752,
+      "columns": [
+        "state",
+        "district",
+        "state_lgd",
+        "district_lgd",
+        "pincodes"
+      ],
+      "file": "data/districts.csv",
+      "code_column": "district_lgd",
+      "name_column": "district",
+      "search_columns": [
+        "district",
+        "state",
+        "district_lgd"
+      ],
+      "filter_columns": [
+        "state"
+      ],
+      "group": "Administrative"
+    },
+    {
+      "id": "pincodes",
+      "title": "Pincodes",
+      "description": "All India postal pincodes with state, district, blocks and LGD codes.",
+      "source": "India Post pincode directory, compiled in bilal-webdev/india-postal-pincode-dataset (GitHub)",
+      "license": "MIT",
+      "rows": 20144,
+      "columns": [
+        "pincode",
+        "state",
+        "district",
+        "blocks",
+        "state_lgd",
+        "district_lgd"
+      ],
+      "file": "data/pincodes.csv",
+      "code_column": "pincode",
+      "name_column": "district",
+      "search_columns": [
+        "pincode",
+        "district",
+        "blocks",
+        "state"
+      ],
+      "filter_columns": [
+        "state"
+      ],
+      "group": "Postal"
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "Village panchayats",
+      "group": "Local bodies",
+      "reason": "No public list reachable yet. Needs the LGD / Census village directory for Tamil Nadu."
+    },
+    {
+      "title": "Town panchayats",
+      "group": "Local bodies",
+      "reason": "No public list reachable yet. Needs the Tamil Nadu urban local body list."
+    },
+    {
+      "title": "Municipalities",
+      "group": "Local bodies",
+      "reason": "No public list reachable yet. Needs the Tamil Nadu urban local body list."
+    },
+    {
+      "title": "Corporations",
+      "group": "Local bodies",
+      "reason": "No public list reachable yet. Needs the Tamil Nadu urban local body list."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Public Lists · Districts, pincodes, bank codes</title>
+<meta name="description" content="Browse and download public lists: districts, pincodes and bank IFSC codes. Search by name or code.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="home">
+<header class="top">
+  <a class="brand" href="index.html">Public Lists</a>
+  <nav><a href="#lists">Lists</a><a href="#search">Search</a></nav>
+</header>
+<main>
+  <h1>Find districts, pincodes and bank codes</h1>
+  <p class="lead">Public reference lists you can search, filter and download as CSV. Type a name or a code below.</p>
+
+  <section id="search" aria-label="Search all lists">
+    <div class="search">
+      <input id="global-q" type="search" placeholder="Search: e.g. Coimbatore, 641001, HDFC, Chennai" aria-label="Search all lists" autocomplete="off">
+    </div>
+    <div id="results" class="results" aria-live="polite"></div>
+  </section>
+
+  <section id="lists" aria-label="Lists">
+    <h2>Lists</h2>
+    <div id="cards" class="grid"></div>
+    <div id="error" class="notice" hidden></div>
+  </section>
+
+  <div class="info">Data comes from public sources listed on each page. Check each list's license before reuse. Data may be older than the latest official update.</div>
+</main>
+<footer>Public Lists · built from public sources, no login needed.</footer>
+<script src="app.js"></script>
+</body>
+</html>
